@@ -1,247 +1,249 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/duongmagit/test/refs/heads/master/epgtt.xml"
-#EXTINF:-1 tvg-id="1" group-title="🔴 COLA TV",16:00 19/09 Kawasaki Frontale VS Kashima Antlers | BLV BÍ ĐAO
-https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 tvg-id="2" group-title="🔴 COLA TV",16:00 19/09 Đồng Tâm Long An VS Bac Ninh | BLV SPRITE
-https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="3" group-title="🔴 COLA TV",16:30 19/09 Urawa Reds VS Tokyo Verdy | BLV 247
-https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="4" group-title="🔴 COLA TV",16:30 19/09 V Varen Nagasaki VS Cerezo Osaka | BLV POCARI
-https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-id="5" group-title="🔴 COLA TV",17:00 19/09 FC Anyang VS CLB Ulsan Hyundai | BLV PEPSI
-https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="6" group-title="🔴 COLA TV",17:00 19/09 Đông Á Thanh Hóa VS Becamex Bình Dương | BLV WARRIOR
-https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="7" group-title="🔴 COLA TV",17:00 19/09 CLB Tokyo VS Nagoya Grampus | BLV FANTA
-https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="8" group-title="🔴 COLA TV",17:00 19/09 Khánh Hòa VS Đại học Văn Hiến | BLV Cozy
-https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="9" group-title="🔴 COLA TV",17:30 19/09 Yokohama F. Marinos VS Mito Hollyhock | BLV HỔ VẰN
-https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="10" group-title="🔴 COLA TV",18:00 19/09 CLB KSC VS Nurnberg | BLV ROCKSTAR
-https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="11" group-title="🔴 COLA TV",18:30 19/09 Tottenham Hotspur VS Aston Villa | BLV 7UP
+#EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
+#EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="🔴 COLA TV",18:30 19/09 Tottenham Hotspur VS Aston Villa | BLV 7UP
 https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="12" group-title="🔴 COLA TV",18:30 19/09 Tottenham Hotspur VS Aston Villa | BLV REVIVE
+#EXTINF:-1 tvg-id="2" tvg-logo="https://img.gvapi.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="🔴 COLA TV",18:30 19/09 Tottenham Hotspur VS Aston Villa | BLV REVIVE
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="13" group-title="🔴 COLA TV",18:30 19/09 Tottenham Hotspur VS Aston Villa | BLV C2
+#EXTINF:-1 tvg-id="3" tvg-logo="https://img.gvapi.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="🔴 COLA TV",18:30 19/09 Tottenham Hotspur VS Aston Villa | BLV C2
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="14" group-title="🔴 COLA TV",18:30 19/09 Tottenham Hotspur VS Aston Villa | BLV GIÀ LÀNG
+#EXTINF:-1 tvg-id="4" tvg-logo="https://img.gvapi.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80" group-title="🔴 COLA TV",18:30 19/09 Tottenham Hotspur VS Aston Villa | BLV GIÀ LÀNG
 https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="15" group-title="🔴 COLA TV",19:00 19/09 Osasuna VS Rayo Vallecano | BLV SODA
-https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="16" group-title="🔴 COLA TV",19:30 19/09 Hanoi buffalo VS Sài Gòn Heat | BLV POCARI
-https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-id="17" group-title="🔴 COLA TV",20:00 19/09 Udinese Calcio VS CLB Cagliari | BLV SAMURAI
-https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="18" group-title="🔴 COLA TV",20:00 19/09 Bologna F.C. 1909 VS Torino F.C. | BLV MOUNTAIN DEW
-https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="19" group-title="🔴 COLA TV",20:30 19/09 Hamburger SV VS 1. FC Köln | BLV AQUA
-https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="20" group-title="🔴 COLA TV",20:30 19/09 Borussia Mönchengladbach VS 1. FSV Mainz 05 | BLV PEPSI
-https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="21" group-title="🔴 COLA TV",20:30 19/09 Eintracht Frankfurt VS SC Freiburg | BLV FANTA
+#EXTINF:-1 tvg-id="5" tvg-logo="https://img.gvapi.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80" group-title="🔴 COLA TV",17:00 19/09 CLB Tokyo VS Nagoya Grampus | BLV FANTA
 https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="22" group-title="🔴 COLA TV",20:30 19/09 SV Werder Bremen VS FC Augsburg | BLV HỔ VẰN
+#EXTINF:-1 tvg-id="6" tvg-logo="https://img.gvapi.cc/football/team/6d4c74bfc709d561f3bed627af4218f3.png!w80" group-title="🔴 COLA TV",17:00 19/09 Khánh Hòa VS Đại học Văn Hiến | BLV Cozy
+https://live05.meung.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="https://img.gvapi.cc/football/team/78ddaaa79d9502f5e2df0fbb6261f937.png!w80" group-title="🔴 COLA TV",17:30 19/09 Yokohama F. Marinos VS Mito Hollyhock | BLV HỔ VẰN
 https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="23" group-title="🔴 COLA TV",21:00 19/09 Brighton & Hove Albion FC VS Arsenal | BLV REVIVE
+#EXTINF:-1 tvg-id="8" tvg-logo="https://img.gvapi.cc/football/team/1d2fde8b4cbd9adc503dc5351e24513d.png!w80" group-title="🔴 COLA TV",18:00 19/09 CLB KSC VS Nurnberg | BLV ROCKSTAR
+https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://img.gvapi.cc/football/team/c2050b940076df70b2ad0a6103c50df4.png!w80" group-title="🔴 COLA TV",19:00 19/09 Osasuna VS Rayo Vallecano | BLV SODA
+https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://img.gvapi.cc/basketball/team/36de6e50c9a54ca558d69ae01ded3ac8.png!w80" group-title="🔴 COLA TV",19:30 19/09 Hanoi buffalo VS Sài Gòn Heat | BLV POCARI
+https://live05.meung.app/live/19919577_tsc.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://img.gvapi.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80" group-title="🔴 COLA TV",20:00 19/09 Udinese Calcio VS CLB Cagliari | BLV SAMURAI
+https://live05.meung.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://img.gvapi.cc/football/team/c31f023a2cc8adbcc3e24344d81b9609.png!w80" group-title="🔴 COLA TV",20:00 19/09 Bologna F.C. 1909 VS Torino F.C. | BLV MOUNTAIN DEW
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="https://img.gvapi.cc/football/team/81f8f9e258e6b73bc522bab06730720a.png!w80" group-title="🔴 COLA TV",20:30 19/09 Hamburger SV VS 1. FC Köln | BLV AQUA
+https://live05.meung.app/live/18812304_tsc.m3u8
+#EXTINF:-1 tvg-id="14" tvg-logo="https://img.gvapi.cc/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png!w80" group-title="🔴 COLA TV",20:30 19/09 Borussia Mönchengladbach VS 1. FSV Mainz 05 | BLV PEPSI
+https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="https://img.gvapi.cc/football/team/fe636189a2f3db78d0554c34f0bdaae6.png!w80" group-title="🔴 COLA TV",20:30 19/09 Eintracht Frankfurt VS SC Freiburg | BLV FANTA
+https://live05.meung.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="https://img.gvapi.cc/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80" group-title="🔴 COLA TV",20:30 19/09 SV Werder Bremen VS FC Augsburg | BLV HỔ VẰN
+https://live05.meung.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80" group-title="🔴 COLA TV",21:00 19/09 Brighton & Hove Albion FC VS Arsenal | BLV REVIVE
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="24" group-title="🔴 COLA TV",21:00 19/09 Brighton & Hove Albion FC VS Arsenal | BLV C2
+#EXTINF:-1 tvg-id="18" tvg-logo="https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80" group-title="🔴 COLA TV",21:00 19/09 Brighton & Hove Albion FC VS Arsenal | BLV C2
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="25" group-title="🔴 COLA TV",21:00 19/09 Brighton & Hove Albion FC VS Arsenal | BLV GIÀ LÀNG
+#EXTINF:-1 tvg-id="19" tvg-logo="https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80" group-title="🔴 COLA TV",21:00 19/09 Brighton & Hove Albion FC VS Arsenal | BLV GIÀ LÀNG
 https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="26" group-title="🔴 COLA TV",21:00 19/09 Newcastle United VS Hull City | BLV 7UP
+#EXTINF:-1 tvg-id="20" tvg-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="🔴 COLA TV",21:00 19/09 Newcastle United VS Hull City | BLV 7UP
 https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="27" group-title="🔴 COLA TV",21:00 19/09 Newcastle United VS Hull City | BLV SPRITE
+#EXTINF:-1 tvg-id="21" tvg-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="🔴 COLA TV",21:00 19/09 Newcastle United VS Hull City | BLV SPRITE
 https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="28" group-title="🔴 COLA TV",21:00 19/09 Newcastle United VS Hull City | BLV STING
+#EXTINF:-1 tvg-id="22" tvg-logo="https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80" group-title="🔴 COLA TV",21:00 19/09 Newcastle United VS Hull City | BLV STING
 https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="29" group-title="🔴 COLA TV",21:00 19/09 Everton VS CLB Ipswich Town | BLV 247
+#EXTINF:-1 tvg-id="23" tvg-logo="https://img.gvapi.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" group-title="🔴 COLA TV",21:00 19/09 Everton VS CLB Ipswich Town | BLV 247
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="30" group-title="🔴 COLA TV",21:00 19/09 Everton VS CLB Ipswich Town | BLV Cozy
+#EXTINF:-1 tvg-id="24" tvg-logo="https://img.gvapi.cc/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80" group-title="🔴 COLA TV",21:00 19/09 Everton VS CLB Ipswich Town | BLV Cozy
 https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="31" group-title="🔴 COLA TV",21:15 19/09 Athletic Bilbao VS Alaves | BLV ROCKSTAR
+#EXTINF:-1 tvg-id="25" tvg-logo="https://img.gvapi.cc/football/team/abbb31d42c55612737713aac6567a226.png!w80" group-title="🔴 COLA TV",21:15 19/09 Athletic Bilbao VS Alaves | BLV ROCKSTAR
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="32" group-title="🔴 COLA TV",22:15 19/09 Paris FC VS RC Strasbourg | BLV MOUNTAIN DEW
+#EXTINF:-1 tvg-id="26" tvg-logo="https://img.gvapi.cc/football/team/83a982f8219a768e7cd29d1ac765b199.png!w80" group-title="🔴 COLA TV",22:15 19/09 Paris FC VS RC Strasbourg | BLV MOUNTAIN DEW
 https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="33" group-title="🔴 COLA TV",23:00 19/09 A.S. Roma VS Inter Milan | BLV WARRIOR
+#EXTINF:-1 tvg-id="27" tvg-logo="https://img.gvapi.cc/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png!w80" group-title="🔴 COLA TV",23:00 19/09 A.S. Roma VS Inter Milan | BLV WARRIOR
 https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="34" group-title="🔴 COLA TV",23:00 19/09 A.S. Roma VS Inter Milan | BLV SODA
+#EXTINF:-1 tvg-id="28" tvg-logo="https://img.gvapi.cc/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png!w80" group-title="🔴 COLA TV",23:00 19/09 A.S. Roma VS Inter Milan | BLV SODA
 https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="35" group-title="🔴 COLA TV",23:30 19/09 VfB Stuttgart VS Borussia Dortmund | BLV MONSTER
+#EXTINF:-1 tvg-id="29" tvg-logo="https://img.gvapi.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80" group-title="🔴 COLA TV",23:30 19/09 VfB Stuttgart VS Borussia Dortmund | BLV MONSTER
 https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="36" group-title="🔴 COLA TV",23:30 19/09 Celta Vigo VS CLB Racing Santander | BLV STING
+#EXTINF:-1 tvg-id="30" tvg-logo="https://img.gvapi.cc/football/team/fd954d083ee85a6f1a3f2471dc756242.png!w80" group-title="🔴 COLA TV",23:30 19/09 Celta Vigo VS CLB Racing Santander | BLV STING
 https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="37" group-title="🔴 COLA TV",23:30 19/09 Câu lạc bộ Bóng đá Nottingham Forest VS CLB Coventry City | BLV 7UP
+#EXTINF:-1 tvg-id="31" tvg-logo="https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="🔴 COLA TV",23:30 19/09 Câu lạc bộ Bóng đá Nottingham Forest VS CLB Coventry City | BLV 7UP
 https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="38" group-title="🔴 COLA TV",23:30 19/09 Câu lạc bộ Bóng đá Nottingham Forest VS CLB Coventry City | BLV REVIVE
+#EXTINF:-1 tvg-id="32" tvg-logo="https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="🔴 COLA TV",23:30 19/09 Câu lạc bộ Bóng đá Nottingham Forest VS CLB Coventry City | BLV REVIVE
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="39" group-title="🔴 COLA TV",23:30 19/09 Câu lạc bộ Bóng đá Nottingham Forest VS CLB Coventry City | BLV C2
+#EXTINF:-1 tvg-id="33" tvg-logo="https://img.gvapi.cc/football/team/62572999d107f777efa4aeb907443527.png!w80" group-title="🔴 COLA TV",23:30 19/09 Câu lạc bộ Bóng đá Nottingham Forest VS CLB Coventry City | BLV C2
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="40" group-title="🔴 COLA TV",00:00 20/09 Alverca VS Rio Ave | BLV FANTA
+#EXTINF:-1 tvg-id="34" tvg-logo="https://img.gvapi.cc/football/team/ff35a6067c000b629b84e648d8a2d2de.png!w80" group-title="🔴 COLA TV",00:00 20/09 Alverca VS Rio Ave | BLV FANTA
 https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="41" group-title="🔴 COLA TV",00:00 20/09 CLB Trabzonspor VS Galatasaray | BLV AQUA
+#EXTINF:-1 tvg-id="35" tvg-logo="https://img.gvapi.cc/football/team/9dc9c8f928d5cafdc90a747fe0439c2d.png!w80" group-title="🔴 COLA TV",00:00 20/09 CLB Trabzonspor VS Galatasaray | BLV AQUA
 https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="42" group-title="🔴 COLA TV",01:00 20/09 Câu lạc bộ AFC Ajax VS Excelsior | BLV HỔ VẰN
+#EXTINF:-1 tvg-id="36" tvg-logo="https://img.gvapi.cc/football/team/187929503752357480bce47813a9741f.png!w80" group-title="🔴 COLA TV",01:00 20/09 Câu lạc bộ AFC Ajax VS Excelsior | BLV HỔ VẰN
 https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="43" group-title="🔴 COLA TV",01:45 20/09 CLB Venezia VS S.S. Lazio | BLV SODA
+#EXTINF:-1 tvg-id="37" tvg-logo="https://img.gvapi.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80" group-title="🔴 COLA TV",01:45 20/09 CLB Venezia VS S.S. Lazio | BLV SODA
 https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="44" group-title="🔴 COLA TV",01:45 20/09 Angers SCO VS Troyes AC | BLV 247
+#EXTINF:-1 tvg-id="38" tvg-logo="https://img.gvapi.cc/football/team/526150064f4f983d670deb33fa6385b6.png!w80" group-title="🔴 COLA TV",01:45 20/09 Angers SCO VS Troyes AC | BLV 247
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="45" group-title="🔴 COLA TV",01:45 20/09 Le Mans VS FC Lorient | BLV MONSTER
+#EXTINF:-1 tvg-id="39" tvg-logo="https://img.gvapi.cc/football/team/5de17e3d35ef312559baf1f8c0b0b585.png!w80" group-title="🔴 COLA TV",01:45 20/09 Le Mans VS FC Lorient | BLV MONSTER
 https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="46" group-title="🔴 COLA TV",01:45 20/09 Olympique Lyonnais VS Stade Rennais | BLV PEPSI
+#EXTINF:-1 tvg-id="40" tvg-logo="https://img.gvapi.cc/football/team/92fb3cf79ea2ba919b94b04668e13491.png!w80" group-title="🔴 COLA TV",01:45 20/09 Olympique Lyonnais VS Stade Rennais | BLV PEPSI
 https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="47" group-title="🔴 COLA TV",01:45 20/09 Toulouse FC VS Le Havre | BLV STING
+#EXTINF:-1 tvg-id="41" tvg-logo="https://img.gvapi.cc/football/team/2947fe2f42551a5b7eccca7fc948f879.png!w80" group-title="🔴 COLA TV",01:45 20/09 Toulouse FC VS Le Havre | BLV STING
 https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="48" group-title="🔴 COLA TV",02:00 20/09 Sevilla FC VS FC Barcelona | BLV 7UP
+#EXTINF:-1 tvg-id="42" tvg-logo="https://img.gvapi.cc/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png!w80" group-title="🔴 COLA TV",02:00 20/09 Sevilla FC VS FC Barcelona | BLV 7UP
 https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="49" group-title="🔴 COLA TV",02:00 20/09 Sevilla FC VS FC Barcelona | BLV REVIVE
+#EXTINF:-1 tvg-id="43" tvg-logo="https://img.gvapi.cc/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png!w80" group-title="🔴 COLA TV",02:00 20/09 Sevilla FC VS FC Barcelona | BLV REVIVE
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="50" group-title="🔴 COLA TV",02:00 20/09 Sevilla FC VS FC Barcelona | BLV C2
+#EXTINF:-1 tvg-id="44" tvg-logo="https://img.gvapi.cc/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png!w80" group-title="🔴 COLA TV",02:00 20/09 Sevilla FC VS FC Barcelona | BLV C2
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="51" group-title="🔴 COLA TV",02:30 20/09 Sporting VS Arouca | BLV BÍ ĐAO
+#EXTINF:-1 tvg-id="45" tvg-logo="https://img.gvapi.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80" group-title="🔴 COLA TV",02:30 20/09 Sporting VS Arouca | BLV BÍ ĐAO
 https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 tvg-id="52" group-title="🔴 COLA TV",04:30 20/09 Remo Belem (PA) VS CLB Santos | BLV BÍ ĐAO
+#EXTINF:-1 tvg-id="46" tvg-logo="https://img.gvapi.cc/football/team/fb9a4cf4290646122b3afe17bd914737.png!w80" group-title="🔴 COLA TV",04:30 20/09 Remo Belem (PA) VS CLB Santos | BLV BÍ ĐAO
 https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 tvg-id="53" group-title="🔴 COLA TV",05:00 20/09 River Plate VS Huracan | BLV SAMURAI
+#EXTINF:-1 tvg-id="47" tvg-logo="https://img.gvapi.cc/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png!w80" group-title="🔴 COLA TV",05:00 20/09 River Plate VS Huracan | BLV SAMURAI
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="54" group-title="🔴 COLA TV",06:00 20/09 Atlas VS U.N.A.M.- Pumas | BLV ROCKSTAR
+#EXTINF:-1 tvg-id="48" tvg-logo="https://img.gvapi.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80" group-title="🔴 COLA TV",06:00 20/09 Atlas VS U.N.A.M.- Pumas | BLV ROCKSTAR
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="55" group-title="🔴 COLA TV",06:00 20/09 Atletico San Luis VS Necaxa | BLV SPRITE
+#EXTINF:-1 tvg-id="49" tvg-logo="https://img.gvapi.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80" group-title="🔴 COLA TV",06:00 20/09 Atletico San Luis VS Necaxa | BLV SPRITE
 https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="56" group-title="🔴 COLA TV",06:00 20/09 Atlanta Dream VS Chicago Sky | BLV POCARI
+#EXTINF:-1 tvg-id="50" tvg-logo="https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80" group-title="🔴 COLA TV",06:00 20/09 Atlanta Dream VS Chicago Sky | BLV POCARI
 https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-id="57" group-title="🔴 COLA TV",06:30 20/09 San Jose Earthquakes VS Los Angeles FC | BLV MOUNTAIN DEW
+#EXTINF:-1 tvg-id="51" tvg-logo="https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80" group-title="🔴 COLA TV",06:30 20/09 San Jose Earthquakes VS Los Angeles FC | BLV MOUNTAIN DEW
 https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="58" group-title="🔴 COLA TV",06:30 20/09 CLB New England Revolution VS Orlando City | BLV Cozy
+#EXTINF:-1 tvg-id="52" tvg-logo="https://img.gvapi.cc/football/team/f1b7c49790e05778f194ed436515b240.png!w80" group-title="🔴 COLA TV",06:30 20/09 CLB New England Revolution VS Orlando City | BLV Cozy
 https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="59" group-title="🔴 COLA TV",06:30 20/09 Vasco VS Coritiba | BLV WARRIOR
+#EXTINF:-1 tvg-id="53" tvg-logo="https://img.gvapi.cc/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png!w80" group-title="🔴 COLA TV",06:30 20/09 Vasco VS Coritiba | BLV WARRIOR
 https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="60" group-title="🔴 COLA TV",07:15 20/09 Instituto VS Talleres Cordoba | BLV SAMURAI
+#EXTINF:-1 tvg-id="54" tvg-logo="https://img.gvapi.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80" group-title="🔴 COLA TV",07:15 20/09 Instituto VS Talleres Cordoba | BLV SAMURAI
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="61" group-title="🔴 COLA TV",07:30 20/09 Houston Dynamo VS CLB Cincinnati | BLV FANTA
+#EXTINF:-1 tvg-id="55" tvg-logo="https://img.gvapi.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80" group-title="🔴 COLA TV",07:30 20/09 Houston Dynamo VS CLB Cincinnati | BLV FANTA
 https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="62" group-title="🔴 COLA TV",07:30 20/09 CLB Dallas VS Austin FC | BLV AQUA
+#EXTINF:-1 tvg-id="56" tvg-logo="https://img.gvapi.cc/football/team/e829da6b3050ec03f3c8715690ec39c4.png!w80" group-title="🔴 COLA TV",07:30 20/09 CLB Dallas VS Austin FC | BLV AQUA
 https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="63" group-title="🔴 COLA TV",08:00 20/09 Golden State Valkyries VS Seattle Storm | BLV ROCKSTAR
+#EXTINF:-1 tvg-id="57" tvg-logo="https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80" group-title="🔴 COLA TV",08:00 20/09 Golden State Valkyries VS Seattle Storm | BLV ROCKSTAR
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="64" group-title="🔴 COLA TV",08:10 20/09 Monterrey VS Cruz Azul | BLV SPRITE
+#EXTINF:-1 tvg-id="58" tvg-logo="https://img.gvapi.cc/football/team/5c3f819a35454f424d85df5757650f8b.png!w80" group-title="🔴 COLA TV",08:10 20/09 Monterrey VS Cruz Azul | BLV SPRITE
 https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="65" group-title="🔴 COLA TV",08:30 20/09 CLB Nashville VS CLB Chicago Fire | BLV POCARI
+#EXTINF:-1 tvg-id="59" tvg-logo="https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80" group-title="🔴 COLA TV",08:30 20/09 CLB Nashville VS CLB Chicago Fire | BLV POCARI
 https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-id="66" group-title="🔴 COLA TV",08:30 20/09 Real Salt Lake VS Vancouver Whitecaps | BLV MOUNTAIN DEW
+#EXTINF:-1 tvg-id="60" tvg-logo="https://img.gvapi.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80" group-title="🔴 COLA TV",08:30 20/09 Real Salt Lake VS Vancouver Whitecaps | BLV MOUNTAIN DEW
 https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="67" group-title="🔴 COLA TV",09:30 20/09 Portland Timbers VS Atlanta Utd | BLV HỔ VẰN
+#EXTINF:-1 tvg-id="61" tvg-logo="https://img.gvapi.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80" group-title="🔴 COLA TV",09:30 20/09 Portland Timbers VS Atlanta Utd | BLV HỔ VẰN
 https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="68" group-title="🔴 COLA TV",10:15 20/09 Club America VS Chivas Guadalajara | BLV GIÀ LÀNG
+#EXTINF:-1 tvg-id="62" tvg-logo="https://img.gvapi.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80" group-title="🔴 COLA TV",10:15 20/09 Club America VS Chivas Guadalajara | BLV GIÀ LÀNG
 https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="69" group-title="🔴 COLA TV",12:00 20/09 New Zealand Breakers VS Illawarra Hawks | BLV 247
+#EXTINF:-1 tvg-id="63" tvg-logo="https://img.gvapi.cc/basketball/team/n4e20cb4a61519f6a810b6b307ff8b574.png!w80" group-title="🔴 COLA TV",12:00 20/09 New Zealand Breakers VS Illawarra Hawks | BLV 247
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="70" group-title="🔴 COLA TV",12:00 20/09 Iran U23 VS Trung Quốc U23 | BLV MONSTER
+#EXTINF:-1 tvg-id="64" tvg-logo="https://img.gvapi.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80" group-title="🔴 COLA TV",12:00 20/09 Iran U23 VS Trung Quốc U23 | BLV MONSTER
 https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="71" group-title="🔴 COLA TV",14:00 20/09 Hồng Kông U23 VS Thái Lan U23 | BLV C2
+#EXTINF:-1 tvg-id="65" tvg-logo="https://img.gvapi.cc/football/team/4ea0b8f9db593ba95bda607083a73944.png!w80" group-title="🔴 COLA TV",14:00 20/09 Hồng Kông U23 VS Thái Lan U23 | BLV C2
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="72" group-title="🔴 COLA TV",14:00 20/09 Sydney VS Cairns Taipans | BLV Cozy
+#EXTINF:-1 tvg-id="66" tvg-logo="https://img.gvapi.cc/basketball/team/eba4bbba15054de591179e0001ab718b.png!w80" group-title="🔴 COLA TV",14:00 20/09 Sydney VS Cairns Taipans | BLV Cozy
 https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="73" group-title="🔴 COLA TV",14:30 20/09 Gangwon VS Jeju Utd | BLV WARRIOR
+#EXTINF:-1 tvg-id="67" tvg-logo="https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="🔴 COLA TV",14:30 20/09 Gangwon VS Jeju Utd | BLV WARRIOR
 https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="74" group-title="🔴 COLA TV",14:30 20/09 CLB Jeonbuk Hyundai Motors VS Gwangju FC | BLV 7UP
-https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="75" group-title="🔴 COLA TV",15:00 20/09 Gamba Osaka VS Vissel Kobe | BLV GIÀ LÀNG
+#EXTINF:-1 tvg-id="68" tvg-logo="https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80" group-title="🔴 COLA TV",14:30 20/09 CLB Jeonbuk Hyundai Motors VS Gwangju FC | BLV MOUNTAIN DEW
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-id="69" tvg-logo="https://img.gvapi.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80" group-title="🔴 COLA TV",15:00 20/09 Gamba Osaka VS Vissel Kobe | BLV GIÀ LÀNG
 https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="76" group-title="🔴 COLA TV",15:00 20/09 Machida VS Kashiwa Reysol | BLV SAMURAI
+#EXTINF:-1 tvg-id="70" tvg-logo="https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80" group-title="🔴 COLA TV",15:00 20/09 Machida VS Kashiwa Reysol | BLV SAMURAI
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="77" group-title="🔴 COLA TV",15:30 20/09 Dewa United FC VS CLB PSS Sleman | BLV PEPSI
+#EXTINF:-1 tvg-id="71" tvg-logo="https://img.gvapi.cc/football/team/76db1148a0e8a7c8e98ab05814cab691.png!w80" group-title="🔴 COLA TV",15:30 20/09 Dewa United FC VS CLB PSS Sleman | BLV PEPSI
 https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="78" group-title="🔴 COLA TV",15:30 20/09 Pusamania Borneo FC VS Bali United | BLV POCARI
+#EXTINF:-1 tvg-id="72" tvg-logo="https://img.gvapi.cc/football/team/5a0893c2c8fbdbbf734c07c71c8025b4.png!w80" group-title="🔴 COLA TV",15:30 20/09 Pusamania Borneo FC VS Bali United | BLV POCARI
 https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-id="79" group-title="🔴 COLA TV",17:00 20/09 Incheon United VS Daejeon | BLV AQUA
+#EXTINF:-1 tvg-id="73" tvg-logo="https://img.gvapi.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80" group-title="🔴 COLA TV",17:00 20/09 Incheon United VS Daejeon | BLV AQUA
 https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="80" group-title="🔴 COLA TV",17:00 20/09 CLB Pohang Steelers VS CLB Seoul | BLV HỔ VẰN
+#EXTINF:-1 tvg-id="74" tvg-logo="https://img.gvapi.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80" group-title="🔴 COLA TV",17:00 20/09 CLB Pohang Steelers VS CLB Seoul | BLV HỔ VẰN
 https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="81" group-title="🔴 COLA TV",17:00 20/09 Triều Tiên U23 VS United Arab Emirates U23 | BLV SODA
+#EXTINF:-1 tvg-id="75" tvg-logo="https://img.gvapi.cc/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80" group-title="🔴 COLA TV",17:00 20/09 Triều Tiên U23 VS United Arab Emirates U23 | BLV SODA
 https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="82" group-title="🔴 COLA TV",17:00 20/09 Hoàng Anh Gia Lai VS Hung Yen | BLV Cozy
+#EXTINF:-1 tvg-id="76" tvg-logo="https://img.gvapi.cc/football/team/df2ae58b9e658494b940b0bd782901b8.png!w80" group-title="🔴 COLA TV",17:00 20/09 Hoàng Anh Gia Lai VS Hung Yen | BLV Cozy
 https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="83" group-title="🔴 COLA TV",17:30 20/09 Kyrgyzstan U23 VS Nhật Bản U23 | BLV REVIVE
+#EXTINF:-1 tvg-id="77" tvg-logo="https://img.gvapi.cc/football/team/2053816a7f21edb8c302ed31b0bafa1f.png!w80" group-title="🔴 COLA TV",17:30 20/09 Kyrgyzstan U23 VS Nhật Bản U23 | BLV REVIVE
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="84" group-title="🔴 COLA TV",17:30 20/09 ACF Fiorentina VS S.S.C. Napoli | BLV SPRITE
+#EXTINF:-1 tvg-id="78" tvg-logo="https://img.gvapi.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80" group-title="🔴 COLA TV",17:30 20/09 ACF Fiorentina VS S.S.C. Napoli | BLV SPRITE
 https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="85" group-title="🔴 COLA TV",17:40 20/09 Nhật Bản VS Hàn Quốc | BLV 247
+#EXTINF:-1 tvg-id="79" tvg-logo="https://img.gvapi.cc/basketball/team/174ead45f85e0d25654016139877b60d.png!w80" group-title="🔴 COLA TV",17:40 20/09 Nhật Bản VS Hàn Quốc | BLV 247
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="86" group-title="🔴 COLA TV",18:00 20/09 Gia Dinh VS Hồng Lĩnh Hà Tĩnh | BLV FANTA
+#EXTINF:-1 tvg-id="80" tvg-logo="https://img.gvapi.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80" group-title="🔴 COLA TV",18:00 20/09 Gia Dinh VS Hồng Lĩnh Hà Tĩnh | BLV FANTA
 https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="87" group-title="🔴 COLA TV",18:00 20/09 CLB XM Hai Phong VS Than Quảng Ninh | BLV PEPSI
+#EXTINF:-1 tvg-id="81" tvg-logo="https://img.gvapi.cc/football/team/fed18f35e0d187fb4c812f24a97c3e6a.png!w80" group-title="🔴 COLA TV",18:00 20/09 CLB XM Hai Phong VS Than Quảng Ninh | BLV PEPSI
 https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="88" group-title="🔴 COLA TV",18:00 20/09 Bình Phước VS Cong An Ha Noi FC | BLV ROCKSTAR
+#EXTINF:-1 tvg-id="82" tvg-logo="https://img.gvapi.cc/football/team/a9741c7972e214b1c312092c8b51acd8.png!w80" group-title="🔴 COLA TV",18:00 20/09 Bình Phước VS Cong An Ha Noi FC | BLV ROCKSTAR
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="89" group-title="🔴 COLA TV",18:00 20/09 Wolverhampton Wanderers VS West Bromwich | BLV MOUNTAIN DEW
+#EXTINF:-1 tvg-id="83" tvg-logo="https://img.gvapi.cc/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80" group-title="🔴 COLA TV",18:00 20/09 Wolverhampton Wanderers VS West Bromwich | BLV MOUNTAIN DEW
 https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="90" group-title="🔴 COLA TV",18:30 20/09 CLB Bielefeld VS Heidenheimer | BLV MONSTER
+#EXTINF:-1 tvg-id="84" tvg-logo="https://img.gvapi.cc/football/team/8739d9ef9a67d757cc8ef67d12c58f62.png!w80" group-title="🔴 COLA TV",18:30 20/09 CLB Bielefeld VS Heidenheimer | BLV MONSTER
 https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="91" group-title="🔴 COLA TV",19:00 20/09 Getafe CF VS Malaga | BLV WARRIOR
+#EXTINF:-1 tvg-id="85" tvg-logo="https://img.gvapi.cc/football/team/36bf5bf0c8fdf08c1270124808f060e1.png!w80" group-title="🔴 COLA TV",19:00 20/09 Getafe CF VS Malaga | BLV WARRIOR
 https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="92" group-title="🔴 COLA TV",19:15 20/09 Hà Nội VS SHB Đà Nẵng | BLV SAMURAI
+#EXTINF:-1 tvg-id="86" tvg-logo="https://img.gvapi.cc/football/team/7146224d9ef4e5d2eb712b4e71bdfaa4.png!w80" group-title="🔴 COLA TV",19:15 20/09 Hà Nội VS SHB Đà Nẵng | BLV SAMURAI
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="93" group-title="🔴 COLA TV",20:00 20/09 CLB Parma VS CLB Genoa | BLV AQUA
+#EXTINF:-1 tvg-id="87" tvg-logo="https://img.gvapi.cc/football/team/9fadd87d190982c8082dddf1567e0b9b.png!w80" group-title="🔴 COLA TV",20:00 20/09 CLB Parma VS CLB Genoa | BLV AQUA
 https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="94" group-title="🔴 COLA TV",20:00 20/09 CLB Leeds United VS Crystal Palace | BLV 247
+#EXTINF:-1 tvg-id="88" tvg-logo="https://img.gvapi.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="🔴 COLA TV",20:00 20/09 CLB Leeds United VS Crystal Palace | BLV 247
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="95" group-title="🔴 COLA TV",20:00 20/09 CLB Leeds United VS Crystal Palace | BLV STING
+#EXTINF:-1 tvg-id="89" tvg-logo="https://img.gvapi.cc/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80" group-title="🔴 COLA TV",20:00 20/09 CLB Leeds United VS Crystal Palace | BLV STING
 https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="96" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá thành phố Manchester  VS Sunderland | BLV C2
+#EXTINF:-1 tvg-id="90" tvg-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá thành phố Manchester  VS Sunderland | BLV C2
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="97" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá thành phố Manchester  VS Sunderland | BLV Cozy
+#EXTINF:-1 tvg-id="91" tvg-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá thành phố Manchester  VS Sunderland | BLV Cozy
 https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="98" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá thành phố Manchester  VS Sunderland | BLV GIÀ LÀNG
+#EXTINF:-1 tvg-id="92" tvg-logo="https://img.gvapi.cc/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w80" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá thành phố Manchester  VS Sunderland | BLV GIÀ LÀNG
 https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="99" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá Bournemouth VS Liverpool | BLV SPRITE
+#EXTINF:-1 tvg-id="93" tvg-logo="https://img.gvapi.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá Bournemouth VS Liverpool | BLV SPRITE
 https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="100" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá Bournemouth VS Liverpool | BLV REVIVE
+#EXTINF:-1 tvg-id="94" tvg-logo="https://img.gvapi.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá Bournemouth VS Liverpool | BLV REVIVE
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="101" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá Bournemouth VS Liverpool | BLV ROCKSTAR
+#EXTINF:-1 tvg-id="95" tvg-logo="https://img.gvapi.cc/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80" group-title="🔴 COLA TV",20:00 20/09 Câu lạc bộ bóng đá Bournemouth VS Liverpool | BLV ROCKSTAR
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="102" group-title="🔴 COLA TV",20:00 20/09 AJ Auxerre VS Stade Brestois 29 | BLV HỔ VẰN
+#EXTINF:-1 tvg-id="96" tvg-logo="https://img.gvapi.cc/football/team/8c03e57af9e8bec20a3ed2f5aaddf78b.png!w80" group-title="🔴 COLA TV",20:00 20/09 AJ Auxerre VS Stade Brestois 29 | BLV HỔ VẰN
 https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="103" group-title="🔴 COLA TV",20:00 20/09 Frosinone VS Calcio Como | BLV POCARI
+#EXTINF:-1 tvg-id="97" tvg-logo="https://img.gvapi.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80" group-title="🔴 COLA TV",20:00 20/09 Frosinone VS Calcio Como | BLV POCARI
 https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-id="104" group-title="🔴 COLA TV",20:30 20/09 Bayer 04 Leverkusen VS RB Leipzig | BLV FANTA
+#EXTINF:-1 tvg-id="98" tvg-logo="https://img.gvapi.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80" group-title="🔴 COLA TV",20:30 20/09 Bayer 04 Leverkusen VS RB Leipzig | BLV FANTA
 https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="105" group-title="🔴 COLA TV",21:15 20/09 Atlético Madrid VS Real Madrid CF | BLV SODA
+#EXTINF:-1 tvg-id="99" tvg-logo="https://img.gvapi.cc/football/team/390977b0421bce136c562057ea171ecf.png!w80" group-title="🔴 COLA TV",21:15 20/09 Atlético Madrid VS Real Madrid CF | BLV SODA
 https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="106" group-title="🔴 COLA TV",21:15 20/09 Atlético Madrid VS Real Madrid CF | BLV WARRIOR
+#EXTINF:-1 tvg-id="100" tvg-logo="https://img.gvapi.cc/football/team/390977b0421bce136c562057ea171ecf.png!w80" group-title="🔴 COLA TV",21:15 20/09 Atlético Madrid VS Real Madrid CF | BLV WARRIOR
 https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="107" group-title="🔴 COLA TV",22:15 20/09 OGC Nice VS Lille OSC | BLV PEPSI
+#EXTINF:-1 tvg-id="101" tvg-logo="https://img.gvapi.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80" group-title="🔴 COLA TV",22:15 20/09 OGC Nice VS Lille OSC | BLV PEPSI
 https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="108" group-title="🔴 COLA TV",22:30 20/09 Câu lạc bộ bóng đá Fulham VS Manchester United | BLV REVIVE
+#EXTINF:-1 tvg-id="102" tvg-logo="https://img.gvapi.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="🔴 COLA TV",22:30 20/09 Câu lạc bộ bóng đá Fulham VS Manchester United | BLV REVIVE
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="109" group-title="🔴 COLA TV",22:30 20/09 Câu lạc bộ bóng đá Fulham VS Manchester United | BLV C2
-https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="110" group-title="🔴 COLA TV",22:30 20/09 FC Schalke 04 VS CLB Elversberg | BLV MOUNTAIN DEW
-https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="111" group-title="🔴 COLA TV",23:00 20/09 Juventus F.C. VS Atalanta B.C. | BLV 247
+#EXTINF:-1 tvg-id="103" tvg-logo="https://img.gvapi.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="🔴 COLA TV",22:30 20/09 Câu lạc bộ bóng đá Fulham VS Manchester United | BLV 247
 https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="112" group-title="🔴 COLA TV",23:00 20/09 Juventus F.C. VS Atalanta B.C. | BLV STING
-https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="113" group-title="🔴 COLA TV",23:30 20/09 Dep. La Coruna VS Real Betis Balompié | BLV MONSTER
-https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="114" group-title="🔴 COLA TV",23:30 20/09 Câu lạc bộ bóng đá Villarreal VS CLB Levante | BLV SODA
-https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="115" group-title="🔴 COLA TV",00:00 21/09 Santa Clara VS Braga | BLV BÍ ĐAO
-https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 tvg-id="116" group-title="🔴 COLA TV",00:30 21/09 Paderborn VS TSG 1899 Hoffenheim | BLV FANTA
-https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="117" group-title="🔴 COLA TV",01:45 21/09 AC Milan VS U.S. Lecce | BLV C2
+#EXTINF:-1 tvg-id="104" tvg-logo="https://img.gvapi.cc/football/team/29982511f1ea861967c3e6478d6a8a68.png!w80" group-title="🔴 COLA TV",22:30 20/09 Câu lạc bộ bóng đá Fulham VS Manchester United | BLV C2
 https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="118" group-title="🔴 COLA TV",01:45 21/09 AC Milan VS U.S. Lecce | BLV SODA
-https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="119" group-title="🔴 COLA TV",01:45 21/09 Olympique de Marseille VS Paris Saint-Germain | BLV REVIVE
-https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="120" group-title="🔴 COLA TV",01:45 21/09 Olympique de Marseille VS Paris Saint-Germain | BLV GIÀ LÀNG
-https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="121" group-title="🔴 COLA TV",02:00 21/09 Valencia CF VS Real Sociedad | BLV STING
+#EXTINF:-1 tvg-id="105" tvg-logo="https://img.gvapi.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80" group-title="🔴 COLA TV",22:30 20/09 FC Schalke 04 VS CLB Elversberg | BLV MOUNTAIN DEW
+https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-id="106" tvg-logo="https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80" group-title="🔴 COLA TV",23:00 20/09 Juventus F.C. VS Atalanta B.C. | BLV STING
 https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="122" group-title="🔴 COLA TV",02:30 21/09 Porto VS Benfica | BLV BÍ ĐAO
+#EXTINF:-1 tvg-id="107" tvg-logo="https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80" group-title="🔴 COLA TV",23:00 20/09 Juventus F.C. VS Atalanta B.C. | BLV Cozy
+https://live05.meung.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-id="108" tvg-logo="https://img.gvapi.cc/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png!w80" group-title="🔴 COLA TV",23:30 20/09 Dep. La Coruna VS Real Betis Balompié | BLV MONSTER
+https://live05.meung.app/live/75915087_tsc.m3u8
+#EXTINF:-1 tvg-id="109" tvg-logo="https://img.gvapi.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80" group-title="🔴 COLA TV",23:30 20/09 Câu lạc bộ bóng đá Villarreal VS CLB Levante | BLV SODA
+https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-id="110" tvg-logo="https://img.gvapi.cc/football/team/0c5162e7f8371cb6972ca6413bf228e8.png!w80" group-title="🔴 COLA TV",00:00 21/09 Santa Clara VS Braga | BLV BÍ ĐAO
 https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 tvg-id="123" group-title="🔴 COLA TV",04:30 21/09 CLB Flamengo VS Bragantino | BLV SAMURAI
+#EXTINF:-1 tvg-id="111" tvg-logo="https://img.gvapi.cc/football/team/7c8c3c50966c793eba910e18659759a1.png!w80" group-title="🔴 COLA TV",00:30 21/09 Paderborn VS TSG 1899 Hoffenheim | BLV FANTA
+https://live05.meung.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-id="112" tvg-logo="https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80" group-title="🔴 COLA TV",01:45 21/09 AC Milan VS U.S. Lecce | BLV C2
+https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-id="113" tvg-logo="https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80" group-title="🔴 COLA TV",01:45 21/09 AC Milan VS U.S. Lecce | BLV SODA
+https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-id="114" tvg-logo="https://img.gvapi.cc/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png!w80" group-title="🔴 COLA TV",01:45 21/09 Olympique de Marseille VS Paris Saint-Germain | BLV REVIVE
+https://live05.meung.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-id="115" tvg-logo="https://img.gvapi.cc/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png!w80" group-title="🔴 COLA TV",01:45 21/09 Olympique de Marseille VS Paris Saint-Germain | BLV GIÀ LÀNG
+https://live05.meung.app/live/14830711_tsc.m3u8
+#EXTINF:-1 tvg-id="116" tvg-logo="https://img.gvapi.cc/football/team/3b54543c1a584e2e9948d655142996d3.png!w80" group-title="🔴 COLA TV",02:00 21/09 Valencia CF VS Real Sociedad | BLV STING
+https://live05.meung.app/live/14707124_tsc.m3u8
+#EXTINF:-1 tvg-id="117" tvg-logo="https://img.gvapi.cc/football/team/83aa826e3c45d5047a8c917fb0b41a5e.png!w80" group-title="🔴 COLA TV",02:30 21/09 Porto VS Benfica | BLV BÍ ĐAO
+https://live05.meung.app/live/99121525_tsc.m3u8
+#EXTINF:-1 tvg-id="118" tvg-logo="https://img.gvapi.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80" group-title="🔴 COLA TV",04:30 21/09 CLB Flamengo VS Bragantino | BLV SAMURAI
 https://live05.meung.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-id="119" tvg-logo="https://img.gvapi.cc/football/team/f24c6d2696f439d43875fba52100991d.png!w80" group-title="🔴 COLA TV",05:15 21/09 Belgrano VS Estudiantes Rio Cuarto | BLV SPRITE
+https://live05.meung.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-id="120" tvg-logo="https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80" group-title="🔴 COLA TV",05:30 21/09 Athletico-PR VS Bahia | BLV AQUA
+https://live05.meung.app/live/18812304_tsc.m3u8
+#EXTINF:-1 tvg-id="121" tvg-logo="https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80" group-title="🔴 COLA TV",06:00 21/09 Inter Miami VS San Diego FC | BLV HỔ VẰN
+https://live05.meung.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-id="122" tvg-logo="https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80" group-title="🔴 COLA TV",06:00 21/09 Los Angeles Sparks VS Portland Fire | BLV ROCKSTAR
+https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-id="123" tvg-logo="https://img.gvapi.cc/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80" group-title="🔴 COLA TV",07:00 21/09 Pachuca VS Club Tijuana | BLV PEPSI
+https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-id="124" tvg-logo="https://img.gvapi.cc/football/team/725ccd5793be6b4f8dd917170dd17d04.png!w80" group-title="🔴 COLA TV",07:00 21/09 Toluca VS Santos Laguna | BLV MOUNTAIN DEW
+https://live05.meung.app/live/87547578_tsc.m3u8
