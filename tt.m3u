@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/duongmagit/test/refs/heads/master/epgtt.xml"
 #EXTINF:-1 tvg-id="1" group-title="🔴 COLA TV",16:00 19/09 Kawasaki Frontale VS Kashima Antlers | BLV BÍ ĐAO
 https://live05.meung.app/live/99121525_tsc.m3u8
 #EXTINF:-1 tvg-id="2" group-title="🔴 COLA TV",16:00 19/09 Đồng Tâm Long An VS Bac Ninh | BLV SPRITE
