@@ -3,711 +3,951 @@
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="2">
     <display-name lang="vi">2</display-name>
     <display-number>2</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
     <display-number>5</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
   </channel>
   <channel id="6">
     <display-name lang="vi">6</display-name>
     <display-number>6</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="7">
     <display-name lang="vi">7</display-name>
     <display-number>7</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
   </channel>
   <channel id="8">
     <display-name lang="vi">8</display-name>
     <display-number>8</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
   </channel>
   <channel id="9">
     <display-name lang="vi">9</display-name>
     <display-number>9</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
   </channel>
   <channel id="10">
     <display-name lang="vi">10</display-name>
     <display-number>10</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
   </channel>
   <channel id="11">
     <display-name lang="vi">11</display-name>
     <display-number>11</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="12">
     <display-name lang="vi">12</display-name>
     <display-number>12</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
   </channel>
   <channel id="13">
     <display-name lang="vi">13</display-name>
     <display-number>13</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
   </channel>
   <channel id="14">
     <display-name lang="vi">14</display-name>
     <display-number>14</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
   </channel>
   <channel id="15">
     <display-name lang="vi">15</display-name>
     <display-number>15</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
   </channel>
   <channel id="16">
     <display-name lang="vi">16</display-name>
     <display-number>16</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="17">
     <display-name lang="vi">17</display-name>
     <display-number>17</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="18">
     <display-name lang="vi">18</display-name>
     <display-number>18</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
   </channel>
   <channel id="19">
     <display-name lang="vi">19</display-name>
     <display-number>19</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
   </channel>
   <channel id="20">
     <display-name lang="vi">20</display-name>
     <display-number>20</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
   </channel>
   <channel id="21">
     <display-name lang="vi">21</display-name>
     <display-number>21</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
   </channel>
   <channel id="22">
     <display-name lang="vi">22</display-name>
     <display-number>22</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGVjMmE4NjBjZTMtOTYyNA/NTAxNzI0NDcyNDQtNTI4Nw.jpg"/>
   </channel>
   <channel id="23">
     <display-name lang="vi">23</display-name>
     <display-number>23</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
   </channel>
   <channel id="24">
     <display-name lang="vi">24</display-name>
     <display-number>24</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGVjMmE4NjBjZTMtOTYyNA/NTAxNzI0NDcyNDQtNTI4Nw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
   </channel>
   <channel id="25">
     <display-name lang="vi">25</display-name>
     <display-number>25</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg"/>
   </channel>
   <channel id="26">
     <display-name lang="vi">26</display-name>
     <display-number>26</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
   </channel>
   <channel id="27">
     <display-name lang="vi">27</display-name>
     <display-number>27</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
   </channel>
   <channel id="28">
     <display-name lang="vi">28</display-name>
     <display-number>28</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
   </channel>
   <channel id="29">
     <display-name lang="vi">29</display-name>
     <display-number>29</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
   </channel>
   <channel id="30">
     <display-name lang="vi">30</display-name>
     <display-number>30</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="31">
     <display-name lang="vi">31</display-name>
     <display-number>31</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="32">
     <display-name lang="vi">32</display-name>
     <display-number>32</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
   </channel>
   <channel id="33">
     <display-name lang="vi">33</display-name>
     <display-number>33</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="34">
     <display-name lang="vi">34</display-name>
     <display-number>34</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
   </channel>
   <channel id="35">
     <display-name lang="vi">35</display-name>
     <display-number>35</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
   </channel>
   <channel id="36">
     <display-name lang="vi">36</display-name>
     <display-number>36</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
   </channel>
   <channel id="37">
     <display-name lang="vi">37</display-name>
     <display-number>37</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
   </channel>
   <channel id="38">
     <display-name lang="vi">38</display-name>
     <display-number>38</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png"/>
   </channel>
   <channel id="39">
     <display-name lang="vi">39</display-name>
     <display-number>39</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
   </channel>
   <channel id="40">
     <display-name lang="vi">40</display-name>
     <display-number>40</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg"/>
   </channel>
   <channel id="41">
     <display-name lang="vi">41</display-name>
     <display-number>41</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="42">
     <display-name lang="vi">42</display-name>
     <display-number>42</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
   </channel>
   <channel id="43">
     <display-name lang="vi">43</display-name>
     <display-number>43</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
   </channel>
   <channel id="44">
     <display-name lang="vi">44</display-name>
     <display-number>44</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="45">
     <display-name lang="vi">45</display-name>
     <display-number>45</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
   </channel>
   <channel id="46">
     <display-name lang="vi">46</display-name>
     <display-number>46</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
   </channel>
   <channel id="47">
     <display-name lang="vi">47</display-name>
     <display-number>47</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="48">
     <display-name lang="vi">48</display-name>
     <display-number>48</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
   </channel>
   <channel id="49">
     <display-name lang="vi">49</display-name>
     <display-number>49</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
   </channel>
   <channel id="50">
     <display-name lang="vi">50</display-name>
     <display-number>50</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
   </channel>
   <channel id="51">
     <display-name lang="vi">51</display-name>
     <display-number>51</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGVjMmE4NjBjZTMtOTYyNA/NTAxNzI0NDcyNDQtNTI4Nw.jpg"/>
   </channel>
   <channel id="52">
     <display-name lang="vi">52</display-name>
     <display-number>52</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
   </channel>
   <channel id="53">
     <display-name lang="vi">53</display-name>
     <display-number>53</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGVjMmE4NjBjZTMtOTYyNA/NTAxNzI0NDcyNDQtNTI4Nw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
   </channel>
   <channel id="54">
     <display-name lang="vi">54</display-name>
     <display-number>54</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
   </channel>
   <channel id="55">
     <display-name lang="vi">55</display-name>
     <display-number>55</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
   </channel>
   <channel id="56">
     <display-name lang="vi">56</display-name>
     <display-number>56</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
   </channel>
   <channel id="57">
     <display-name lang="vi">57</display-name>
     <display-number>57</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
   </channel>
   <channel id="58">
     <display-name lang="vi">58</display-name>
     <display-number>58</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
   </channel>
   <channel id="59">
     <display-name lang="vi">59</display-name>
     <display-number>59</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
   </channel>
   <channel id="60">
     <display-name lang="vi">60</display-name>
     <display-number>60</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="61">
     <display-name lang="vi">61</display-name>
     <display-number>61</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="62">
     <display-name lang="vi">62</display-name>
     <display-number>62</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="63">
     <display-name lang="vi">63</display-name>
     <display-number>63</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGVjMmE4NjBjZTMtOTYyNA/NTAxNzI0NDcyNDQtNTI4Nw.jpg"/>
   </channel>
   <channel id="64">
     <display-name lang="vi">64</display-name>
     <display-number>64</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
   </channel>
   <channel id="65">
     <display-name lang="vi">65</display-name>
     <display-number>65</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGVjMmE4NjBjZTMtOTYyNA/NTAxNzI0NDcyNDQtNTI4Nw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
   </channel>
   <channel id="66">
     <display-name lang="vi">66</display-name>
     <display-number>66</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
   </channel>
   <channel id="67">
     <display-name lang="vi">67</display-name>
     <display-number>67</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="68">
     <display-name lang="vi">68</display-name>
     <display-number>68</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png"/>
   </channel>
   <channel id="69">
     <display-name lang="vi">69</display-name>
     <display-number>69</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="70">
     <display-name lang="vi">70</display-name>
     <display-number>70</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
   </channel>
   <channel id="71">
     <display-name lang="vi">71</display-name>
     <display-number>71</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGVjMmE4NjBjZTMtOTYyNA/NTAxNzI0NDcyNDQtNTI4Nw.jpg"/>
   </channel>
-  <programme start="20260924090000 +0700" stop="20260924110000 +0700" channel="1" channel-number="1">
-    <title lang="vi">Seattle Storm VS Dallas Wings</title>
-    <desc lang="vi">Hiệp hội bóng rổ quốc gia nữ</desc>
-    <category lang="vi">BLV POCARI</category>
-  </programme>
-  <programme start="20260924120000 +0700" stop="20260924140000 +0700" channel="2" channel-number="2">
-    <title lang="vi">Wonju Dongbu Promy VS Seoul Samsung Thunders</title>
-    <desc lang="vi">Korean Basketball League Open Match Day</desc>
-    <category lang="vi">BLV ROCKSTAR</category>
-  </programme>
-  <programme start="20260924143000 +0700" stop="20260924163000 +0700" channel="3" channel-number="3">
+  <channel id="72">
+    <display-name lang="vi">72</display-name>
+    <display-number>72</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
+  </channel>
+  <channel id="73">
+    <display-name lang="vi">73</display-name>
+    <display-number>73</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+  </channel>
+  <channel id="74">
+    <display-name lang="vi">74</display-name>
+    <display-number>74</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+  </channel>
+  <channel id="75">
+    <display-name lang="vi">75</display-name>
+    <display-number>75</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
+  </channel>
+  <channel id="76">
+    <display-name lang="vi">76</display-name>
+    <display-number>76</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
+  </channel>
+  <channel id="77">
+    <display-name lang="vi">77</display-name>
+    <display-number>77</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
+  </channel>
+  <channel id="78">
+    <display-name lang="vi">78</display-name>
+    <display-number>78</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+  </channel>
+  <channel id="79">
+    <display-name lang="vi">79</display-name>
+    <display-number>79</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg"/>
+  </channel>
+  <channel id="80">
+    <display-name lang="vi">80</display-name>
+    <display-number>80</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png"/>
+  </channel>
+  <channel id="81">
+    <display-name lang="vi">81</display-name>
+    <display-number>81</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png"/>
+  </channel>
+  <channel id="82">
+    <display-name lang="vi">82</display-name>
+    <display-number>82</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
+  </channel>
+  <channel id="83">
+    <display-name lang="vi">83</display-name>
+    <display-number>83</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
+  </channel>
+  <channel id="84">
+    <display-name lang="vi">84</display-name>
+    <display-number>84</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/MGVjMmE4NjBjZTMtOTYyNA/NTAxNzI0NDcyNDQtNTI4Nw.jpg"/>
+  </channel>
+  <channel id="85">
+    <display-name lang="vi">85</display-name>
+    <display-number>85</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+  </channel>
+  <channel id="86">
+    <display-name lang="vi">86</display-name>
+    <display-number>86</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+  </channel>
+  <channel id="87">
+    <display-name lang="vi">87</display-name>
+    <display-number>87</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
+  </channel>
+  <channel id="88">
+    <display-name lang="vi">88</display-name>
+    <display-number>88</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
+  </channel>
+  <channel id="89">
+    <display-name lang="vi">89</display-name>
+    <display-number>89</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZWFkM2IxMTAxMDYtZGUxMQ/ZTFmYmMwNWIxZDktOGMzMQ.png"/>
+  </channel>
+  <channel id="90">
+    <display-name lang="vi">90</display-name>
+    <display-number>90</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+  </channel>
+  <channel id="91">
+    <display-name lang="vi">91</display-name>
+    <display-number>91</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+  </channel>
+  <channel id="92">
+    <display-name lang="vi">92</display-name>
+    <display-number>92</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
+  </channel>
+  <channel id="93">
+    <display-name lang="vi">93</display-name>
+    <display-number>93</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+  </channel>
+  <channel id="94">
+    <display-name lang="vi">94</display-name>
+    <display-number>94</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
+  </channel>
+  <channel id="95">
+    <display-name lang="vi">95</display-name>
+    <display-number>95</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YzAwMDlmMmZhNDItZjkwOA/NmRkMWE1YTljZTEtYWRmMg.jpg"/>
+  </channel>
+  <programme start="20260924143000 +0700" stop="20260924163000 +0700" channel="1" channel-number="1">
     <title lang="vi">Goyang Carrot Jumpers VS Seoul Knights</title>
     <desc lang="vi">Korean Basketball League Open Match Day</desc>
     <category lang="vi">BLV 247</category>
   </programme>
-  <programme start="20260924160000 +0700" stop="20260924180000 +0700" channel="4" channel-number="4">
+  <programme start="20260924160000 +0700" stop="20260924180000 +0700" channel="2" channel-number="2">
     <title lang="vi">Lào VS Brunei</title>
     <desc lang="vi">ASEAN Cup</desc>
     <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
-  <programme start="20260924160000 +0700" stop="20260924180000 +0700" channel="5" channel-number="5">
+  <programme start="20260924160000 +0700" stop="20260924180000 +0700" channel="3" channel-number="3">
     <title lang="vi">Lào VS Brunei</title>
     <desc lang="vi">ASEAN Cup</desc>
     <category lang="vi">BLV GIÀ LÀNG</category>
   </programme>
-  <programme start="20260924163000 +0700" stop="20260924183000 +0700" channel="6" channel-number="6">
+  <programme start="20260924163000 +0700" stop="20260924183000 +0700" channel="4" channel-number="4">
     <title lang="vi">South East Melbourne VS Melbourne Tigers</title>
     <desc lang="vi">Liên đoàn Bóng rổ Quốc gia Úc</desc>
     <category lang="vi">BLV ROCKSTAR</category>
   </programme>
-  <programme start="20260924163000 +0700" stop="20260924183000 +0700" channel="7" channel-number="7">
+  <programme start="20260924163000 +0700" stop="20260924183000 +0700" channel="5" channel-number="5">
     <title lang="vi">Palestine VS New Zealand</title>
     <desc lang="vi">CFA Team China International Tournament</desc>
     <category lang="vi">BLV HỔ VẰN</category>
   </programme>
-  <programme start="20260924163000 +0700" stop="20260924183000 +0700" channel="8" channel-number="8">
+  <programme start="20260924163000 +0700" stop="20260924183000 +0700" channel="6" channel-number="6">
     <title lang="vi">Palestine VS New Zealand</title>
     <desc lang="vi">CFA Team China International Tournament</desc>
     <category lang="vi">BLV MONSTER</category>
   </programme>
-  <programme start="20260924170500 +0700" stop="20260924190500 +0700" channel="9" channel-number="9">
+  <programme start="20260924170500 +0700" stop="20260924190500 +0700" channel="7" channel-number="7">
     <title lang="vi">Đội tuyển Bóng đá Quốc gia Nhật Bản VS Uruguay</title>
     <desc lang="vi">Giao hữu Quốc tế</desc>
     <category lang="vi">BLV C2</category>
   </programme>
-  <programme start="20260924170500 +0700" stop="20260924190500 +0700" channel="10" channel-number="10">
+  <programme start="20260924170500 +0700" stop="20260924190500 +0700" channel="8" channel-number="8">
     <title lang="vi">Đội tuyển Bóng đá Quốc gia Nhật Bản VS Uruguay</title>
     <desc lang="vi">Giao hữu Quốc tế</desc>
     <category lang="vi">BLV WARRIOR</category>
   </programme>
-  <programme start="20260924180000 +0700" stop="20260924200000 +0700" channel="11" channel-number="11">
+  <programme start="20260924180000 +0700" stop="20260924200000 +0700" channel="9" channel-number="9">
     <title lang="vi">Hàn Quốc VS Ecuador</title>
     <desc lang="vi">Giao hữu Quốc tế</desc>
     <category lang="vi">BLV SODA</category>
   </programme>
-  <programme start="20260924183000 +0700" stop="20260924203000 +0700" channel="12" channel-number="12">
+  <programme start="20260924183000 +0700" stop="20260924203000 +0700" channel="10" channel-number="10">
     <title lang="vi">Perth Wildcats VS Adelaide 36ers</title>
     <desc lang="vi">Liên đoàn Bóng rổ Quốc gia Úc</desc>
     <category lang="vi">BLV Cozy</category>
   </programme>
-  <programme start="20260924183500 +0700" stop="20260924203500 +0700" channel="13" channel-number="13">
+  <programme start="20260924183500 +0700" stop="20260924203500 +0700" channel="11" channel-number="11">
     <title lang="vi">Trung Quốc VS Maldives</title>
     <desc lang="vi">CFA Team China International Tournament</desc>
     <category lang="vi">BLV 247</category>
   </programme>
-  <programme start="20260924183500 +0700" stop="20260924203500 +0700" channel="14" channel-number="14">
+  <programme start="20260924183500 +0700" stop="20260924203500 +0700" channel="12" channel-number="12">
     <title lang="vi">Trung Quốc VS Maldives</title>
     <desc lang="vi">CFA Team China International Tournament</desc>
     <category lang="vi">BLV STING</category>
   </programme>
-  <programme start="20260924190000 +0700" stop="20260924210000 +0700" channel="15" channel-number="15">
+  <programme start="20260924190000 +0700" stop="20260924210000 +0700" channel="13" channel-number="13">
     <title lang="vi">Myanmar VS Đông Timor</title>
     <desc lang="vi">ASEAN Cup</desc>
     <category lang="vi">BLV SPRITE</category>
   </programme>
-  <programme start="20260924190000 +0700" stop="20260924210000 +0700" channel="16" channel-number="16">
+  <programme start="20260924190000 +0700" stop="20260924210000 +0700" channel="14" channel-number="14">
     <title lang="vi">Myanmar VS Đông Timor</title>
     <desc lang="vi">ASEAN Cup</desc>
     <category lang="vi">BLV HỔ VẰN</category>
   </programme>
-  <programme start="20260924193000 +0700" stop="20260924213000 +0700" channel="17" channel-number="17">
+  <programme start="20260924193000 +0700" stop="20260924213000 +0700" channel="15" channel-number="15">
     <title lang="vi">Sài Gòn Heat VS Hanoi buffalo</title>
     <desc lang="vi">Giải Bóng rổ VBA Việt Nam</desc>
     <category lang="vi">BLV POCARI</category>
   </programme>
-  <programme start="20260924200000 +0700" stop="20260924220000 +0700" channel="18" channel-number="18">
+  <programme start="20260924200000 +0700" stop="20260924220000 +0700" channel="16" channel-number="16">
     <title lang="vi">Namibia VS Congo</title>
     <desc lang="vi">Cúp Quốc gia Châu Phi</desc>
     <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
-  <programme start="20260924210000 +0700" stop="20260924230000 +0700" channel="19" channel-number="19">
+  <programme start="20260924210000 +0700" stop="20260924230000 +0700" channel="17" channel-number="17">
     <title lang="vi">Uzbekistan VS Iran</title>
     <desc lang="vi">Giao hữu Quốc tế</desc>
     <category lang="vi">BLV MONSTER</category>
   </programme>
-  <programme start="20260924225500 +0700" stop="20260925005500 +0700" channel="20" channel-number="20">
+  <programme start="20260924225500 +0700" stop="20260925005500 +0700" channel="18" channel-number="18">
     <title lang="vi">United Arab Emirates VS Yemen</title>
     <desc lang="vi">Cúp Gulf</desc>
     <category lang="vi">BLV 7UP</category>
   </programme>
-  <programme start="20260924225500 +0700" stop="20260925005500 +0700" channel="21" channel-number="21">
+  <programme start="20260924225500 +0700" stop="20260925005500 +0700" channel="19" channel-number="19">
     <title lang="vi">United Arab Emirates VS Yemen</title>
     <desc lang="vi">Cúp Gulf</desc>
     <category lang="vi">BLV GIÀ LÀNG</category>
   </programme>
-  <programme start="20260924230000 +0700" stop="20260925010000 +0700" channel="22" channel-number="22">
+  <programme start="20260924230000 +0700" stop="20260925010000 +0700" channel="20" channel-number="20">
     <title lang="vi">Andorra VS Malta</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV C2</category>
   </programme>
-  <programme start="20260924230000 +0700" stop="20260925010000 +0700" channel="23" channel-number="23">
+  <programme start="20260924230000 +0700" stop="20260925010000 +0700" channel="21" channel-number="21">
     <title lang="vi">Andorra VS Malta</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV WARRIOR</category>
   </programme>
-  <programme start="20260925010000 +0700" stop="20260925030000 +0700" channel="24" channel-number="24">
+  <programme start="20260925010000 +0700" stop="20260925030000 +0700" channel="22" channel-number="22">
     <title lang="vi">Qatar VS Bahrain</title>
     <desc lang="vi">Cúp Gulf</desc>
     <category lang="vi">BLV FANTA</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="25" channel-number="25">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="23" channel-number="23">
     <title lang="vi">ĐTQG Hà Lan VS Đức</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV 7UP</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="26" channel-number="26">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="24" channel-number="24">
     <title lang="vi">ĐTQG Hà Lan VS Đức</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV GIÀ LÀNG</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="27" channel-number="27">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="25" channel-number="25">
     <title lang="vi">Serbia VS CLB Greece</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV AQUA</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="28" channel-number="28">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="26" channel-number="26">
     <title lang="vi">Bồ Đào Nha VS Xứ Wales</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV C2</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="29" channel-number="29">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="27" channel-number="27">
     <title lang="vi">Bồ Đào Nha VS Xứ Wales</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV WARRIOR</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="30" channel-number="30">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="28" channel-number="28">
     <title lang="vi">Na Uy VS ĐTQG Đan Mạch</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV REVIVE</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="31" channel-number="31">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="29" channel-number="29">
     <title lang="vi">Na Uy VS ĐTQG Đan Mạch</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV SODA</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="32" channel-number="32">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="30" channel-number="30">
     <title lang="vi">ĐTQG Áo VS ĐTQG Israel</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV SAMURAI</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="33" channel-number="33">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="31" channel-number="31">
     <title lang="vi">ĐTQG Kosovo VS Ireland</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV MONSTER</category>
   </programme>
-  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="34" channel-number="34">
+  <programme start="20260925014500 +0700" stop="20260925034500 +0700" channel="32" channel-number="32">
     <title lang="vi">ĐTQG Liechtenstein VS ĐTQG Lithuania</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV PEPSI</category>
   </programme>
-  <programme start="20260925040000 +0700" stop="20260925060000 +0700" channel="35" channel-number="35">
+  <programme start="20260925040000 +0700" stop="20260925060000 +0700" channel="33" channel-number="33">
     <title lang="vi">O'Higgins VS Deportes Santa Cruz</title>
     <desc lang="vi">Cúp Chile</desc>
     <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
-  <programme start="20260925063000 +0700" stop="20260925083000 +0700" channel="36" channel-number="36">
+  <programme start="20260925063000 +0700" stop="20260925083000 +0700" channel="34" channel-number="34">
     <title lang="vi">Washington Mystics VS Chicago Sky</title>
     <desc lang="vi">Hiệp hội bóng rổ quốc gia nữ</desc>
     <category lang="vi">BLV ROCKSTAR</category>
   </programme>
-  <programme start="20260925063000 +0700" stop="20260925083000 +0700" channel="37" channel-number="37">
+  <programme start="20260925063000 +0700" stop="20260925083000 +0700" channel="35" channel-number="35">
     <title lang="vi">Everton VS U. De Chile</title>
     <desc lang="vi">Cúp Chile</desc>
     <category lang="vi">BLV STING</category>
   </programme>
-  <programme start="20260925070000 +0700" stop="20260925090000 +0700" channel="38" channel-number="38">
+  <programme start="20260925070000 +0700" stop="20260925090000 +0700" channel="36" channel-number="36">
     <title lang="vi">Cộng hòa Dominican VS Nicaragua</title>
     <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
     <category lang="vi">BLV SPRITE</category>
   </programme>
-  <programme start="20260925070000 +0700" stop="20260925090000 +0700" channel="39" channel-number="39">
+  <programme start="20260925070000 +0700" stop="20260925090000 +0700" channel="37" channel-number="37">
     <title lang="vi">Minnesota Lynx VS Indiana Fever</title>
     <desc lang="vi">Hiệp hội bóng rổ quốc gia nữ</desc>
     <category lang="vi">BLV Cozy</category>
   </programme>
-  <programme start="20260925070000 +0700" stop="20260925090000 +0700" channel="40" channel-number="40">
+  <programme start="20260925070000 +0700" stop="20260925090000 +0700" channel="38" channel-number="38">
     <title lang="vi">Quần đảo Cayman VS Dominica</title>
     <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
     <category lang="vi">BLV BÍ ĐAO</category>
   </programme>
-  <programme start="20260925070000 +0700" stop="20260925090000 +0700" channel="41" channel-number="41">
+  <programme start="20260925070000 +0700" stop="20260925090000 +0700" channel="39" channel-number="39">
     <title lang="vi">Haiti VS Trinidad &amp; Tobago</title>
     <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
     <category lang="vi">BLV HỔ VẰN</category>
   </programme>
-  <programme start="20260925080000 +0700" stop="20260925100000 +0700" channel="42" channel-number="42">
+  <programme start="20260925080000 +0700" stop="20260925100000 +0700" channel="40" channel-number="40">
     <title lang="vi">Alebrijes de Oaxaca VS Atlético La Paz</title>
     <desc lang="vi">Giải hạng hai Mexico</desc>
     <category lang="vi">BLV AQUA</category>
   </programme>
-  <programme start="20260925080000 +0700" stop="20260925100000 +0700" channel="43" channel-number="43">
+  <programme start="20260925080000 +0700" stop="20260925100000 +0700" channel="41" channel-number="41">
     <title lang="vi">CLB Mineros de Zacatecas VS Piratas FC</title>
     <desc lang="vi">Giải hạng hai Mexico</desc>
     <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
-  <programme start="20260925090000 +0700" stop="20260925110000 +0700" channel="44" channel-number="44">
+  <programme start="20260925090000 +0700" stop="20260925110000 +0700" channel="42" channel-number="42">
     <title lang="vi">Phoenix Mercury VS Las Vegas Aces</title>
     <desc lang="vi">Hiệp hội bóng rổ quốc gia nữ</desc>
     <category lang="vi">BLV POCARI</category>
   </programme>
-  <programme start="20260925090000 +0700" stop="20260925110000 +0700" channel="45" channel-number="45">
+  <programme start="20260925090000 +0700" stop="20260925110000 +0700" channel="43" channel-number="43">
     <title lang="vi">Costa Rica VS Curacao</title>
     <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
     <category lang="vi">BLV STING</category>
   </programme>
-  <programme start="20260925090000 +0700" stop="20260925110000 +0700" channel="46" channel-number="46">
+  <programme start="20260925090000 +0700" stop="20260925110000 +0700" channel="44" channel-number="44">
     <title lang="vi">Los Angeles Sparks VS Golden State Valkyries</title>
     <desc lang="vi">Hiệp hội bóng rổ quốc gia nữ</desc>
     <category lang="vi">BLV 247</category>
   </programme>
-  <programme start="20260925120000 +0700" stop="20260925140000 +0700" channel="47" channel-number="47">
+  <programme start="20260925120000 +0700" stop="20260925140000 +0700" channel="45" channel-number="45">
     <title lang="vi">KCC Egis VS LG Sakers</title>
     <desc lang="vi">Korean Basketball League Open Match Day</desc>
     <category lang="vi">BLV ROCKSTAR</category>
   </programme>
-  <programme start="20260925120000 +0700" stop="20260925140000 +0700" channel="48" channel-number="48">
+  <programme start="20260925120000 +0700" stop="20260925140000 +0700" channel="46" channel-number="46">
     <title lang="vi">Uzbekistan U23 VS Ả Rập Saudi U23</title>
     <desc lang="vi">Đại hội Thể thao Châu Á</desc>
     <category lang="vi">BLV REVIVE</category>
   </programme>
-  <programme start="20260925143000 +0700" stop="20260925163000 +0700" channel="49" channel-number="49">
+  <programme start="20260925143000 +0700" stop="20260925163000 +0700" channel="47" channel-number="47">
     <title lang="vi">Anyang KGC VS Busan KTF Sonicboom</title>
     <desc lang="vi">Korean Basketball League Open Match Day</desc>
     <category lang="vi">BLV 247</category>
   </programme>
-  <programme start="20260925160000 +0700" stop="20260925180000 +0700" channel="50" channel-number="50">
+  <programme start="20260925160000 +0700" stop="20260925180000 +0700" channel="48" channel-number="48">
     <title lang="vi">Đội tuyển quốc gia Bangladesh VS Malaysia</title>
     <desc lang="vi">ASEAN Cup</desc>
     <category lang="vi">BLV SPRITE</category>
   </programme>
-  <programme start="20260925160000 +0700" stop="20260925180000 +0700" channel="51" channel-number="51">
+  <programme start="20260925160000 +0700" stop="20260925180000 +0700" channel="49" channel-number="49">
     <title lang="vi">Đội tuyển quốc gia Bangladesh VS Malaysia</title>
     <desc lang="vi">ASEAN Cup</desc>
     <category lang="vi">BLV ROCKSTAR</category>
   </programme>
-  <programme start="20260925163000 +0700" stop="20260925183000 +0700" channel="52" channel-number="52">
+  <programme start="20260925163000 +0700" stop="20260925183000 +0700" channel="50" channel-number="50">
     <title lang="vi">Brisbane Bullets VS Illawarra Hawks</title>
     <desc lang="vi">Liên đoàn Bóng rổ Quốc gia Úc</desc>
     <category lang="vi">BLV Cozy</category>
   </programme>
-  <programme start="20260925170000 +0700" stop="20260925190000 +0700" channel="53" channel-number="53">
+  <programme start="20260925170000 +0700" stop="20260925190000 +0700" channel="51" channel-number="51">
     <title lang="vi">Bà Rịa Vũng Tàu VS Đại học Văn Hiến</title>
     <desc lang="vi">Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam</desc>
     <category lang="vi">BLV FANTA</category>
   </programme>
-  <programme start="20260925170000 +0700" stop="20260925190000 +0700" channel="54" channel-number="54">
+  <programme start="20260925170000 +0700" stop="20260925190000 +0700" channel="52" channel-number="52">
     <title lang="vi">ĐTQG Úc VS Brazil</title>
     <desc lang="vi">Giao hữu Quốc tế</desc>
     <category lang="vi">BLV 7UP</category>
   </programme>
-  <programme start="20260925170000 +0700" stop="20260925190000 +0700" channel="55" channel-number="55">
+  <programme start="20260925170000 +0700" stop="20260925190000 +0700" channel="53" channel-number="53">
     <title lang="vi">ĐTQG Úc VS Brazil</title>
     <desc lang="vi">Giao hữu Quốc tế</desc>
     <category lang="vi">BLV WARRIOR</category>
   </programme>
-  <programme start="20260925173000 +0700" stop="20260925193000 +0700" channel="56" channel-number="56">
+  <programme start="20260925173000 +0700" stop="20260925193000 +0700" channel="54" channel-number="54">
     <title lang="vi">Hàn Quốc U23 VS Việt Nam U23</title>
     <desc lang="vi">Đại hội Thể thao Châu Á</desc>
     <category lang="vi">BLV REVIVE</category>
   </programme>
-  <programme start="20260925173000 +0700" stop="20260925193000 +0700" channel="57" channel-number="57">
+  <programme start="20260925173000 +0700" stop="20260925193000 +0700" channel="55" channel-number="55">
     <title lang="vi">Hàn Quốc U23 VS Việt Nam U23</title>
     <desc lang="vi">Đại hội Thể thao Châu Á</desc>
     <category lang="vi">BLV C2</category>
   </programme>
-  <programme start="20260925173000 +0700" stop="20260925193000 +0700" channel="58" channel-number="58">
+  <programme start="20260925173000 +0700" stop="20260925193000 +0700" channel="56" channel-number="56">
     <title lang="vi">Hàn Quốc U23 VS Việt Nam U23</title>
     <desc lang="vi">Đại hội Thể thao Châu Á</desc>
     <category lang="vi">BLV SODA</category>
   </programme>
-  <programme start="20260925180000 +0700" stop="20260925200000 +0700" channel="59" channel-number="59">
+  <programme start="20260925180000 +0700" stop="20260925200000 +0700" channel="57" channel-number="57">
     <title lang="vi">Wuxi Wugou VS Câu lạc bộ bóng đá Quảng Tây Hengchen</title>
     <desc lang="vi">Giải bóng đá Hạng nhất Trung Quốc</desc>
     <category lang="vi">BLV PEPSI</category>
   </programme>
-  <programme start="20260925200000 +0700" stop="20260925220000 +0700" channel="60" channel-number="60">
+  <programme start="20260925200000 +0700" stop="20260925220000 +0700" channel="58" channel-number="58">
     <title lang="vi">Indonesia VS Singapore</title>
     <desc lang="vi">ASEAN Cup</desc>
     <category lang="vi">BLV Cozy</category>
   </programme>
-  <programme start="20260925200000 +0700" stop="20260925220000 +0700" channel="61" channel-number="61">
+  <programme start="20260925200000 +0700" stop="20260925220000 +0700" channel="59" channel-number="59">
     <title lang="vi">Indonesia VS Singapore</title>
     <desc lang="vi">ASEAN Cup</desc>
     <category lang="vi">BLV HỔ VẰN</category>
   </programme>
-  <programme start="20260925203000 +0700" stop="20260925223000 +0700" channel="62" channel-number="62">
+  <programme start="20260925203000 +0700" stop="20260925223000 +0700" channel="60" channel-number="60">
     <title lang="vi">Kommunalnik Slonim VS Borisov BATE-2</title>
     <desc lang="vi">Giải hạng Hai Belarus</desc>
     <category lang="vi">BLV SAMURAI</category>
   </programme>
-  <programme start="20260925203000 +0700" stop="20260925223000 +0700" channel="63" channel-number="63">
+  <programme start="20260925203000 +0700" stop="20260925223000 +0700" channel="61" channel-number="61">
     <title lang="vi">FK Lida VS Smorgon</title>
     <desc lang="vi">Giải hạng Hai Belarus</desc>
     <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
-  <programme start="20260925220000 +0700" stop="20260926000000 +0700" channel="64" channel-number="64">
+  <programme start="20260925220000 +0700" stop="20260926000000 +0700" channel="62" channel-number="62">
     <title lang="vi">ĐTQG U21 Iceland VS Đội tuyển U21 Pháp</title>
     <desc lang="vi">Euro U21</desc>
     <category lang="vi">BLV MONSTER</category>
   </programme>
-  <programme start="20260925223000 +0700" stop="20260926003000 +0700" channel="65" channel-number="65">
+  <programme start="20260925223000 +0700" stop="20260926003000 +0700" channel="63" channel-number="63">
     <title lang="vi">Bulgaria U21 VS ĐTQG U21 Portugal</title>
     <desc lang="vi">Euro U21</desc>
     <category lang="vi">BLV FANTA</category>
   </programme>
-  <programme start="20260925223000 +0700" stop="20260926003000 +0700" channel="66" channel-number="66">
+  <programme start="20260925223000 +0700" stop="20260926003000 +0700" channel="64" channel-number="64">
     <title lang="vi">Phần Lan U21 VS Tây Ban Nha U21</title>
     <desc lang="vi">Euro U21</desc>
     <category lang="vi">BLV PEPSI</category>
   </programme>
-  <programme start="20260925223000 +0700" stop="20260926003000 +0700" channel="67" channel-number="67">
+  <programme start="20260925223000 +0700" stop="20260926003000 +0700" channel="65" channel-number="65">
     <title lang="vi">KTP Kotka VS Mikkelin</title>
     <desc lang="vi">Giải hạng 2 Phần Lan</desc>
     <category lang="vi">BLV POCARI</category>
   </programme>
-  <programme start="20260925230000 +0700" stop="20260926010000 +0700" channel="68" channel-number="68">
+  <programme start="20260925230000 +0700" stop="20260926010000 +0700" channel="66" channel-number="66">
     <title lang="vi">ĐTQG Georgia VS ĐTQG Bắc Ireland</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV STING</category>
   </programme>
-  <programme start="20260925230000 +0700" stop="20260926010000 +0700" channel="69" channel-number="69">
+  <programme start="20260925230000 +0700" stop="20260926010000 +0700" channel="67" channel-number="67">
     <title lang="vi">ĐTQG Georgia VS ĐTQG Bắc Ireland</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV SAMURAI</category>
   </programme>
-  <programme start="20260925230000 +0700" stop="20260926010000 +0700" channel="70" channel-number="70">
+  <programme start="20260925230000 +0700" stop="20260926010000 +0700" channel="68" channel-number="68">
     <title lang="vi">CLB Armenia VS Latvia</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV BÍ ĐAO</category>
   </programme>
-  <programme start="20260925230000 +0700" stop="20260926010000 +0700" channel="71" channel-number="71">
+  <programme start="20260925230000 +0700" stop="20260926010000 +0700" channel="69" channel-number="69">
     <title lang="vi">CLB Armenia VS Latvia</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
     <category lang="vi">BLV MONSTER</category>
+  </programme>
+  <programme start="20260926013000 +0700" stop="20260926033000 +0700" channel="70" channel-number="70">
+    <title lang="vi">CLB Girona VS CLB Albacete</title>
+    <desc lang="vi">Giải bóng đá Hạng nhì Tây Ban Nha</desc>
+    <category lang="vi">BLV PEPSI</category>
+  </programme>
+  <programme start="20260926013000 +0700" stop="20260926033000 +0700" channel="71" channel-number="71">
+    <title lang="vi">ĐTQG U21 Anh VS Kazakhstan U21</title>
+    <desc lang="vi">Euro U21</desc>
+    <category lang="vi">BLV FANTA</category>
+  </programme>
+  <programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="72" channel-number="72">
+    <title lang="vi">Thổ nhĩ kỳ VS Pháp</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV 7UP</category>
+  </programme>
+  <programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="73" channel-number="73">
+    <title lang="vi">Thổ nhĩ kỳ VS Pháp</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV C2</category>
+  </programme>
+  <programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="74" channel-number="74">
+    <title lang="vi">ĐTQG Ý VS Bỉ</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV REVIVE</category>
+  </programme>
+  <programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="75" channel-number="75">
+    <title lang="vi">ĐTQG Ý VS Bỉ</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV WARRIOR</category>
+  </programme>
+  <programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="76" channel-number="76">
+    <title lang="vi">ĐTQG Hungary VS ĐTQG Ukraine</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV SODA</category>
+  </programme>
+  <programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="77" channel-number="77">
+    <title lang="vi">ĐTQG Ba Lan VS ĐTQG Bosnia Herzegovina</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV STING</category>
+  </programme>
+  <programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="78" channel-number="78">
+    <title lang="vi">Montenegro VS Đảo Síp</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV HỔ VẰN</category>
+  </programme>
+  <programme start="20260926014500 +0700" stop="20260926034500 +0700" channel="79" channel-number="79">
+    <title lang="vi">Montenegro VS Đảo Síp</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV AQUA</category>
+  </programme>
+  <programme start="20260926020000 +0700" stop="20260926040000 +0700" channel="80" channel-number="80">
+    <title lang="vi">Bermuda VS Guadeloupe</title>
+    <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
+    <category lang="vi">BLV BÍ ĐAO</category>
+  </programme>
+  <programme start="20260926150000 +0700" stop="20260926170000 +0700" channel="81" channel-number="81">
+    <title lang="vi">CLB Omiya Ardija VS CLB Ventforet</title>
+    <desc lang="vi">Giải bóng đá hạng nhì Nhật Bản</desc>
+    <category lang="vi">BLV BÍ ĐAO</category>
+  </programme>
+  <programme start="20260926160000 +0700" stop="20260926180000 +0700" channel="82" channel-number="82">
+    <title lang="vi">Pakistan VS Thái Lan</title>
+    <desc lang="vi">ASEAN Cup</desc>
+    <category lang="vi">BLV 7UP</category>
+  </programme>
+  <programme start="20260926180000 +0700" stop="20260926200000 +0700" channel="83" channel-number="83">
+    <title lang="vi">Niva Dolbizno VS Volna Pinsk</title>
+    <desc lang="vi">Giải hạng Hai Belarus</desc>
+    <category lang="vi">BLV PEPSI</category>
+  </programme>
+  <programme start="20260926183000 +0700" stop="20260926203000 +0700" channel="84" channel-number="84">
+    <title lang="vi">Nantong Zhiyun VS Changchun Yatai</title>
+    <desc lang="vi">Giải bóng đá Hạng nhất Trung Quốc</desc>
+    <category lang="vi">BLV FANTA</category>
+  </programme>
+  <programme start="20260926193000 +0700" stop="20260926213000 +0700" channel="85" channel-number="85">
+    <title lang="vi">ĐTQG Việt Nam VS Philippines</title>
+    <desc lang="vi">ASEAN Cup</desc>
+    <category lang="vi">BLV REVIVE</category>
+  </programme>
+  <programme start="20260926193000 +0700" stop="20260926213000 +0700" channel="86" channel-number="86">
+    <title lang="vi">ĐTQG Việt Nam VS Philippines</title>
+    <desc lang="vi">ASEAN Cup</desc>
+    <category lang="vi">BLV C2</category>
+  </programme>
+  <programme start="20260926193000 +0700" stop="20260926213000 +0700" channel="87" channel-number="87">
+    <title lang="vi">ĐTQG Việt Nam VS Philippines</title>
+    <desc lang="vi">ASEAN Cup</desc>
+    <category lang="vi">BLV SODA</category>
+  </programme>
+  <programme start="20260926200000 +0700" stop="20260926220000 +0700" channel="88" channel-number="88">
+    <title lang="vi">Nam Phi VS Guinea</title>
+    <desc lang="vi">Cúp Quốc gia Châu Phi</desc>
+    <category lang="vi">BLV STING</category>
+  </programme>
+  <programme start="20260926211500 +0700" stop="20260926231500 +0700" channel="89" channel-number="89">
+    <title lang="vi">Câu lạc bộ bóng đá Granada VS Andorra</title>
+    <desc lang="vi">Giải bóng đá Hạng nhì Tây Ban Nha</desc>
+    <category lang="vi">BLV WARRIOR</category>
+  </programme>
+  <programme start="20260926225500 +0700" stop="20260927005500 +0700" channel="90" channel-number="90">
+    <title lang="vi">Kuwait VS Iraq</title>
+    <desc lang="vi">Cúp Gulf</desc>
+    <category lang="vi">BLV C2</category>
+  </programme>
+  <programme start="20260926230000 +0700" stop="20260927010000 +0700" channel="91" channel-number="91">
+    <title lang="vi">ĐTQG Iceland VS Estonia</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV REVIVE</category>
+  </programme>
+  <programme start="20260926230000 +0700" stop="20260927010000 +0700" channel="92" channel-number="92">
+    <title lang="vi">ĐTQG Bulgaria VS Luxembourg</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV SODA</category>
+  </programme>
+  <programme start="20260926230000 +0700" stop="20260927010000 +0700" channel="93" channel-number="93">
+    <title lang="vi">CLB San Marino VS ĐTQG Phần Lan</title>
+    <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
+    <category lang="vi">BLV HỔ VẰN</category>
+  </programme>
+  <programme start="20260926233000 +0700" stop="20260927013000 +0700" channel="94" channel-number="94">
+    <title lang="vi">CLB Tenerife VS Cadiz CF</title>
+    <desc lang="vi">Giải bóng đá Hạng nhì Tây Ban Nha</desc>
+    <category lang="vi">BLV PEPSI</category>
+  </programme>
+  <programme start="20260926233000 +0700" stop="20260927013000 +0700" channel="95" channel-number="95">
+    <title lang="vi">Celta Vigo B VS CLB Sabadell</title>
+    <desc lang="vi">Giải bóng đá Hạng nhì Tây Ban Nha</desc>
+    <category lang="vi">BLV AQUA</category>
   </programme>
 </tv>
