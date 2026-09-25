@@ -85,83 +85,123 @@ https://live05.meung.app/live/75748097_tsc.m3u8
 https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-id="43" tvg-logo="https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="COLA TV",🟡 07:00 26/09 ⚽ Jamaica VS Guatemala | BLV POCARI
 https://live05.meung.app/live/19919577_tsc.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" group-title="CHUOI CHIEN TV | HD",🟢 15:00 25/09 ⚽ Bangladesh VS Malaysia | Chuối Chao#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="1" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" group-title="CHUOI CHIEN TV | HD",🟢 15:00 25/09 ⚽ Bangladesh VS Malaysia | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" group-title="CHUOI CHIEN TV | FHD",🟢 15:00 25/09 ⚽ Bangladesh VS Malaysia | Chuối Chao#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="2" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134314_49a46639.png" group-title="CHUOI CHIEN TV | FHD",🟢 15:00 25/09 ⚽ Bangladesh VS Malaysia | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134250_2a12c2b6.png" group-title="CHUOI CHIEN TV | HD",🟢 17:00 25/09 ⚽ Australia VS Brazil | Chuối Lá#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="3" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134250_2a12c2b6.png" group-title="CHUOI CHIEN TV | HD",🟢 17:00 25/09 ⚽ Australia VS Brazil | Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134250_2a12c2b6.png" group-title="CHUOI CHIEN TV | FHD",🟢 17:00 25/09 ⚽ Australia VS Brazil | Chuối Lá#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="4" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134250_2a12c2b6.png" group-title="CHUOI CHIEN TV | FHD",🟢 17:00 25/09 ⚽ Australia VS Brazil | Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="CHUOI CHIEN TV | HD",🟢 17:00 25/09 ⚽ TP. Hồ Chí Minh VS Văn Hiến | Chuối Kem#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="5" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="CHUOI CHIEN TV | HD",🟢 17:00 25/09 ⚽ TP. Hồ Chí Minh VS Văn Hiến | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="CHUOI CHIEN TV | FHD",🟢 17:00 25/09 ⚽ TP. Hồ Chí Minh VS Văn Hiến | Chuối Kem#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="6" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="CHUOI CHIEN TV | FHD",🟢 17:00 25/09 ⚽ TP. Hồ Chí Minh VS Văn Hiến | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="CHUOI CHIEN TV | HD",🟡 17:30 25/09 ⚽ Japan W VS Philippines W | Chuối To#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="7" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="CHUOI CHIEN TV | HD",🟡 17:30 25/09 ⚽ Japan W VS Philippines W | Chuối To
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="CHUOI CHIEN TV | FHD",🟡 17:30 25/09 ⚽ Japan W VS Philippines W | Chuối To#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="8" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133018_f7c8e720.png" group-title="CHUOI CHIEN TV | FHD",🟡 17:30 25/09 ⚽ Japan W VS Philippines W | Chuối To
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" group-title="CHUOI CHIEN TV | HD",🟡 17:30 25/09 ⚽ U23 Hàn Quốc  VS U23 Vietnam  | Chuối Ngao#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" group-title="CHUOI CHIEN TV | FHD",🟡 17:30 25/09 ⚽ U23 Hàn Quốc  VS U23 Vietnam  | Chuối Ngao#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="11" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="CHUOI CHIEN TV | HD",🟡 19:00 25/09 ⚽ Indonesia VS Singapore | Chuối Kem#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="9" tvg-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" group-title="CHUOI CHIEN TV | HD",🟡 17:30 25/09 ⚽ U23 Hàn Quốc  VS U23 Vietnam  | Chuối Ngao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://media.chuoichientv.net/media/20250902_190339_a6b21e4f.png" group-title="CHUOI CHIEN TV | FHD",🟡 17:30 25/09 ⚽ U23 Hàn Quốc  VS U23 Vietnam  | Chuối Ngao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="CHUOI CHIEN TV | HD",🟡 19:00 25/09 ⚽ Indonesia VS Singapore | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="12" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="CHUOI CHIEN TV | FHD",🟡 19:00 25/09 ⚽ Indonesia VS Singapore | Chuối Kem#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="12" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="CHUOI CHIEN TV | FHD",🟡 19:00 25/09 ⚽ Indonesia VS Singapore | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132758_7ab1a2cb.png" group-title="CHUOI CHIEN TV | HD",🟡 20:00 25/09 ⚽ Tanzania VS Guinea-Bissau | Trốc Tru#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="13" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132758_7ab1a2cb.png" group-title="CHUOI CHIEN TV | HD",🟡 20:00 25/09 ⚽ Tanzania VS Guinea-Bissau | Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="14" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132758_7ab1a2cb.png" group-title="CHUOI CHIEN TV | FHD",🟡 20:00 25/09 ⚽ Tanzania VS Guinea-Bissau | Trốc Tru#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="14" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132758_7ab1a2cb.png" group-title="CHUOI CHIEN TV | FHD",🟡 20:00 25/09 ⚽ Tanzania VS Guinea-Bissau | Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="15" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="CHUOI CHIEN TV | HD",🟡 21:00 25/09 ⚽ India VS Panama | Chuối Kem#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="15" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="CHUOI CHIEN TV | HD",🟡 21:00 25/09 ⚽ India VS Panama | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="CHUOI CHIEN TV | FHD",🟡 21:00 25/09 ⚽ India VS Panama | Chuối Kem#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="16" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="CHUOI CHIEN TV | FHD",🟡 21:00 25/09 ⚽ India VS Panama | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143111_f0cb8ab0.png" group-title="CHUOI CHIEN TV | HD",🟡 22:00 25/09 🏐 Slovakia W VS Poland | Chuối Tây#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143111_f0cb8ab0.png" group-title="CHUOI CHIEN TV | HD",🟡 22:00 25/09 🏐 Slovakia W VS Poland | Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143111_f0cb8ab0.png" group-title="CHUOI CHIEN TV | FHD",🟡 22:00 25/09 🏐 Slovakia W VS Poland | Chuối Tây#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="18" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143111_f0cb8ab0.png" group-title="CHUOI CHIEN TV | FHD",🟡 22:00 25/09 🏐 Slovakia W VS Poland | Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="19" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV | HD",🟡 23:00 25/09 ⚽ Georgia VS Northern Ireland | Chuối Sấy#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="19" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV | HD",🟡 23:00 25/09 ⚽ Georgia VS Northern Ireland | Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV | FHD",🟡 23:00 25/09 ⚽ Georgia VS Northern Ireland | Chuối Sấy#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="20" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV | FHD",🟡 23:00 25/09 ⚽ Georgia VS Northern Ireland | Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="CHUOI CHIEN TV | HD",🟡 23:00 25/09 ⚽ Armenia VS Latvia | Chuối Sấy#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="21" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="CHUOI CHIEN TV | HD",🟡 23:00 25/09 ⚽ Armenia VS Latvia | Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="CHUOI CHIEN TV | FHD",🟡 23:00 25/09 ⚽ Armenia VS Latvia | Chuối Sấy#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="22" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="CHUOI CHIEN TV | FHD",🟡 23:00 25/09 ⚽ Armenia VS Latvia | Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="23" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Türkiye VS France | Chuối Nhỏ#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="23" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Türkiye VS France | Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="24" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Türkiye VS France | Chuối Nhỏ#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="24" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Türkiye VS France | Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Italy VS Belgium | Trốc Tru#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="25" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Italy VS Belgium | Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="26" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Italy VS Belgium | Trốc Tru#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="26" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Italy VS Belgium | Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_a2e2b5c9.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Hungary VS Ukraine | Chuối Chao#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="27" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_a2e2b5c9.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Hungary VS Ukraine | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="28" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_a2e2b5c9.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Hungary VS Ukraine | Chuối Chao#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="28" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125458_a2e2b5c9.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Hungary VS Ukraine | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Poland VS Bosnia & Herzegovina | Chuối Lá#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="29" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Poland VS Bosnia & Herzegovina | Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="30" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Poland VS Bosnia & Herzegovina | Chuối Lá#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="30" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125454_fc9cbefe.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Poland VS Bosnia & Herzegovina | Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Sweden VS Romania | Chuối Ngao#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Sweden VS Romania | Chuối Ngao#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/angaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="33" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132757_56274e6a.png" group-title="CHUOI CHIEN TV | HD",🟡 02:00 26/09 ⚽ Morocco VS Gabon | Chuối To#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="31" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" group-title="CHUOI CHIEN TV | HD",🟡 01:45 26/09 ⚽ Sweden VS Romania | Chuối Ngao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" group-title="CHUOI CHIEN TV | FHD",🟡 01:45 26/09 ⚽ Sweden VS Romania | Chuối Ngao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132757_56274e6a.png" group-title="CHUOI CHIEN TV | HD",🟡 02:00 26/09 ⚽ Morocco VS Gabon | Chuối To
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 tvg-id="34" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132757_56274e6a.png" group-title="CHUOI CHIEN TV | FHD",🟡 02:00 26/09 ⚽ Morocco VS Gabon | Chuối To#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="34" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132757_56274e6a.png" group-title="CHUOI CHIEN TV | FHD",🟡 02:00 26/09 ⚽ Morocco VS Gabon | Chuối To
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
-#EXTINF:-1 tvg-id="35" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" group-title="CHUOI CHIEN TV | HD",🟡 02:00 26/09 🏐 Finland VS France | Chuối Kem#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="35" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" group-title="CHUOI CHIEN TV | HD",🟡 02:00 26/09 🏐 Finland VS France | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="36" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" group-title="CHUOI CHIEN TV | FHD",🟡 02:00 26/09 🏐 Finland VS France | Chuối Kem#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="36" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134256_cfe272ef.png" group-title="CHUOI CHIEN TV | FHD",🟡 02:00 26/09 🏐 Finland VS France | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="37" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_eba6a872.png" group-title="CHUOI CHIEN TV | HD",🟡 06:10 26/09 ⚽ Chico VS Deportivo Pasto | Chuối Tây#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="37" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_eba6a872.png" group-title="CHUOI CHIEN TV | HD",🟡 06:10 26/09 ⚽ Chico VS Deportivo Pasto | Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="38" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_eba6a872.png" group-title="CHUOI CHIEN TV | FHD",🟡 06:10 26/09 ⚽ Chico VS Deportivo Pasto | Chuối Tây#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="38" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133533_eba6a872.png" group-title="CHUOI CHIEN TV | FHD",🟡 06:10 26/09 ⚽ Chico VS Deportivo Pasto | Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="39" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="CHUOI CHIEN TV | HD",🟡 07:00 26/09 ⚽ Jamaica VS Guatemala | Chuối Nhỏ#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="39" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="CHUOI CHIEN TV | HD",🟡 07:00 26/09 ⚽ Jamaica VS Guatemala | Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="40" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="CHUOI CHIEN TV | FHD",🟡 07:00 26/09 ⚽ Jamaica VS Guatemala | Chuối Nhỏ#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-id="40" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="CHUOI CHIEN TV | FHD",🟡 07:00 26/09 ⚽ Jamaica VS Guatemala | Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
