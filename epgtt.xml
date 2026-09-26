@@ -190,6 +190,21 @@
     <display-number>38</display-number>
     <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
   </channel>
+  <channel id="39">
+    <display-name lang="vi">39</display-name>
+    <display-number>39</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
+  </channel>
+  <channel id="40">
+    <display-name lang="vi">40</display-name>
+    <display-number>40</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+  </channel>
+  <channel id="41">
+    <display-name lang="vi">41</display-name>
+    <display-number>41</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+  </channel>
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
@@ -340,6 +355,16 @@
     <display-number>30</display-number>
     <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
   </channel>
+  <channel id="31">
+    <display-name lang="vi">31</display-name>
+    <display-number>31</display-number>
+    <icon src="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png"/>
+  </channel>
+  <channel id="32">
+    <display-name lang="vi">32</display-name>
+    <display-number>32</display-number>
+    <icon src="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png"/>
+  </channel>
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
@@ -358,7 +383,7 @@
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/Logo_Imoco_Volley.png"/>
+    <icon src="https://khandai2.link/media/teams/logos/Imocovolley.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
@@ -630,6 +655,21 @@
     <desc lang="vi">Major League Soccer</desc>
     <category lang="vi">BLV 7UP</category>
   </programme>
+  <programme start="20260927093000 +0700" stop="20260927113000 +0700" channel="39" channel-number="39">
+    <title lang="vi">Vancouver Whitecaps VS DC United</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">BLV GIÀ LÀNG</category>
+  </programme>
+  <programme start="20260927093000 +0700" stop="20260927113000 +0700" channel="40" channel-number="40">
+    <title lang="vi">San Jose Earthquakes VS Portland Timbers</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">BLV MONSTER</category>
+  </programme>
+  <programme start="20260927093000 +0700" stop="20260927113000 +0700" channel="41" channel-number="41">
+    <title lang="vi">CLB LA Galaxy VS Colorado Rapids</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">BLV MONSTER</category>
+  </programme>
   <programme start="20260926173000 +0700" stop="20260926193000 +0700" channel="1" channel-number="1">
     <title lang="vi">Japan U23 VS Korea DPR U23</title>
     <desc lang="vi">Asian Games</desc>
@@ -779,6 +819,16 @@
     <title lang="vi">Iran VS Kyrgyzstan</title>
     <desc lang="vi">Asian Games Bóng Chuyền</desc>
     <category lang="vi">Chuối Kem</category>
+  </programme>
+  <programme start="20260927093000 +0700" stop="20260927113000 +0700" channel="31" channel-number="31">
+    <title lang="vi">Los Angeles Galaxy VS Colorado Rapids</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">Chuối Ngao</category>
+  </programme>
+  <programme start="20260927093000 +0700" stop="20260927113000 +0700" channel="32" channel-number="32">
+    <title lang="vi">Los Angeles Galaxy VS Colorado Rapids</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">Chuối Ngao</category>
   </programme>
   <programme start="20260926193000 +0700" stop="20260926213000 +0700" channel="1" channel-number="1">
     <title lang="vi">Việt Nam VS Philippines</title>
