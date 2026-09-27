@@ -185,6 +185,16 @@
     <display-number>37</display-number>
     <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
+  <channel id="38">
+    <display-name lang="vi">38</display-name>
+    <display-number>38</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+  </channel>
+  <channel id="39">
+    <display-name lang="vi">39</display-name>
+    <display-number>39</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+  </channel>
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
@@ -680,6 +690,16 @@
     <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
     <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
+  <programme start="20260928070000 +0700" stop="20260928090000 +0700" channel="38" channel-number="38">
+    <title lang="vi">Curacao VS Nicaragua</title>
+    <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
+    <category lang="vi">BLV SAMURAI</category>
+  </programme>
+  <programme start="20260928070000 +0700" stop="20260928090000 +0700" channel="39" channel-number="39">
+    <title lang="vi">Dominica VS Puerto Rico</title>
+    <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
+    <category lang="vi">BLV MONSTER</category>
+  </programme>
   <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="1" channel-number="1">
     <title lang="vi">China VS Chinese Taipei</title>
     <desc lang="vi">Asian Games Bóng Chuyền</desc>
@@ -905,7 +925,7 @@
     <desc lang="vi">MLS</desc>
     <category lang="vi">Tày</category>
   </programme>
-  <programme start="20260927160000 +0700" stop="20260927180000 +0700" channel="1" channel-number="1">
+  <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="1" channel-number="1">
     <title lang="vi">Dong Thap VS Thai Nguyen</title>
     <desc lang="vi">Vietnam National First Class League</desc>
     <category lang="vi">Doanh Chính</category>

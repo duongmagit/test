@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
-#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 15:59 27/09",15:59 27/09
+#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 16:05 27/09",16:05 27/09
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="COLA TV",🟢 14:30 27/09 🏀 KCC Egis VS Incheon | BLV POCARI
 https://live05.meung.app/live/19919577_tsc.m3u8
@@ -13,7 +13,7 @@ https://live05.meung.app/live/08552895_tsc.m3u8
 https://live05.meung.app/live/14707124_tsc.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80" group-title="COLA TV",🟡 17:00 27/09 ⚽ Gangwon VS Incheon United | BLV PEPSI
 https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="COLA TV",🟣 18:00 27/09 ⚽ Tân Châu Huệ Long VS Đại Liên Hoa Nghị | BLV AQUA
+#EXTINF:-1 tvg-id="7" tvg-logo="https://img.gvapi.cc/football/team/69b0ed18e16d15d6888baad52e6fa88f.png!w80" group-title="COLA TV",🟡 18:00 27/09 ⚽ Tân Châu Huệ Long VS Đại Liên Hoa Nghị | BLV AQUA
 https://live05.meung.app/live/18812304_tsc.m3u8
 #EXTINF:-1 tvg-id="8" tvg-logo="https://img.gvapi.cc/football/team/445ef89e5620a875f7c2eaddd033e39d.png!w80" group-title="COLA TV",🟣 18:35 27/09 ⚽ Trung Quốc VS New Zealand | BLV SPRITE
 https://live05.meung.app/live/75748097_tsc.m3u8
@@ -75,6 +75,10 @@ https://live05.meung.app/live/97885009_tsc.m3u8
 https://live05.meung.app/live/87379114_tsc.m3u8
 #EXTINF:-1 tvg-id="37" tvg-logo="https://img.gvapi.cc/football/team/d55980e43b8a49a3ac62d7a899334f11.png!w80" group-title="COLA TV",🟣 06:00 28/09 ⚽ Haiti VS Costa Rica | BLV MOUNTAIN DEW
 https://live05.meung.app/live/87547578_tsc.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80" group-title="COLA TV",🟣 07:00 28/09 ⚽ Curacao VS Nicaragua | BLV SAMURAI
+https://live05.meung.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80" group-title="COLA TV",🟣 07:00 28/09 ⚽ Dominica VS Puerto Rico | BLV MONSTER
+https://live05.meung.app/live/75915087_tsc.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" group-title="CHUOI CHIEN TV | HD",🟡 17:00 27/09 🏐 China VS Chinese Taipei | Chuối Kem
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
@@ -210,7 +214,7 @@ https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c
 #EXTINF:-1 tvg-id="15" tvg-logo="https://khandai2.link/media/teams/logos/team_306.jpg" group-title="KHAN DAI TV",🟣 06:00 28/09 ⚽ Columbus Crew VS Inter Miami | Tày
 #EXTVLCOPT:http-referrer=https://khandai1.link/
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="1" tvg-logo="https://global-cdn.cdnx.tech/football/team/aaf7ff777567dba636caf52a05a45c31.png" group-title="VUA SAN CO TV",🟡 16:00 27/09 ⚽ Dong Thap VS Thai Nguyen | Doanh Chính
+#EXTINF:-1 tvg-id="1" tvg-logo="https://global-cdn.cdnx.tech/football/team/aaf7ff777567dba636caf52a05a45c31.png" group-title="VUA SAN CO TV",🟡 17:00 27/09 ⚽ Dong Thap VS Thai Nguyen | Doanh Chính
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://global-cdn.cdnx.tech/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png" group-title="VUA SAN CO TV",🟡 17:00 27/09 ⚽ Gangwon FC VS Incheon United Club | Triệu Hằng
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
