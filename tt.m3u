@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
-#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 16:05 27/09",16:05 27/09
+#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 16:09 27/09",16:09 27/09
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80" group-title="COLA TV",🟢 14:30 27/09 🏀 KCC Egis VS Incheon | BLV POCARI
 https://live05.meung.app/live/19919577_tsc.m3u8
@@ -248,3 +248,105 @@ https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://global-cdn.cdnx.tech/football/team/b6d8f81e8454813b3e672b179e627d3a.png" group-title="VUA SAN CO TV",🟣 06:00 28/09 ⚽ Columbus Crew VS Inter Miami CF | Phổ Nghi
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="SAO KE TV | SD",🟢 14:00 27/09 🏐 Indonesia VS Thailand | Cà Rốt
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="SAO KE TV | HD",🟢 14:00 27/09 🏐 Indonesia VS Thailand | Cà Rốt
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6332.png" group-title="SAO KE TV | SD",🟡 17:00 27/09 🟣 Cambodia VS Myanmar | Củ Cải
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/cucai/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6332.png" group-title="SAO KE TV | HD",🟡 17:00 27/09 🟣 Cambodia VS Myanmar | Củ Cải
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" group-title="SAO KE TV | SD",🟡 17:00 27/09 🏐 China VS Đài Bắc Trung Hoa | Kai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/kai/playlist.m3u8
+#EXTINF:-1 tvg-id="6" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134316_d547f1b2.png" group-title="SAO KE TV | HD",🟡 17:00 27/09 🏐 China VS Đài Bắc Trung Hoa | Kai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" group-title="SAO KE TV | SD",🟡 17:00 27/09 🟣 Đồng Tháp VS Thái Nguyên | Bút Chì
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/butchi/playlist.m3u8
+#EXTINF:-1 tvg-id="8" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135806_f9a41cc0.png" group-title="SAO KE TV | HD",🟡 17:00 27/09 🟣 Đồng Tháp VS Thái Nguyên | Bút Chì
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="SAO KE TV | SD",🟡 17:20 27/09 🏐 Japan VS Uzbekistan | Teppy
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/teppy/playlist.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="SAO KE TV | HD",🟡 17:20 27/09 🏐 Japan VS Uzbekistan | Teppy
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822.png" group-title="SAO KE TV | SD",🟣 18:35 27/09 🟣 China VS New Zealand | Tít
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/tit/playlist.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5822.png" group-title="SAO KE TV | HD",🟣 18:35 27/09 🟣 China VS New Zealand | Tít
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="13" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10281.png" group-title="SAO KE TV | SD",🟣 19:00 27/09 🟣 Real Valladolid VS Córdoba | Cà Rốt
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
+#EXTINF:-1 tvg-id="14" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10281.png" group-title="SAO KE TV | HD",🟣 19:00 27/09 🟣 Real Valladolid VS Córdoba | Cà Rốt
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8661.png" group-title="SAO KE TV | SD",🟣 21:15 27/09 🟣 Mallorca VS Almería | Ricky
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8661.png" group-title="SAO KE TV | HD",🟣 21:15 27/09 🟣 Mallorca VS Almería | Ricky
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8255.png" group-title="SAO KE TV | SD",🟣 23:00 27/09 🟣 Austria VS Kosovo | Mơ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/mo/playlist.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8255.png" group-title="SAO KE TV | HD",🟣 23:00 27/09 🟣 Austria VS Kosovo | Mơ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8205.png" group-title="SAO KE TV | SD",🟣 23:00 27/09 🟣 Serbia VS Netherlands | Kai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/kai/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8205.png" group-title="SAO KE TV | HD",🟣 23:00 27/09 🟣 Serbia VS Netherlands | Kai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8238.png" group-title="SAO KE TV | SD",🟣 23:00 27/09 🟣 Denmark VS Wales | Bút Chì
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/butchi/playlist.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8238.png" group-title="SAO KE TV | HD",🟣 23:00 27/09 🟣 Denmark VS Wales | Bút Chì
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="23" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5901.png" group-title="SAO KE TV | SD",🟣 01:00 28/09 🟣 Bahrain VS UAE | Tít
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/tit/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5901.png" group-title="SAO KE TV | HD",🟣 01:00 28/09 🟣 Bahrain VS UAE | Tít
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="25" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8567.png" group-title="SAO KE TV | SD",🟣 01:45 28/09 🟣 Israel VS Ireland | Kai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/kai/playlist.m3u8
+#EXTINF:-1 tvg-id="26" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8567.png" group-title="SAO KE TV | HD",🟣 01:45 28/09 🟣 Israel VS Ireland | Kai
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8570.png" group-title="SAO KE TV | SD",🟣 01:45 28/09 🟣 Germany VS Greece | Củ Cải
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/cucai/playlist.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8570.png" group-title="SAO KE TV | HD",🟣 01:45 28/09 🟣 Germany VS Greece | Củ Cải
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8492.png" group-title="SAO KE TV | SD",🟣 01:45 28/09 🟣 Norway VS Portugal | Ricky
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8492.png" group-title="SAO KE TV | HD",🟣 01:45 28/09 🟣 Norway VS Portugal | Ricky
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/424270.png" group-title="SAO KE TV | SD",🟣 04:00 28/09 🟣 CD Jaguares VS Alianza FC | Cà Rốt
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/424270.png" group-title="SAO KE TV | HD",🟣 04:00 28/09 🟣 CD Jaguares VS Alianza FC | Cà Rốt
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6001.png" group-title="SAO KE TV | SD",🟣 06:00 28/09 ⚽ Columbus Crew VS Inter Miami CF | Mơ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/mo/playlist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6001.png" group-title="SAO KE TV | HD",🟣 06:00 28/09 ⚽ Columbus Crew VS Inter Miami CF | Mơ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8

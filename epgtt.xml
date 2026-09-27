@@ -505,6 +505,176 @@
     <display-number>17</display-number>
     <icon src="https://global-cdn.cdnx.tech/football/competition/d2fe5be131ad888084f50d6af533570c.png"/>
   </channel>
+  <channel id="1">
+    <display-name lang="vi">1</display-name>
+    <display-number>1</display-number>
+    <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
+  </channel>
+  <channel id="2">
+    <display-name lang="vi">2</display-name>
+    <display-number>2</display-number>
+    <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
+  </channel>
+  <channel id="3">
+    <display-name lang="vi">3</display-name>
+    <display-number>3</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/13287.png"/>
+  </channel>
+  <channel id="4">
+    <display-name lang="vi">4</display-name>
+    <display-number>4</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/13287.png"/>
+  </channel>
+  <channel id="5">
+    <display-name lang="vi">5</display-name>
+    <display-number>5</display-number>
+    <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
+  </channel>
+  <channel id="6">
+    <display-name lang="vi">6</display-name>
+    <display-number>6</display-number>
+    <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
+  </channel>
+  <channel id="7">
+    <display-name lang="vi">7</display-name>
+    <display-number>7</display-number>
+    <icon src="https://media.chuoichientv.net/media/20251115_115933_f82a4e9f.png"/>
+  </channel>
+  <channel id="8">
+    <display-name lang="vi">8</display-name>
+    <display-number>8</display-number>
+    <icon src="https://media.chuoichientv.net/media/20251115_115933_f82a4e9f.png"/>
+  </channel>
+  <channel id="9">
+    <display-name lang="vi">9</display-name>
+    <display-number>9</display-number>
+    <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
+  </channel>
+  <channel id="10">
+    <display-name lang="vi">10</display-name>
+    <display-number>10</display-number>
+    <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
+  </channel>
+  <channel id="11">
+    <display-name lang="vi">11</display-name>
+    <display-number>11</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/114.png"/>
+  </channel>
+  <channel id="12">
+    <display-name lang="vi">12</display-name>
+    <display-number>12</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/114.png"/>
+  </channel>
+  <channel id="13">
+    <display-name lang="vi">13</display-name>
+    <display-number>13</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/140.png"/>
+  </channel>
+  <channel id="14">
+    <display-name lang="vi">14</display-name>
+    <display-number>14</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/140.png"/>
+  </channel>
+  <channel id="15">
+    <display-name lang="vi">15</display-name>
+    <display-number>15</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/140.png"/>
+  </channel>
+  <channel id="16">
+    <display-name lang="vi">16</display-name>
+    <display-number>16</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/140.png"/>
+  </channel>
+  <channel id="17">
+    <display-name lang="vi">17</display-name>
+    <display-number>17</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9807.png"/>
+  </channel>
+  <channel id="18">
+    <display-name lang="vi">18</display-name>
+    <display-number>18</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9807.png"/>
+  </channel>
+  <channel id="19">
+    <display-name lang="vi">19</display-name>
+    <display-number>19</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png"/>
+  </channel>
+  <channel id="20">
+    <display-name lang="vi">20</display-name>
+    <display-number>20</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png"/>
+  </channel>
+  <channel id="21">
+    <display-name lang="vi">21</display-name>
+    <display-number>21</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png"/>
+  </channel>
+  <channel id="22">
+    <display-name lang="vi">22</display-name>
+    <display-number>22</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png"/>
+  </channel>
+  <channel id="23">
+    <display-name lang="vi">23</display-name>
+    <display-number>23</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/329.png"/>
+  </channel>
+  <channel id="24">
+    <display-name lang="vi">24</display-name>
+    <display-number>24</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/329.png"/>
+  </channel>
+  <channel id="25">
+    <display-name lang="vi">25</display-name>
+    <display-number>25</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9807.png"/>
+  </channel>
+  <channel id="26">
+    <display-name lang="vi">26</display-name>
+    <display-number>26</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9807.png"/>
+  </channel>
+  <channel id="27">
+    <display-name lang="vi">27</display-name>
+    <display-number>27</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png"/>
+  </channel>
+  <channel id="28">
+    <display-name lang="vi">28</display-name>
+    <display-number>28</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png"/>
+  </channel>
+  <channel id="29">
+    <display-name lang="vi">29</display-name>
+    <display-number>29</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png"/>
+  </channel>
+  <channel id="30">
+    <display-name lang="vi">30</display-name>
+    <display-number>30</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9806.png"/>
+  </channel>
+  <channel id="31">
+    <display-name lang="vi">31</display-name>
+    <display-number>31</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/274.png"/>
+  </channel>
+  <channel id="32">
+    <display-name lang="vi">32</display-name>
+    <display-number>32</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/274.png"/>
+  </channel>
+  <channel id="33">
+    <display-name lang="vi">33</display-name>
+    <display-number>33</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/130.png"/>
+  </channel>
+  <channel id="34">
+    <display-name lang="vi">34</display-name>
+    <display-number>34</display-number>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/130.png"/>
+  </channel>
   <programme start="20260927143000 +0700" stop="20260927163000 +0700" channel="1" channel-number="1">
     <title lang="vi">KCC Egis VS Incheon</title>
     <desc lang="vi">Korean Basketball League Open Match Day</desc>
@@ -1009,5 +1179,175 @@
     <title lang="vi">Columbus Crew VS Inter Miami CF</title>
     <desc lang="vi">MLS</desc>
     <category lang="vi">Phổ Nghi</category>
+  </programme>
+  <programme start="20260927140000 +0700" stop="20260927160000 +0700" channel="1" channel-number="1">
+    <title lang="vi">Indonesia VS Thailand</title>
+    <desc lang="vi">Asian Games Bóng Chuyền</desc>
+    <category lang="vi">Cà Rốt</category>
+  </programme>
+  <programme start="20260927140000 +0700" stop="20260927160000 +0700" channel="2" channel-number="2">
+    <title lang="vi">Indonesia VS Thailand</title>
+    <desc lang="vi">Asian Games Bóng Chuyền</desc>
+    <category lang="vi">Cà Rốt</category>
+  </programme>
+  <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="3" channel-number="3">
+    <title lang="vi">Cambodia VS Myanmar</title>
+    <desc lang="vi">FIFA ASEAN Cup Challenge Division Grp. B</desc>
+    <category lang="vi">Củ Cải</category>
+  </programme>
+  <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="4" channel-number="4">
+    <title lang="vi">Cambodia VS Myanmar</title>
+    <desc lang="vi">FIFA ASEAN Cup Challenge Division Grp. B</desc>
+    <category lang="vi">Củ Cải</category>
+  </programme>
+  <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="5" channel-number="5">
+    <title lang="vi">China VS Đài Bắc Trung Hoa</title>
+    <desc lang="vi">Asian Games Bóng Chuyền</desc>
+    <category lang="vi">Kai</category>
+  </programme>
+  <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="6" channel-number="6">
+    <title lang="vi">China VS Đài Bắc Trung Hoa</title>
+    <desc lang="vi">Asian Games Bóng Chuyền</desc>
+    <category lang="vi">Kai</category>
+  </programme>
+  <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="7" channel-number="7">
+    <title lang="vi">Đồng Tháp VS Thái Nguyên</title>
+    <desc lang="vi">V.League 2</desc>
+    <category lang="vi">Bút Chì</category>
+  </programme>
+  <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="8" channel-number="8">
+    <title lang="vi">Đồng Tháp VS Thái Nguyên</title>
+    <desc lang="vi">V.League 2</desc>
+    <category lang="vi">Bút Chì</category>
+  </programme>
+  <programme start="20260927172000 +0700" stop="20260927192000 +0700" channel="9" channel-number="9">
+    <title lang="vi">Japan VS Uzbekistan</title>
+    <desc lang="vi">Asian Games Bóng Chuyền</desc>
+    <category lang="vi">Teppy</category>
+  </programme>
+  <programme start="20260927172000 +0700" stop="20260927192000 +0700" channel="10" channel-number="10">
+    <title lang="vi">Japan VS Uzbekistan</title>
+    <desc lang="vi">Asian Games Bóng Chuyền</desc>
+    <category lang="vi">Teppy</category>
+  </programme>
+  <programme start="20260927183500 +0700" stop="20260927203500 +0700" channel="11" channel-number="11">
+    <title lang="vi">China VS New Zealand</title>
+    <desc lang="vi">Friendlies</desc>
+    <category lang="vi">Tít</category>
+  </programme>
+  <programme start="20260927183500 +0700" stop="20260927203500 +0700" channel="12" channel-number="12">
+    <title lang="vi">China VS New Zealand</title>
+    <desc lang="vi">Friendlies</desc>
+    <category lang="vi">Tít</category>
+  </programme>
+  <programme start="20260927190000 +0700" stop="20260927210000 +0700" channel="13" channel-number="13">
+    <title lang="vi">Real Valladolid VS Córdoba</title>
+    <desc lang="vi">LaLiga2</desc>
+    <category lang="vi">Cà Rốt</category>
+  </programme>
+  <programme start="20260927190000 +0700" stop="20260927210000 +0700" channel="14" channel-number="14">
+    <title lang="vi">Real Valladolid VS Córdoba</title>
+    <desc lang="vi">LaLiga2</desc>
+    <category lang="vi">Cà Rốt</category>
+  </programme>
+  <programme start="20260927211500 +0700" stop="20260927231500 +0700" channel="15" channel-number="15">
+    <title lang="vi">Mallorca VS Almería</title>
+    <desc lang="vi">LaLiga2</desc>
+    <category lang="vi">Ricky</category>
+  </programme>
+  <programme start="20260927211500 +0700" stop="20260927231500 +0700" channel="16" channel-number="16">
+    <title lang="vi">Mallorca VS Almería</title>
+    <desc lang="vi">LaLiga2</desc>
+    <category lang="vi">Ricky</category>
+  </programme>
+  <programme start="20260927230000 +0700" stop="20260928010000 +0700" channel="17" channel-number="17">
+    <title lang="vi">Austria VS Kosovo</title>
+    <desc lang="vi">UEFA Nations League B Grp. 3</desc>
+    <category lang="vi">Mơ</category>
+  </programme>
+  <programme start="20260927230000 +0700" stop="20260928010000 +0700" channel="18" channel-number="18">
+    <title lang="vi">Austria VS Kosovo</title>
+    <desc lang="vi">UEFA Nations League B Grp. 3</desc>
+    <category lang="vi">Mơ</category>
+  </programme>
+  <programme start="20260927230000 +0700" stop="20260928010000 +0700" channel="19" channel-number="19">
+    <title lang="vi">Serbia VS Netherlands</title>
+    <desc lang="vi">UEFA Nations League A Grp. 2</desc>
+    <category lang="vi">Kai</category>
+  </programme>
+  <programme start="20260927230000 +0700" stop="20260928010000 +0700" channel="20" channel-number="20">
+    <title lang="vi">Serbia VS Netherlands</title>
+    <desc lang="vi">UEFA Nations League A Grp. 2</desc>
+    <category lang="vi">Kai</category>
+  </programme>
+  <programme start="20260927230000 +0700" stop="20260928010000 +0700" channel="21" channel-number="21">
+    <title lang="vi">Denmark VS Wales</title>
+    <desc lang="vi">UEFA Nations League A Grp. 4</desc>
+    <category lang="vi">Bút Chì</category>
+  </programme>
+  <programme start="20260927230000 +0700" stop="20260928010000 +0700" channel="22" channel-number="22">
+    <title lang="vi">Denmark VS Wales</title>
+    <desc lang="vi">UEFA Nations League A Grp. 4</desc>
+    <category lang="vi">Bút Chì</category>
+  </programme>
+  <programme start="20260928010000 +0700" stop="20260928030000 +0700" channel="23" channel-number="23">
+    <title lang="vi">Bahrain VS UAE</title>
+    <desc lang="vi">Gulf Cup Grp. B</desc>
+    <category lang="vi">Tít</category>
+  </programme>
+  <programme start="20260928010000 +0700" stop="20260928030000 +0700" channel="24" channel-number="24">
+    <title lang="vi">Bahrain VS UAE</title>
+    <desc lang="vi">Gulf Cup Grp. B</desc>
+    <category lang="vi">Tít</category>
+  </programme>
+  <programme start="20260928014500 +0700" stop="20260928034500 +0700" channel="25" channel-number="25">
+    <title lang="vi">Israel VS Ireland</title>
+    <desc lang="vi">UEFA Nations League B Grp. 3</desc>
+    <category lang="vi">Kai</category>
+  </programme>
+  <programme start="20260928014500 +0700" stop="20260928034500 +0700" channel="26" channel-number="26">
+    <title lang="vi">Israel VS Ireland</title>
+    <desc lang="vi">UEFA Nations League B Grp. 3</desc>
+    <category lang="vi">Kai</category>
+  </programme>
+  <programme start="20260928014500 +0700" stop="20260928034500 +0700" channel="27" channel-number="27">
+    <title lang="vi">Germany VS Greece</title>
+    <desc lang="vi">UEFA Nations League A Grp. 2</desc>
+    <category lang="vi">Củ Cải</category>
+  </programme>
+  <programme start="20260928014500 +0700" stop="20260928034500 +0700" channel="28" channel-number="28">
+    <title lang="vi">Germany VS Greece</title>
+    <desc lang="vi">UEFA Nations League A Grp. 2</desc>
+    <category lang="vi">Củ Cải</category>
+  </programme>
+  <programme start="20260928014500 +0700" stop="20260928034500 +0700" channel="29" channel-number="29">
+    <title lang="vi">Norway VS Portugal</title>
+    <desc lang="vi">UEFA Nations League A Grp. 4</desc>
+    <category lang="vi">Ricky</category>
+  </programme>
+  <programme start="20260928014500 +0700" stop="20260928034500 +0700" channel="30" channel-number="30">
+    <title lang="vi">Norway VS Portugal</title>
+    <desc lang="vi">UEFA Nations League A Grp. 4</desc>
+    <category lang="vi">Ricky</category>
+  </programme>
+  <programme start="20260928040000 +0700" stop="20260928060000 +0700" channel="31" channel-number="31">
+    <title lang="vi">CD Jaguares VS Alianza FC</title>
+    <desc lang="vi">Primera A</desc>
+    <category lang="vi">Cà Rốt</category>
+  </programme>
+  <programme start="20260928040000 +0700" stop="20260928060000 +0700" channel="32" channel-number="32">
+    <title lang="vi">CD Jaguares VS Alianza FC</title>
+    <desc lang="vi">Primera A</desc>
+    <category lang="vi">Cà Rốt</category>
+  </programme>
+  <programme start="20260928060000 +0700" stop="20260928080000 +0700" channel="33" channel-number="33">
+    <title lang="vi">Columbus Crew VS Inter Miami CF</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">Mơ</category>
+  </programme>
+  <programme start="20260928060000 +0700" stop="20260928080000 +0700" channel="34" channel-number="34">
+    <title lang="vi">Columbus Crew VS Inter Miami CF</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">Mơ</category>
   </programme>
 </tv>
