@@ -185,6 +185,21 @@
     <display-number>37</display-number>
     <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
+  <channel id="38">
+    <display-name lang="vi">38</display-name>
+    <display-number>38</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
+  </channel>
+  <channel id="39">
+    <display-name lang="vi">39</display-name>
+    <display-number>39</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+  </channel>
+  <channel id="40">
+    <display-name lang="vi">40</display-name>
+    <display-number>40</display-number>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
+  </channel>
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
@@ -335,6 +350,26 @@
     <display-number>30</display-number>
     <icon src="https://media.chuoichientv.net/media/20251115_115514_4b79fc56.png"/>
   </channel>
+  <channel id="31">
+    <display-name lang="vi">31</display-name>
+    <display-number>31</display-number>
+    <icon src="https://media.chuoichientv.net/media/20251115_113519_5f3a9d40.png"/>
+  </channel>
+  <channel id="32">
+    <display-name lang="vi">32</display-name>
+    <display-number>32</display-number>
+    <icon src="https://media.chuoichientv.net/media/20251115_113519_5f3a9d40.png"/>
+  </channel>
+  <channel id="33">
+    <display-name lang="vi">33</display-name>
+    <display-number>33</display-number>
+    <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
+  </channel>
+  <channel id="34">
+    <display-name lang="vi">34</display-name>
+    <display-number>34</display-number>
+    <icon src="https://media.chuoichientv.net/media/20260916_005021_092b04e6.png"/>
+  </channel>
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
@@ -348,17 +383,17 @@
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/team_4898.png"/>
+    <icon src="https://khandai2.link/media/teams/logos/OIP_4xNC98N.jpg"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/OIP_4xNC98N.jpg"/>
+    <icon src="https://khandai2.link/media/teams/logos/team_684.jpg"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
     <display-number>5</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/team_684.jpg"/>
+    <icon src="https://khandai2.link/media/teams/logos/team_4898.png"/>
   </channel>
   <channel id="6">
     <display-name lang="vi">6</display-name>
@@ -760,6 +795,16 @@
     <display-number>22</display-number>
     <icon src="https://img.gvapi.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png"/>
   </channel>
+  <channel id="23">
+    <display-name lang="vi">23</display-name>
+    <display-number>23</display-number>
+    <icon src="https://img.gvapi.cc/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png"/>
+  </channel>
+  <channel id="24">
+    <display-name lang="vi">24</display-name>
+    <display-number>24</display-number>
+    <icon src="https://img.gvapi.cc/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png"/>
+  </channel>
   <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="1" channel-number="1">
     <title lang="vi">Campuchia VS Myanmar</title>
     <desc lang="vi">ASEAN Cup</desc>
@@ -945,6 +990,21 @@
     <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
     <category lang="vi">BLV MONSTER</category>
   </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="38" channel-number="38">
+    <title lang="vi">Trinidad &amp; Tobago VS Cộng hòa Dominican</title>
+    <desc lang="vi">Liên minh bóng đá quốc gia châu Mỹ</desc>
+    <category lang="vi">BLV POCARI</category>
+  </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="39" channel-number="39">
+    <title lang="vi">Club Leon VS Juarez</title>
+    <desc lang="vi">Giải Vô địch Bóng đá Quốc gia Mexico</desc>
+    <category lang="vi">BLV MOUNTAIN DEW</category>
+  </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="40" channel-number="40">
+    <title lang="vi">Golden State Valkyries VS Dallas Wings</title>
+    <desc lang="vi">Hiệp hội bóng rổ quốc gia nữ</desc>
+    <category lang="vi">BLV ROCKSTAR</category>
+  </programme>
   <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="1" channel-number="1">
     <title lang="vi">China VS Chinese Taipei</title>
     <desc lang="vi">Asian Games Bóng Chuyền</desc>
@@ -1095,6 +1155,26 @@
     <desc lang="vi">Major League Soccer</desc>
     <category lang="vi">Chuối Chao</category>
   </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="31" channel-number="31">
+    <title lang="vi">Leon VS FC Juarez</title>
+    <desc lang="vi">VĐQG Mexico</desc>
+    <category lang="vi">Chuối Kem</category>
+  </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="32" channel-number="32">
+    <title lang="vi">Leon VS FC Juarez</title>
+    <desc lang="vi">VĐQG Mexico</desc>
+    <category lang="vi">Chuối Kem</category>
+  </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="33" channel-number="33">
+    <title lang="vi">Indonesia VS Kyrgyzstan W</title>
+    <desc lang="vi">Asian Games Bóng Chuyền</desc>
+    <category lang="vi">Chuối Tây</category>
+  </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="34" channel-number="34">
+    <title lang="vi">Indonesia VS Kyrgyzstan W</title>
+    <desc lang="vi">Asian Games Bóng Chuyền</desc>
+    <category lang="vi">Chuối Tây</category>
+  </programme>
   <programme start="20260927170000 +0700" stop="20260927190000 +0700" channel="1" channel-number="1">
     <title lang="vi">Cambodia VS Myanmar</title>
     <desc lang="vi">Fifa Asean Cup</desc>
@@ -1105,20 +1185,20 @@
     <desc lang="vi">ASIAD GAME</desc>
     <category lang="vi">Enzo</category>
   </programme>
-  <programme start="20260927203000 +0700" stop="20260927223000 +0700" channel="3" channel-number="3">
-    <title lang="vi">Scandicci VS Novara</title>
-    <desc lang="vi">Giao Hữu</desc>
-    <category lang="vi">KaKa</category>
-  </programme>
-  <programme start="20260927172000 +0700" stop="20260927192000 +0700" channel="4" channel-number="4">
+  <programme start="20260927172000 +0700" stop="20260927192000 +0700" channel="3" channel-number="3">
     <title lang="vi">Nhật Bản VS Uzbekistan</title>
     <desc lang="vi">ASIAD GAME</desc>
     <category lang="vi">Chim Nhỏ</category>
   </programme>
-  <programme start="20260927200000 +0700" stop="20260927220000 +0700" channel="5" channel-number="5">
+  <programme start="20260927200000 +0700" stop="20260927220000 +0700" channel="4" channel-number="4">
     <title lang="vi">Lithuania VS Azerbaijan</title>
     <desc lang="vi">UEFA Nations League</desc>
     <category lang="vi">Kền Kền</category>
+  </programme>
+  <programme start="20260927203000 +0700" stop="20260927223000 +0700" channel="5" channel-number="5">
+    <title lang="vi">Scandicci VS Novara</title>
+    <desc lang="vi">Giao Hữu</desc>
+    <category lang="vi">KaKa</category>
   </programme>
   <programme start="20260927230000 +0700" stop="20260928010000 +0700" channel="6" channel-number="6">
     <title lang="vi">Austria VS Kosovo</title>
@@ -1519,5 +1599,15 @@
     <title lang="vi">Haiti VS Costa Rica</title>
     <desc lang="vi">CONCACAF Nations League</desc>
     <category lang="vi">Gà Siêu Tốc</category>
+  </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="23" channel-number="23">
+    <title lang="vi">Club Leon VS FC Juarez</title>
+    <desc lang="vi">Mexico Liga MX</desc>
+    <category lang="vi">Gà Siêu Tốc</category>
+  </programme>
+  <programme start="20260928080000 +0700" stop="20260928100000 +0700" channel="24" channel-number="24">
+    <title lang="vi">Trinidad and Tobago VS Dominican Republic</title>
+    <desc lang="vi">CONCACAF Nations League</desc>
+    <category lang="vi">Gà Siêu Kiêu</category>
   </programme>
 </tv>
