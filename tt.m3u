@@ -1,276 +1,270 @@
 #EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
-#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 14:13 28/09",14:13 28/09
+#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 18:24 28/09",18:24 28/09
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80" group-title="COLA TV",🟡 16:00 28/09 ⚽ Singapore VS Bangladesh | BLV SPRITE
-https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80" group-title="COLA TV",🟡 16:00 28/09 ⚽ Singapore VS Bangladesh | BLV GIÀ LÀNG
-https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://img.gvapi.cc/football/team/8a9fc46ed01d4d8aa736a356b92bc291.png!w80" group-title="COLA TV",🟡 16:00 28/09 ⚽ Tensung FC VS RTC FC | BLV 247
-https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="COLA TV",🟣 17:25 28/09 ⚽ Nhật Bản VS Venezuela | BLV REVIVE
+#EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="COLA TV",🟢 18:00 28/09 ⚽ Hàn Quốc VS Uruguay | BLV C2
+https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-id="2" tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="COLA TV",🟢 18:00 28/09 ⚽ Hàn Quốc VS Uruguay | BLV 7UP
+https://live05.meung.app/live/78905744_tsc.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="COLA TV",🟢 17:25 28/09 ⚽ Nhật Bản VS Venezuela | BLV REVIVE
 https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="COLA TV",🟣 17:25 28/09 ⚽ Nhật Bản VS Venezuela | BLV Cozy
+#EXTINF:-1 tvg-id="4" tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="COLA TV",🟢 17:25 28/09 ⚽ Nhật Bản VS Venezuela | BLV Cozy
 https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="6" tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="COLA TV",🟣 18:00 28/09 ⚽ Hàn Quốc VS Uruguay | BLV C2
-https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80" group-title="COLA TV",🟣 18:00 28/09 ⚽ Hàn Quốc VS Uruguay | BLV 7UP
-https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="8" tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="COLA TV",🟣 19:00 28/09 ⚽ Tajikistan VS Palestine | BLV ROCKSTAR
+#EXTINF:-1 tvg-id="5" tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="COLA TV",🟡 19:00 28/09 ⚽ Tajikistan VS Palestine | BLV ROCKSTAR
 https://live05.meung.app/live/82054853_tsc.m3u8
-#EXTINF:-1 tvg-id="9" tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="COLA TV",🟣 19:00 28/09 ⚽ Tajikistan VS Palestine | BLV FANTA
+#EXTINF:-1 tvg-id="6" tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png!w80" group-title="COLA TV",🟡 19:00 28/09 ⚽ Tajikistan VS Palestine | BLV FANTA
 https://live05.meung.app/live/16226575_tsc.m3u8
-#EXTINF:-1 tvg-id="10" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="COLA TV",🟣 19:30 28/09 ⚽ Malaysia VS Indonesia | BLV STING
-https://live05.meung.app/live/14707124_tsc.m3u8
-#EXTINF:-1 tvg-id="11" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="COLA TV",🟣 19:30 28/09 ⚽ Malaysia VS Indonesia | BLV GIÀ LÀNG
-https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="12" tvg-logo="https://img.gvapi.cc/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png!w80" group-title="COLA TV",🟣 20:00 28/09 ⚽ Graficar Beograd VS Teleoptik | BLV PEPSI
-https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="13" tvg-logo="https://img.gvapi.cc/football/team/d5db95a6441ae92e5dd150663f89dc64.png!w80" group-title="COLA TV",🟣 22:00 28/09 ⚽ Leixoes U23 VS Vizela U23 | BLV SPRITE
-https://live05.meung.app/live/75748097_tsc.m3u8
-#EXTINF:-1 tvg-id="14" tvg-logo="https://img.gvapi.cc/football/team/718ad64f1a3de007af0de47a9ca2df8f.jpg!w80" group-title="COLA TV",🟣 22:00 28/09 ⚽ Al-Kharitiyath VS Al Wakra | BLV MONSTER
-https://live05.meung.app/live/75915087_tsc.m3u8
-#EXTINF:-1 tvg-id="15" tvg-logo="https://img.gvapi.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="COLA TV",🟣 23:00 28/09 ⚽ Latvia VS Đảo Síp | BLV HỔ VẰN
-https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="16" tvg-logo="https://img.gvapi.cc/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png!w80" group-title="COLA TV",🟣 23:00 28/09 ⚽ CLB Armenia VS Montenegro | BLV AQUA
-https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="17" tvg-logo="https://img.gvapi.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w80" group-title="COLA TV",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | BLV SAMURAI
+#EXTINF:-1 tvg-id="7" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="COLA TV",🟡 19:30 28/09 ⚽ Malaysia VS Indonesia | BLV SAMURAI
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="18" tvg-logo="https://img.gvapi.cc/football/team/b6728832f1504989e57f8a43479429ec.png!w80" group-title="COLA TV",🟣 01:30 29/09 ⚽ CLB Leganes VS Castellon | BLV PEPSI
-https://live05.meung.app/live/59444581_tsc.m3u8
-#EXTINF:-1 tvg-id="19" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Bỉ VS Pháp | BLV C2
-https://live05.meung.app/live/08552895_tsc.m3u8
-#EXTINF:-1 tvg-id="20" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Bỉ VS Pháp | BLV GIÀ LÀNG
+#EXTINF:-1 tvg-id="8" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80" group-title="COLA TV",🟡 19:30 28/09 ⚽ Malaysia VS Indonesia | BLV GIÀ LÀNG
 https://live05.meung.app/live/14830711_tsc.m3u8
-#EXTINF:-1 tvg-id="21" tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Thổ nhĩ kỳ VS ĐTQG Ý | BLV REVIVE
-https://live05.meung.app/live/33982309_tsc.m3u8
-#EXTINF:-1 tvg-id="22" tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Thổ nhĩ kỳ VS ĐTQG Ý | BLV HỔ VẰN
+#EXTINF:-1 tvg-id="9" tvg-logo="https://img.gvapi.cc/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png!w80" group-title="COLA TV",🟡 20:00 28/09 ⚽ Graficar Beograd VS Teleoptik | BLV PEPSI
+https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-id="10" tvg-logo="https://img.gvapi.cc/football/team/d5db95a6441ae92e5dd150663f89dc64.png!w80" group-title="COLA TV",🟣 22:00 28/09 ⚽ Leixoes U23 VS Vizela U23 | BLV SPRITE
+https://live05.meung.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-id="11" tvg-logo="https://img.gvapi.cc/football/team/718ad64f1a3de007af0de47a9ca2df8f.jpg!w80" group-title="COLA TV",🟣 22:00 28/09 ⚽ Al-Kharitiyath VS Al Wakra | BLV MONSTER
+https://live05.meung.app/live/75915087_tsc.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="https://img.gvapi.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png!w80" group-title="COLA TV",🟣 23:00 28/09 ⚽ Latvia VS Đảo Síp | BLV HỔ VẰN
 https://live05.meung.app/live/07428422_tsc.m3u8
-#EXTINF:-1 tvg-id="23" tvg-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ ĐTQG Bắc Ireland VS ĐTQG Hungary | BLV SODA
-https://live05.meung.app/live/02456966_tsc.m3u8
-#EXTINF:-1 tvg-id="24" tvg-logo="https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Thụy Điển VS ĐTQG Ba Lan | BLV AQUA
+#EXTINF:-1 tvg-id="13" tvg-logo="https://img.gvapi.cc/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png!w80" group-title="COLA TV",🟣 23:00 28/09 ⚽ CLB Armenia VS Montenegro | BLV AQUA
 https://live05.meung.app/live/18812304_tsc.m3u8
-#EXTINF:-1 tvg-id="25" tvg-logo="https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ CLB Romania VS ĐTQG Bosnia Herzegovina | BLV 7UP
+#EXTINF:-1 tvg-id="14" tvg-logo="https://img.gvapi.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png!w80" group-title="COLA TV",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | BLV STING
+https://live05.meung.app/live/14707124_tsc.m3u8
+#EXTINF:-1 tvg-id="15" tvg-logo="https://img.gvapi.cc/football/team/b6728832f1504989e57f8a43479429ec.png!w80" group-title="COLA TV",🟣 01:30 29/09 ⚽ CLB Leganes VS Castellon | BLV PEPSI
+https://live05.meung.app/live/59444581_tsc.m3u8
+#EXTINF:-1 tvg-id="16" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Bỉ VS Pháp | BLV C2
+https://live05.meung.app/live/08552895_tsc.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Bỉ VS Pháp | BLV GIÀ LÀNG
+https://live05.meung.app/live/14830711_tsc.m3u8
+#EXTINF:-1 tvg-id="18" tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Thổ nhĩ kỳ VS ĐTQG Ý | BLV REVIVE
+https://live05.meung.app/live/33982309_tsc.m3u8
+#EXTINF:-1 tvg-id="19" tvg-logo="https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Thổ nhĩ kỳ VS ĐTQG Ý | BLV HỔ VẰN
+https://live05.meung.app/live/07428422_tsc.m3u8
+#EXTINF:-1 tvg-id="20" tvg-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ ĐTQG Bắc Ireland VS ĐTQG Hungary | BLV SODA
+https://live05.meung.app/live/02456966_tsc.m3u8
+#EXTINF:-1 tvg-id="21" tvg-logo="https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ Thụy Điển VS ĐTQG Ba Lan | BLV AQUA
+https://live05.meung.app/live/18812304_tsc.m3u8
+#EXTINF:-1 tvg-id="22" tvg-logo="https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80" group-title="COLA TV",🟣 01:45 29/09 ⚽ CLB Romania VS ĐTQG Bosnia Herzegovina | BLV 7UP
 https://live05.meung.app/live/78905744_tsc.m3u8
-#EXTINF:-1 tvg-id="26" tvg-logo="https://img.gvapi.cc/football/team/184cb48a11bd10712686ebd5611812af.png!w80" group-title="COLA TV",🟣 02:00 29/09 ⚽ Botswana VS Tunisia | BLV WARRIOR
+#EXTINF:-1 tvg-id="23" tvg-logo="https://img.gvapi.cc/football/team/184cb48a11bd10712686ebd5611812af.png!w80" group-title="COLA TV",🟣 02:00 29/09 ⚽ Botswana VS Tunisia | BLV WARRIOR
 https://live05.meung.app/live/97885009_tsc.m3u8
-#EXTINF:-1 tvg-id="27" tvg-logo="https://img.gvapi.cc/football/team/19406b9f645610fda9a0f6f27bdac710.png!w80" group-title="COLA TV",🟣 04:00 29/09 ⚽ Cuba VS Bonaire | BLV BÍ ĐAO
+#EXTINF:-1 tvg-id="24" tvg-logo="https://img.gvapi.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80" group-title="COLA TV",🟣 02:00 29/09 ⚽ Tunisia VS Botswana | BLV WARRIOR
+https://live05.meung.app/live/97885009_tsc.m3u8
+#EXTINF:-1 tvg-id="25" tvg-logo="https://img.gvapi.cc/football/team/19406b9f645610fda9a0f6f27bdac710.png!w80" group-title="COLA TV",🟣 04:00 29/09 ⚽ Cuba VS Bonaire | BLV BÍ ĐAO
 https://live05.meung.app/live/99121525_tsc.m3u8
-#EXTINF:-1 tvg-id="28" tvg-logo="https://img.gvapi.cc/football/team/d8775b779c58b408703f4e16b9feb26f.png!w80" group-title="COLA TV",🟣 05:00 29/09 ⚽ Suriname VS Martinique | BLV MOUNTAIN DEW
+#EXTINF:-1 tvg-id="26" tvg-logo="https://img.gvapi.cc/football/team/d8775b779c58b408703f4e16b9feb26f.png!w80" group-title="COLA TV",🟣 05:00 29/09 ⚽ Suriname VS Martinique | BLV MOUNTAIN DEW
 https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="29" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="CHUOI CHIEN TV | HD",🟢 14:00 28/09 🏐 Việt Nam VS Qatar | Chuối Kem
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="30" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="CHUOI CHIEN TV | FHD",🟢 14:00 28/09 🏐 Việt Nam VS Qatar | Chuối Kem
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" group-title="CHUOI CHIEN TV | HD",🟡 16:00 28/09 ⚽ Singapore VS Bangladesh | Chuối Ngao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8
-#EXTINF:-1 tvg-id="32" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132714_c2b04cf4.png" group-title="CHUOI CHIEN TV | FHD",🟡 16:00 28/09 ⚽ Singapore VS Bangladesh | Chuối Ngao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="33" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" group-title="CHUOI CHIEN TV | HD",🟣 17:00 28/09 🏐 Chinese Taipei VS South Korea | Chuối Tây
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="34" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" group-title="CHUOI CHIEN TV | FHD",🟣 17:00 28/09 🏐 Chinese Taipei VS South Korea | Chuối Tây
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="35" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="CHUOI CHIEN TV | HD",🟣 17:20 28/09 🏐 Kazakhstan VS Japan | Chuối Kem
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
-#EXTINF:-1 tvg-id="36" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="CHUOI CHIEN TV | FHD",🟣 17:20 28/09 🏐 Kazakhstan VS Japan | Chuối Kem
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-#EXTINF:-1 tvg-id="37" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="CHUOI CHIEN TV | HD",🟣 17:25 28/09 ⚽ Japan VS Venezuela | Chuối Lá
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="38" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="CHUOI CHIEN TV | FHD",🟣 17:25 28/09 ⚽ Japan VS Venezuela | Chuối Lá
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="39" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="CHUOI CHIEN TV | HD",🟣 18:00 28/09 ⚽ South Korea VS Uruguay | Chuối Chao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="40" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="CHUOI CHIEN TV | FHD",🟣 18:00 28/09 ⚽ South Korea VS Uruguay | Chuối Chao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="41" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="CHUOI CHIEN TV | HD",🟣 19:30 28/09 ⚽ Indonesia VS Malaysia | Chuối Sấy
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="42" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="CHUOI CHIEN TV | FHD",🟣 19:30 28/09 ⚽ Indonesia VS Malaysia | Chuối Sấy
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="43" tvg-logo="https://media.chuoichientv.net/media/20260604_133429_24e1757b.webp" group-title="CHUOI CHIEN TV | HD",🟣 21:00 28/09 ⚽ Kyrgyzstan W VS Maldives | Chuối Lá
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-id="44" tvg-logo="https://media.chuoichientv.net/media/20260604_133429_24e1757b.webp" group-title="CHUOI CHIEN TV | FHD",🟣 21:00 28/09 ⚽ Kyrgyzstan W VS Maldives | Chuối Lá
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-id="45" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV | HD",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Chuối Nhỏ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="46" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV | FHD",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Chuối Nhỏ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="47" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="CHUOI CHIEN TV | HD",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Chuối Chao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="48" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="CHUOI CHIEN TV | FHD",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Chuối Chao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="49" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" group-title="CHUOI CHIEN TV | HD",🟣 01:45 29/09 ⚽ Belgium VS France | Chuối Ngao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8
-#EXTINF:-1 tvg-id="50" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" group-title="CHUOI CHIEN TV | FHD",🟣 01:45 29/09 ⚽ Belgium VS France | Chuối Ngao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="51" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV | HD",🟣 01:45 29/09 ⚽ Türkiye VS Italy | Chuối Chao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-id="52" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV | FHD",🟣 01:45 29/09 ⚽ Türkiye VS Italy | Chuối Chao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-id="53" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="CHUOI CHIEN TV | HD",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Chuối Nhỏ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-id="54" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="CHUOI CHIEN TV | FHD",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Chuối Nhỏ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-id="55" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" group-title="CHUOI CHIEN TV | HD",🟣 01:45 29/09 ⚽ Sweden VS Poland | Chuối Sấy
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-id="56" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" group-title="CHUOI CHIEN TV | FHD",🟣 01:45 29/09 ⚽ Sweden VS Poland | Chuối Sấy
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="57" tvg-logo="https://media.api-sports.io/football/teams/27411.png" group-title="CHUOI CHIEN TV | HD",🟣 03:30 29/09 ⚽ Ind. Yumbo VS Orsomarso | Chuối Tây
+#EXTINF:-1 tvg-id="27" tvg-logo="https://img.gvapi.cc/football/team/24403efa393f55163b5593c435bbe4a7.png!w80" group-title="COLA TV",🟣 05:30 29/09 ⚽ CLB America MG VS CLB Juventude | BLV POCARI
+https://live05.meung.app/live/19919577_tsc.m3u8
+#EXTINF:-1 tvg-id="28" tvg-logo="https://img.gvapi.cc/football/team/8e279a6f57d4768f5f1fa3bb28fd3a8a.png!w80" group-title="COLA TV",🟣 06:00 29/09 ⚽ Club Leon Nữ VS Club America Nữ | BLV SAMURAI
+https://live05.meung.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-id="29" tvg-logo="https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80" group-title="COLA TV",🟣 07:00 29/09 ⚽ Jamaica VS Honduras | BLV SPRITE
+https://live05.meung.app/live/75748097_tsc.m3u8
+#EXTINF:-1 tvg-id="30" tvg-logo="https://img.gvapi.cc/football/team/00a6ab569af8e8f6b99f1d1a4b4bcfbb.png!w80" group-title="COLA TV",🟣 07:00 29/09 ⚽ Saint Kitts & Nevis VS Grenada | BLV ROCKSTAR
+https://live05.meung.app/live/82054853_tsc.m3u8
+#EXTINF:-1 tvg-id="31" tvg-logo="https://img.gvapi.cc/football/team/15b31d721471a77f63036c45b8b63830.png!w80" group-title="COLA TV",🟣 07:00 29/09 ⚽ Saint Lucia VS Bermuda | BLV Cozy
+https://live05.meung.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-id="32" tvg-logo="https://img.gvapi.cc/football/team/1972a91f675413d693c3946315e3f8ac.png!w80" group-title="COLA TV",🟣 08:06 29/09 ⚽ Necaxa Nữ VS Toluca Nữ | BLV FANTA
+https://live05.meung.app/live/16226575_tsc.m3u8
+#EXTINF:-1 tvg-id="33" tvg-logo="https://img.gvapi.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png!w80" group-title="COLA TV",🟣 09:00 29/09 ⚽ Guatemala VS El Salvador | BLV STING
+https://live05.meung.app/live/14707124_tsc.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" group-title="CHUOI CHIEN TV | HD",🟢 17:00 28/09 🏐 Chinese Taipei VS South Korea | Chuối Tây
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="58" tvg-logo="https://media.api-sports.io/football/teams/27411.png" group-title="CHUOI CHIEN TV | FHD",🟣 03:30 29/09 ⚽ Ind. Yumbo VS Orsomarso | Chuối Tây
+#EXTINF:-1 tvg-id="35" tvg-logo="https://media.chuoichientv.net/media/uploads/20250627_220721_a791691e.png" group-title="CHUOI CHIEN TV | FHD",🟢 17:00 28/09 🏐 Chinese Taipei VS South Korea | Chuối Tây
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="59" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_25712a70.png" group-title="CHUOI CHIEN TV | HD",🟣 05:00 29/09 ⚽ Suriname VS Martinique | Trốc Tru
+#EXTINF:-1 tvg-id="36" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="CHUOI CHIEN TV | HD",🟢 17:20 28/09 🏐 Kazakhstan VS Japan | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="37" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="CHUOI CHIEN TV | FHD",🟢 17:20 28/09 🏐 Kazakhstan VS Japan | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-id="38" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="CHUOI CHIEN TV | HD",🟢 17:25 28/09 ⚽ Japan VS Venezuela | Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="39" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="CHUOI CHIEN TV | FHD",🟢 17:25 28/09 ⚽ Japan VS Venezuela | Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="40" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="CHUOI CHIEN TV | HD",🟢 18:00 28/09 ⚽ South Korea VS Uruguay | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="41" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_74d9edd1.png" group-title="CHUOI CHIEN TV | FHD",🟢 18:00 28/09 ⚽ South Korea VS Uruguay | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="CHUOI CHIEN TV | HD",🟢 19:30 28/09 ⚽ Indonesia VS Malaysia | Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="43" tvg-logo="https://media.chuoichientv.net/media/20250829_080231_89f500ea.gif" group-title="CHUOI CHIEN TV | FHD",🟢 19:30 28/09 ⚽ Indonesia VS Malaysia | Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-logo="https://media.chuoichientv.net/media/20260604_133429_24e1757b.webp" group-title="CHUOI CHIEN TV | HD",🟣 21:00 28/09 ⚽ Kyrgyzstan W VS Maldives | Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 tvg-id="45" tvg-logo="https://media.chuoichientv.net/media/20260604_133429_24e1757b.webp" group-title="CHUOI CHIEN TV | FHD",🟣 21:00 28/09 ⚽ Kyrgyzstan W VS Maldives | Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 tvg-id="46" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV | HD",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125506_b2c0a574.png" group-title="CHUOI CHIEN TV | FHD",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-id="48" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="CHUOI CHIEN TV | HD",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="49" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134254_e0b3eb39.png" group-title="CHUOI CHIEN TV | FHD",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="50" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" group-title="CHUOI CHIEN TV | HD",🟣 01:45 29/09 ⚽ Belgium VS France | Chuối Ngao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8
+#EXTINF:-1 tvg-id="51" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125446_7256014f.png" group-title="CHUOI CHIEN TV | FHD",🟣 01:45 29/09 ⚽ Belgium VS France | Chuối Ngao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="52" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV | HD",🟣 01:45 29/09 ⚽ Türkiye VS Italy | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 tvg-id="53" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125503_f5da35f2.png" group-title="CHUOI CHIEN TV | FHD",🟣 01:45 29/09 ⚽ Türkiye VS Italy | Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 tvg-id="54" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="CHUOI CHIEN TV | HD",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
+#EXTINF:-1 tvg-id="55" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="CHUOI CHIEN TV | FHD",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+#EXTINF:-1 tvg-id="56" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" group-title="CHUOI CHIEN TV | HD",🟣 01:45 29/09 ⚽ Sweden VS Poland | Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisay/playlist.m3u8
+#EXTINF:-1 tvg-id="57" tvg-logo="https://media.chuoichientv.net/media/20250825_180323_118bdf95.png" group-title="CHUOI CHIEN TV | FHD",🟣 01:45 29/09 ⚽ Sweden VS Poland | Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
+#EXTINF:-1 tvg-id="58" tvg-logo="https://media.api-sports.io/football/teams/27411.png" group-title="CHUOI CHIEN TV | HD",🟣 03:30 29/09 ⚽ Ind. Yumbo VS Orsomarso | Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 tvg-id="59" tvg-logo="https://media.api-sports.io/football/teams/27411.png" group-title="CHUOI CHIEN TV | FHD",🟣 03:30 29/09 ⚽ Ind. Yumbo VS Orsomarso | Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+#EXTINF:-1 tvg-id="60" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_25712a70.png" group-title="CHUOI CHIEN TV | HD",🟣 05:00 29/09 ⚽ Suriname VS Martinique | Trốc Tru
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-id="60" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_25712a70.png" group-title="CHUOI CHIEN TV | FHD",🟣 05:00 29/09 ⚽ Suriname VS Martinique | Trốc Tru
+#EXTINF:-1 tvg-id="61" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132743_25712a70.png" group-title="CHUOI CHIEN TV | FHD",🟣 05:00 29/09 ⚽ Suriname VS Martinique | Trốc Tru
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="61" tvg-logo="https://khandai2.link/media/teams/logos/OIP_Q9mUTFM.jpg" group-title="KHAN DAI TV",🟢 14:00 28/09 🏐 Thái Lan VS Iran | Lee Sin
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="62" tvg-logo="https://khandai2.link/media/teams/logos/OIP_hdpF9Rm.jpg" group-title="KHAN DAI TV",🟢 14:00 28/09 🏐 Việt Nam VS Qatar | KaKa
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="63" tvg-logo="https://khandai2.link/media/teams/logos/team_483.jpg" group-title="KHAN DAI TV",🟡 15:00 28/09 ⚽ Singapore VS Bangladesh | Pháo Thủ
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-#EXTINF:-1 tvg-id="64" tvg-logo="https://khandai2.link/media/teams/logos/Flag_of_the_Republic_of_China.svg.webp" group-title="KHAN DAI TV",🟣 17:00 28/09 🏐 Đài Loan VS Hàn Quốc | Enzo
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 tvg-id="65" tvg-logo="https://khandai2.link/media/teams/logos/OIP_4xNC98N.jpg" group-title="KHAN DAI TV",🟣 17:20 28/09 🏐 Nhật Bản VS Kazakhstan | KaKa
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="66" tvg-logo="https://khandai2.link/media/teams/logos/team_540.jpg" group-title="KHAN DAI TV",🟣 17:25 28/09 ⚽ Japan VS Venezuela | Tày
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="67" tvg-logo="https://khandai2.link/media/teams/logos/team_651.jpg" group-title="KHAN DAI TV",🟣 18:00 28/09 ⚽ South Korea VS Uruguay | Kền Kền
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="68" tvg-logo="https://khandai2.link/media/teams/logos/team_484.jpg" group-title="KHAN DAI TV",🟣 18:30 28/09 ⚽ Indonesia VS Malaysia | Lee Sin
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="69" tvg-logo="https://khandai2.link/media/teams/logos/team_680.jpg" group-title="KHAN DAI TV",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Chim Nhỏ
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 tvg-id="70" tvg-logo="https://khandai2.link/media/teams/logos/team_703.jpg" group-title="KHAN DAI TV",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Enzo
+#EXTINF:-1 tvg-id="62" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="CHUOI CHIEN TV | HD",🟣 07:00 29/09 ⚽ Jamaica VS Honduras | Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 tvg-id="63" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="CHUOI CHIEN TV | FHD",🟣 07:00 29/09 ⚽ Jamaica VS Honduras | Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+#EXTINF:-1 tvg-id="64" tvg-logo="https://media.chuoichientv.net/media/20260927_010540_94a01ee4.png" group-title="CHUOI CHIEN TV | HD",🟣 08:00 29/09 🏐 Hong Kong VS Việt Nam | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 tvg-id="65" tvg-logo="https://media.chuoichientv.net/media/20260927_010540_94a01ee4.png" group-title="CHUOI CHIEN TV | FHD",🟣 08:00 29/09 🏐 Hong Kong VS Việt Nam | Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+#EXTINF:-1 tvg-id="66" tvg-logo="https://khandai2.link/media/teams/logos/Flag_of_the_Republic_of_China.svg.webp" group-title="KHAN DAI TV",🟢 17:00 28/09 🏐 Đài Loan VS Hàn Quốc | Enzo
 #EXTVLCOPT:http-referrer=https://khandai1.link/
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 tvg-id="71" tvg-logo="https://khandai2.link/media/teams/logos/team_694.jpg" group-title="KHAN DAI TV",🟣 23:00 28/09 ⚽ Latvia VS Cyprus | Kền Kền
+#EXTINF:-1 tvg-id="67" tvg-logo="https://khandai2.link/media/teams/logos/OIP_4xNC98N.jpg" group-title="KHAN DAI TV",🟢 17:20 28/09 🏐 Nhật Bản VS Kazakhstan | KaKa
 #EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="72" tvg-logo="https://khandai2.link/media/teams/logos/team_682.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Pháo Thủ
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-#EXTINF:-1 tvg-id="73" tvg-logo="https://khandai2.link/media/teams/logos/team_702.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Romania VS Bosnia & Herzegovina | Kền Kền
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 tvg-id="74" tvg-logo="https://khandai2.link/media/teams/logos/team_17.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Sweden VS Poland | Tày
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="68" tvg-logo="https://khandai2.link/media/teams/logos/team_540.jpg" group-title="KHAN DAI TV",🟣 17:25 28/09 ⚽ Japan VS Venezuela | Tày
 #EXTVLCOPT:http-referrer=https://khandai1.link/
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="75" tvg-logo="https://khandai2.link/media/teams/logos/team_6.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Belgium VS France | Lee Sin
+#EXTINF:-1 tvg-id="69" tvg-logo="https://khandai2.link/media/teams/logos/team_651.jpg" group-title="KHAN DAI TV",🟢 18:00 28/09 ⚽ South Korea VS Uruguay | Kền Kền
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:-1 tvg-id="70" tvg-logo="https://khandai2.link/media/teams/logos/images_4FRPxTi.jpg" group-title="KHAN DAI TV",🟡 19:00 28/09 🏐 Ziraat Bankası VS Khilasedichi Baku | KaKa
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="71" tvg-logo="https://khandai2.link/media/teams/logos/team_484.jpg" group-title="KHAN DAI TV",🟡 19:30 28/09 ⚽ Indonesia VS Malaysia | Lee Sin
 #EXTVLCOPT:http-referrer=https://khandai1.link/
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 tvg-id="76" tvg-logo="https://khandai2.link/media/teams/logos/team_1.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Turkey VS Italy | Chim Nhỏ
+#EXTINF:-1 tvg-id="72" tvg-logo="https://khandai2.link/media/teams/logos/team_680.jpg" group-title="KHAN DAI TV",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Chim Nhỏ
 #EXTVLCOPT:http-referrer=https://khandai1.link/
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 tvg-id="77" tvg-logo="https://global-cdn.cdnx.tech/football/team/bfa20d86a59044ef90a4609dde03985c.png" group-title="VUA SAN CO TV",🟡 16:00 28/09 ⚽ Singapore VS Bangladesh | Nguyễn Nhạc
-https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
-#EXTINF:-1 tvg-id="78" tvg-logo="https://global-cdn.cdnx.tech/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="VUA SAN CO TV",🟣 17:25 28/09 ⚽ Japan VS Venezuela | Ngô Quyền
+#EXTINF:-1 tvg-id="73" tvg-logo="https://khandai2.link/media/teams/logos/team_703.jpg" group-title="KHAN DAI TV",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Enzo
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:-1 tvg-id="74" tvg-logo="https://khandai2.link/media/teams/logos/team_694.jpg" group-title="KHAN DAI TV",🟣 23:00 28/09 ⚽ Latvia VS Cyprus | Kền Kền
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:-1 tvg-id="75" tvg-logo="https://khandai2.link/media/teams/logos/team_682.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Pháo Thủ
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 tvg-id="76" tvg-logo="https://khandai2.link/media/teams/logos/team_702.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Romania VS Bosnia & Herzegovina | Kền Kền
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:-1 tvg-id="77" tvg-logo="https://khandai2.link/media/teams/logos/team_17.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Sweden VS Poland | Tày
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="78" tvg-logo="https://khandai2.link/media/teams/logos/team_6.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Belgium VS France | Lee Sin
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="79" tvg-logo="https://khandai2.link/media/teams/logos/team_1.jpg" group-title="KHAN DAI TV",🟣 01:45 29/09 ⚽ Turkey VS Italy | Chim Nhỏ
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+#EXTINF:-1 tvg-id="80" tvg-logo="https://khandai2.link/media/teams/logos/Flag_of_Hong_Kong_ShTrNhs.svg.webp" group-title="KHAN DAI TV",🟣 08:00 29/09 🏐 Hong Kong VS Việt Nam | KaKa
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="81" tvg-logo="https://khandai2.link/media/teams/logos/images.png" group-title="KHAN DAI TV",🟣 08:00 29/09 🏐 Kyrgyzstan VS Thái Lan | Tày
+#EXTVLCOPT:http-referrer=https://khandai1.link/
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:-1 tvg-id="82" tvg-logo="https://global-cdn.cdnx.tech/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="VUA SAN CO TV",🟢 17:25 28/09 ⚽ Japan VS Venezuela | Ngô Quyền
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
-#EXTINF:-1 tvg-id="79" tvg-logo="https://global-cdn.cdnx.tech/football/team/a3f9a9a7e81748828ce092f0dd488479.png" group-title="VUA SAN CO TV",🟣 18:00 28/09 ⚽ South Korea VS Uruguay | Triệu Hằng
+#EXTINF:-1 tvg-id="83" tvg-logo="https://global-cdn.cdnx.tech/football/team/a3f9a9a7e81748828ce092f0dd488479.png" group-title="VUA SAN CO TV",🟢 18:00 28/09 ⚽ South Korea VS Uruguay | Triệu Hằng
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
-#EXTINF:-1 tvg-id="80" tvg-logo="https://global-cdn.cdnx.tech/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="VUA SAN CO TV",🟣 19:30 28/09 ⚽ Malaysia VS Indonesia | Lưu Triệt
+#EXTINF:-1 tvg-id="84" tvg-logo="https://global-cdn.cdnx.tech/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="VUA SAN CO TV",🟡 19:30 28/09 ⚽ Malaysia VS Indonesia | Lưu Triệt
 https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-logo="https://global-cdn.cdnx.tech/football/team/c5b86fa907b96e38e377ddfe82802cc6.png" group-title="VUA SAN CO TV",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Lưu Bang
+#EXTINF:-1 tvg-id="85" tvg-logo="https://global-cdn.cdnx.tech/football/team/c5b86fa907b96e38e377ddfe82802cc6.png" group-title="VUA SAN CO TV",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Lưu Bang
 https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-logo="https://global-cdn.cdnx.tech/football/team/5b52e27a9d5bf294f5b593c4c071500e.png" group-title="VUA SAN CO TV",🟣 23:00 28/09 ⚽ Latvia VS Cyprus | Lê Hoàn
+#EXTINF:-1 tvg-id="86" tvg-logo="https://global-cdn.cdnx.tech/football/team/5b52e27a9d5bf294f5b593c4c071500e.png" group-title="VUA SAN CO TV",🟣 23:00 28/09 ⚽ Latvia VS Cyprus | Lê Hoàn
 https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-logo="https://global-cdn.cdnx.tech/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png" group-title="VUA SAN CO TV",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Nguyễn Ánh
+#EXTINF:-1 tvg-id="87" tvg-logo="https://global-cdn.cdnx.tech/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png" group-title="VUA SAN CO TV",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Nguyễn Ánh
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-logo="https://global-cdn.cdnx.tech/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="VUA SAN CO TV",🟣 23:30 28/09 ⚽ Denmark U21 VS Belarus U21 | Tào Duệ
+#EXTINF:-1 tvg-id="88" tvg-logo="https://global-cdn.cdnx.tech/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="VUA SAN CO TV",🟣 23:30 28/09 ⚽ Denmark U21 VS Belarus U21 | Tào Duệ
 https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-logo="https://global-cdn.cdnx.tech/football/team/79d0360cd882c01f1ac008b3bb85feb3.png" group-title="VUA SAN CO TV",🟣 19:00 28/09 ⚽ Tajikistan VS Palestine | Huyền Diệp
+#EXTINF:-1 tvg-id="89" tvg-logo="https://global-cdn.cdnx.tech/football/team/79d0360cd882c01f1ac008b3bb85feb3.png" group-title="VUA SAN CO TV",🟡 19:00 28/09 ⚽ Tajikistan VS Palestine | Huyền Diệp
 https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
-#EXTINF:-1 tvg-id="86" tvg-logo="https://global-cdn.cdnx.tech/football/team/b6728832f1504989e57f8a43479429ec.png" group-title="VUA SAN CO TV",🟣 01:30 29/09 ⚽ CD Leganes VS Castellon | Trần Hoàng
+#EXTINF:-1 tvg-id="90" tvg-logo="https://global-cdn.cdnx.tech/football/team/b6728832f1504989e57f8a43479429ec.png" group-title="VUA SAN CO TV",🟣 01:30 29/09 ⚽ CD Leganes VS Castellon | Trần Hoàng
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
-#EXTINF:-1 tvg-id="87" tvg-logo="https://global-cdn.cdnx.tech/football/team/1f8d87e1161af68b81bace188a1ec624.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Romania VS Bosnia and Herzegovina | Lưu Triệt
+#EXTINF:-1 tvg-id="91" tvg-logo="https://global-cdn.cdnx.tech/football/team/1f8d87e1161af68b81bace188a1ec624.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Romania VS Bosnia and Herzegovina | Lưu Triệt
 https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
-#EXTINF:-1 tvg-id="88" tvg-logo="https://global-cdn.cdnx.tech/football/team/2c0b283b96174c34bff7445f22b00618.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Sweden VS Poland | Trần Cảnh
+#EXTINF:-1 tvg-id="92" tvg-logo="https://global-cdn.cdnx.tech/football/team/2c0b283b96174c34bff7445f22b00618.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Sweden VS Poland | Trần Cảnh
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
-#EXTINF:-1 tvg-id="89" tvg-logo="https://global-cdn.cdnx.tech/football/team/a175df50667b42ef97dcb52a9a8b1c1a.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Turkiye VS Italy | Lưu Bang
+#EXTINF:-1 tvg-id="93" tvg-logo="https://global-cdn.cdnx.tech/football/team/a175df50667b42ef97dcb52a9a8b1c1a.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Turkiye VS Italy | Lưu Bang
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
-#EXTINF:-1 tvg-id="90" tvg-logo="https://global-cdn.cdnx.tech/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Belgium VS France | Lê Lợi
+#EXTINF:-1 tvg-id="94" tvg-logo="https://global-cdn.cdnx.tech/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Belgium VS France | Lê Lợi
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
-#EXTINF:-1 tvg-id="91" tvg-logo="https://global-cdn.cdnx.tech/football/team/218344619d8fb95d504ccfa11804073f.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Dương Kiên
+#EXTINF:-1 tvg-id="95" tvg-logo="https://global-cdn.cdnx.tech/football/team/218344619d8fb95d504ccfa11804073f.png" group-title="VUA SAN CO TV",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Dương Kiên
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
-#EXTINF:-1 tvg-id="92" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="SAO KE TV | SD",🟢 14:00 28/09 🏐 Việt Nam VS Qatar | Cà Rốt
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
-#EXTINF:-1 tvg-id="93" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="SAO KE TV | HD",🟢 14:00 28/09 🏐 Việt Nam VS Qatar | Cà Rốt
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="94" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="SAO KE TV | SD",🟢 14:00 28/09 🏐 Thailand VS Iran | Ricky
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8
-#EXTINF:-1 tvg-id="95" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="SAO KE TV | HD",🟢 14:00 28/09 🏐 Thailand VS Iran | Ricky
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="96" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5825.png" group-title="SAO KE TV | SD",🟡 16:00 28/09 ⚽ Singapore VS Bangladesh | Kai
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://stm6dad62063600.stream.hdplaylink.com/sklive/kai/playlist.m3u8
-#EXTINF:-1 tvg-id="97" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5825.png" group-title="SAO KE TV | HD",🟡 16:00 28/09 ⚽ Singapore VS Bangladesh | Kai
-#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
-https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="SAO KE TV | SD",🟣 17:20 28/09 🏐 Kazakhstan VS Japan | Teppy
+#EXTINF:-1 tvg-id="96" tvg-logo="https://global-cdn.cdnx.tech/football/team/f7779710d2026dca44c41da7a9b7c748.png" group-title="VUA SAN CO TV",🟣 07:00 29/09 ⚽ Jamaica VS Honduras | Phổ Nghi
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="https://global-cdn.cdnx.tech/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" group-title="VUA SAN CO TV",🟣 09:00 29/09 ⚽ Guatemala VS El Salvador | Doanh Chính
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="SAO KE TV | SD",🟢 17:20 28/09 🏐 Kazakhstan VS Japan | Teppy
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad62063600.stream.hdplaylink.com/sklive/teppy/playlist.m3u8
-#EXTINF:-1 tvg-id="99" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="SAO KE TV | HD",🟣 17:20 28/09 🏐 Kazakhstan VS Japan | Teppy
+#EXTINF:-1 tvg-id="99" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="SAO KE TV | HD",🟢 17:20 28/09 🏐 Kazakhstan VS Japan | Teppy
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715.png" group-title="SAO KE TV | SD",🟣 17:25 28/09 ⚽ Japan VS Venezuela | Mơ
+#EXTINF:-1 tvg-id="100" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715.png" group-title="SAO KE TV | SD",🟢 17:25 28/09 ⚽ Japan VS Venezuela | Mơ
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad62063600.stream.hdplaylink.com/sklive/mo/playlist.m3u8
-#EXTINF:-1 tvg-id="101" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715.png" group-title="SAO KE TV | HD",🟣 17:25 28/09 ⚽ Japan VS Venezuela | Mơ
+#EXTINF:-1 tvg-id="101" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6715.png" group-title="SAO KE TV | HD",🟢 17:25 28/09 ⚽ Japan VS Venezuela | Mơ
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="102" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804.png" group-title="SAO KE TV | SD",🟣 18:00 28/09 ⚽ South Korea VS Uruguay | Tít
+#EXTINF:-1 tvg-id="102" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804.png" group-title="SAO KE TV | SD",🟢 18:00 28/09 ⚽ South Korea VS Uruguay | Tít
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad62063600.stream.hdplaylink.com/sklive/tit/playlist.m3u8
-#EXTINF:-1 tvg-id="103" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804.png" group-title="SAO KE TV | HD",🟣 18:00 28/09 ⚽ South Korea VS Uruguay | Tít
+#EXTINF:-1 tvg-id="103" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/7804.png" group-title="SAO KE TV | HD",🟢 18:00 28/09 ⚽ South Korea VS Uruguay | Tít
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="104" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5823.png" group-title="SAO KE TV | SD",🟣 19:30 28/09 ⚽ Malaysia VS Indonesia | Bút Chì
+#EXTINF:-1 tvg-id="104" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5823.png" group-title="SAO KE TV | SD",🟡 19:30 28/09 ⚽ Malaysia VS Indonesia | Bút Chì
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad62063600.stream.hdplaylink.com/sklive/butchi/playlist.m3u8
-#EXTINF:-1 tvg-id="105" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5823.png" group-title="SAO KE TV | HD",🟣 19:30 28/09 ⚽ Malaysia VS Indonesia | Bút Chì
+#EXTINF:-1 tvg-id="105" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5823.png" group-title="SAO KE TV | HD",🟡 19:30 28/09 ⚽ Malaysia VS Indonesia | Bút Chì
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-id="106" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8268.png" group-title="SAO KE TV | SD",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Ricky
@@ -327,35 +321,57 @@ https://stm6dad62063600.stream.hdplaylink.com/sklive/tit/playlist.m3u8
 #EXTINF:-1 tvg-id="123" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/127411.png" group-title="SAO KE TV | HD",🟣 05:00 29/09 ⚽ Suriname VS Martinique | Tít
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="124" tvg-logo="https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png" group-title="GA VANG TV",🟡 16:00 28/09 ⚽ Singapore VS Bangladesh | Gà Siêu Bệu
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-id="125" tvg-logo="https://img.gvapi.cc/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="GA VANG TV",🟣 17:25 28/09 ⚽ Japan VS Venezuela | Gà Siêu Gáy
+#EXTINF:-1 tvg-id="124" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5806.png" group-title="SAO KE TV | SD",🟣 07:00 29/09 ⚽ Jamaica VS Honduras | Bút Chì
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/butchi/playlist.m3u8
+#EXTINF:-1 tvg-id="125" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5806.png" group-title="SAO KE TV | HD",🟣 07:00 29/09 ⚽ Jamaica VS Honduras | Bút Chì
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-logo="https://media.chuoichientv.net/media/20260927_010540_94a01ee4.png" group-title="SAO KE TV | SD",🟣 08:00 29/09 🏐 Hong Kong VS Việt Nam | Cà Rốt
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
+#EXTINF:-1 tvg-id="127" tvg-logo="https://media.chuoichientv.net/media/20260927_010540_94a01ee4.png" group-title="SAO KE TV | HD",🟣 08:00 29/09 🏐 Hong Kong VS Việt Nam | Cà Rốt
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="128" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5858.png" group-title="SAO KE TV | SD",🟣 09:00 29/09 ⚽ Guatemala VS El Salvador | Mơ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/mo/playlist.m3u8
+#EXTINF:-1 tvg-id="129" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5858.png" group-title="SAO KE TV | HD",🟣 09:00 29/09 ⚽ Guatemala VS El Salvador | Mơ
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
+#EXTINF:-1 tvg-id="130" tvg-logo="https://img.gvapi.cc/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="GA VANG TV",🟢 17:25 28/09 ⚽ Japan VS Venezuela | Gà Siêu Gáy
 https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-id="126" tvg-logo="https://img.gvapi.cc/football/team/a3f9a9a7e81748828ce092f0dd488479.png" group-title="GA VANG TV",🟣 18:00 28/09 ⚽ South Korea VS Uruguay | Gà Siêu Péo
+#EXTINF:-1 tvg-id="131" tvg-logo="https://img.gvapi.cc/football/team/a3f9a9a7e81748828ce092f0dd488479.png" group-title="GA VANG TV",🟢 18:00 28/09 ⚽ South Korea VS Uruguay | Gà Siêu Péo
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-id="127" tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png" group-title="GA VANG TV",🟣 19:00 28/09 ⚽ Tajikistan VS Palestine | Gà Siêu Nhí
+#EXTINF:-1 tvg-id="132" tvg-logo="https://img.gvapi.cc/football/team/79d0360cd882c01f1ac008b3bb85feb3.png" group-title="GA VANG TV",🟡 19:00 28/09 ⚽ Tajikistan VS Palestine | Gà Siêu Nhí
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-id="128" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="GA VANG TV",🟣 19:30 28/09 ⚽ Malaysia VS Indonesia | Gà Ô Long
+#EXTINF:-1 tvg-id="133" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="GA VANG TV",🟡 19:30 28/09 ⚽ Malaysia VS Indonesia | Gà Ô Long
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-id="129" tvg-logo="https://img.gvapi.cc/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png" group-title="GA VANG TV",🟣 20:00 28/09 ⚽ FK Graficar Beograd VS Teleoptik | Gà Siêu Tồ
+#EXTINF:-1 tvg-id="134" tvg-logo="https://img.gvapi.cc/football/team/cbb6ad45aa0de955fe139e57eb64cc7e.png" group-title="GA VANG TV",🟡 20:00 28/09 ⚽ FK Graficar Beograd VS Teleoptik | Gà Siêu Tồ
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="130" tvg-logo="https://img.gvapi.cc/football/team/718ad64f1a3de007af0de47a9ca2df8f.jpg" group-title="GA VANG TV",🟣 22:00 28/09 ⚽ Al Kharaitiyat VS Al-Wakrah Sports Club | Gà Siêu Tốc
+#EXTINF:-1 tvg-id="135" tvg-logo="https://img.gvapi.cc/football/team/718ad64f1a3de007af0de47a9ca2df8f.jpg" group-title="GA VANG TV",🟣 22:00 28/09 ⚽ Al Kharaitiyat VS Al-Wakrah Sports Club | Gà Siêu Tốc
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="https://img.gvapi.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png" group-title="GA VANG TV",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Gà Siêu Ngố
+#EXTINF:-1 tvg-id="136" tvg-logo="https://img.gvapi.cc/football/team/c5b86fa907b96e38e377ddfe82802cc6.png" group-title="GA VANG TV",🟣 23:00 28/09 ⚽ Georgia VS Ukraine | Gà Siêu Ngố
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-id="132" tvg-logo="https://img.gvapi.cc/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png" group-title="GA VANG TV",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Gà Siêu Péo
+#EXTINF:-1 tvg-id="137" tvg-logo="https://img.gvapi.cc/football/team/13d8532225dea4fca8e0ebdfb27b83e4.png" group-title="GA VANG TV",🟣 23:00 28/09 ⚽ Armenia VS Montenegro | Gà Siêu Péo
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-id="133" tvg-logo="https://img.gvapi.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png" group-title="GA VANG TV",🟣 23:00 28/09 ⚽ Latvia VS Cyprus | Gà Siêu Kiêu
+#EXTINF:-1 tvg-id="138" tvg-logo="https://img.gvapi.cc/football/team/5b52e27a9d5bf294f5b593c4c071500e.png" group-title="GA VANG TV",🟣 23:00 28/09 ⚽ Latvia VS Cyprus | Gà Siêu Kiêu
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-id="134" tvg-logo="https://img.gvapi.cc/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Belgium VS France | Gà Siêu Gáy
+#EXTINF:-1 tvg-id="139" tvg-logo="https://img.gvapi.cc/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Belgium VS France | Gà Siêu Gáy
 https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-id="135" tvg-logo="https://img.gvapi.cc/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Belgium VS France | Gà Siêu Bệu
+#EXTINF:-1 tvg-id="140" tvg-logo="https://img.gvapi.cc/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Belgium VS France | Gà Siêu Bệu
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-id="136" tvg-logo="https://img.gvapi.cc/football/team/a175df50667b42ef97dcb52a9a8b1c1a.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Turkiye VS Italy | Gà Ô Long
+#EXTINF:-1 tvg-id="141" tvg-logo="https://img.gvapi.cc/football/team/a175df50667b42ef97dcb52a9a8b1c1a.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Turkiye VS Italy | Gà Ô Long
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-id="137" tvg-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Gà Siêu Ngố
+#EXTINF:-1 tvg-id="142" tvg-logo="https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Northern Ireland VS Hungary | Gà Siêu Ngố
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-id="138" tvg-logo="https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Romania VS Bosnia and Herzegovina | Gà Siêu Kiêu
+#EXTINF:-1 tvg-id="143" tvg-logo="https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Romania VS Bosnia and Herzegovina | Gà Siêu Kiêu
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-id="139" tvg-logo="https://img.gvapi.cc/football/team/2c0b283b96174c34bff7445f22b00618.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Sweden VS Poland | Gà Siêu Tốc
+#EXTINF:-1 tvg-id="144" tvg-logo="https://img.gvapi.cc/football/team/2c0b283b96174c34bff7445f22b00618.png" group-title="GA VANG TV",🟣 01:45 29/09 ⚽ Sweden VS Poland | Gà Siêu Tốc
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 tvg-id="145" tvg-logo="https://img.gvapi.cc/football/team/00a6ab569af8e8f6b99f1d1a4b4bcfbb.png" group-title="GA VANG TV",🟣 07:00 29/09 ⚽ Saint Kitts and Nevis VS Grenada | Gà Siêu Nhí
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 tvg-id="146" tvg-logo="https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png" group-title="GA VANG TV",🟣 07:00 29/09 ⚽ Jamaica VS Honduras | Gà Siêu Tồ
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 tvg-id="147" tvg-logo="https://img.gvapi.cc/football/team/a1d4643376bf11b37c51f5c76fcaff79.png" group-title="GA VANG TV",🟣 09:00 29/09 ⚽ Guatemala VS El Salvador | Gà Siêu Péo
+https://live2.zktsva.app/live/303098.m3u8
