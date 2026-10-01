@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
-#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 17:33 01/10",17:33 01/10
+#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 17:58 01/10",17:58 01/10
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80" group-title="COLA TV",🟢 17:10 01/10 ⚽ Nhật Bản VS Ecuador | BLV HỔ VẰN
 https://live05.meung.app/live/07428422_tsc.m3u8
@@ -344,71 +344,71 @@ https://stm6dad62063600.stream.hdplaylink.com/sklive/quanghuy/playlist.m3u8
 #EXTINF:-1 tvg-id="127" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262134.png" group-title="SAO KE TV | HD",🟣 07:00 02/10 ⚽ Dominican Republic VS Haiti | Long Ruồi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="128" tvg-logo="https://img.gvapi.cc/football/team/c8188e3985db5cee9be1f4ea436f2fc2.png" group-title="GA VANG TV",🟢 15:00 01/10 ⚽ Khaan Khuns-Erchim FC VS Central Stallions | Gà Siêu Tồ
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="129" tvg-logo="https://img.gvapi.cc/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="GA VANG TV",🟢 17:10 01/10 ⚽ Japan VS Ecuador | Gà Ô Long
+#EXTINF:-1 tvg-id="128" tvg-logo="https://img.gvapi.cc/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="GA VANG TV",🟢 17:10 01/10 ⚽ Japan VS Ecuador | Gà Ô Long
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-id="130" tvg-logo="https://img.gvapi.cc/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="GA VANG TV",🟢 17:10 01/10 ⚽ Japan VS Ecuador | Gà Siêu Kiêu
+#EXTINF:-1 tvg-id="129" tvg-logo="https://img.gvapi.cc/football/team/f9ce800b0fd64b339c2bcf8ec7d9ec0e.png" group-title="GA VANG TV",🟢 17:10 01/10 ⚽ Japan VS Ecuador | Gà Siêu Kiêu
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-id="131" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png" group-title="GA VANG TV",🟡 19:30 01/10 ⚽ Indonesia VS Bangladesh | Gà Siêu Gáy + Gà Siêu Ngố
+#EXTINF:-1 tvg-id="130" tvg-logo="https://img.gvapi.cc/football/team/628f16b29939d1b060af49f66ae0f7f8.png" group-title="GA VANG TV",🟡 19:30 01/10 ⚽ Indonesia VS Bangladesh | Gà Siêu Gáy + Gà Siêu Ngố
 https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-id="132" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="GA VANG TV",🟡 19:30 01/10 ⚽ Malaysia VS Singapore | Gà Siêu Ngố
+#EXTINF:-1 tvg-id="131" tvg-logo="https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png" group-title="GA VANG TV",🟡 19:30 01/10 ⚽ Malaysia VS Singapore | Gà Siêu Ngố
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-id="133" tvg-logo="https://img.gvapi.cc/football/team/f1eb0a2465dd34309c64d113ce0c9b96.png" group-title="GA VANG TV",🟣 20:15 01/10 ⚽ Dubai United VS Hatta | Gà Siêu Nhí
+#EXTINF:-1 tvg-id="132" tvg-logo="https://img.gvapi.cc/football/team/f1eb0a2465dd34309c64d113ce0c9b96.png" group-title="GA VANG TV",🟣 20:15 01/10 ⚽ Dubai United VS Hatta | Gà Siêu Nhí
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-id="134" tvg-logo="https://img.gvapi.cc/football/team/c471de7682d1c900df7981bb2cf6536c.png" group-title="GA VANG TV",🟣 20:15 01/10 ⚽ Al-Sharjah VS Al Dhafra FC | Gà Siêu Péo
+#EXTINF:-1 tvg-id="133" tvg-logo="https://img.gvapi.cc/football/team/c471de7682d1c900df7981bb2cf6536c.png" group-title="GA VANG TV",🟣 20:15 01/10 ⚽ Al-Sharjah VS Al Dhafra FC | Gà Siêu Péo
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-id="135" tvg-logo="https://img.gvapi.cc/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png" group-title="GA VANG TV",🟣 21:00 01/10 ⚽ Maldives VS Lebanon | Gà Siêu Tốc
+#EXTINF:-1 tvg-id="134" tvg-logo="https://img.gvapi.cc/football/team/debe9dfcc3e4dbea1c509ffab6bf9f0b.png" group-title="GA VANG TV",🟣 21:00 01/10 ⚽ Maldives VS Lebanon | Gà Siêu Tốc
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-id="136" tvg-logo="https://img.gvapi.cc/football/team/3016a701d47246f082016705f2f7267c.png" group-title="GA VANG TV",🟣 21:00 01/10 ⚽ Uzbekistan VS Syria | Gà Siêu Bệu
+#EXTINF:-1 tvg-id="135" tvg-logo="https://img.gvapi.cc/football/team/3016a701d47246f082016705f2f7267c.png" group-title="GA VANG TV",🟣 21:00 01/10 ⚽ Uzbekistan VS Syria | Gà Siêu Bệu
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-id="137" tvg-logo="https://img.gvapi.cc/football/team/fcac1eae493c493061e66608158b40ef.png" group-title="GA VANG TV",🟣 22:00 01/10 ⚽ Al-Gharafa Sports Club VS Al Mesaimeer Club | Gà Siêu Tồ
+#EXTINF:-1 tvg-id="136" tvg-logo="https://img.gvapi.cc/football/team/fcac1eae493c493061e66608158b40ef.png" group-title="GA VANG TV",🟣 22:00 01/10 ⚽ Al-Gharafa Sports Club VS Al Mesaimeer Club | Gà Siêu Tồ
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="138" tvg-logo="https://img.gvapi.cc/football/team/bfdd500484330d63a723cbc396df762c.png" group-title="GA VANG TV",🟣 22:30 01/10 ⚽ VfB Stuttgart VS SpVgg Greuther Fürth | Gà Siêu Nhí
+#EXTINF:-1 tvg-id="137" tvg-logo="https://img.gvapi.cc/football/team/bfdd500484330d63a723cbc396df762c.png" group-title="GA VANG TV",🟣 22:30 01/10 ⚽ VfB Stuttgart VS SpVgg Greuther Fürth | Gà Siêu Nhí
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-id="139" tvg-logo="https://img.gvapi.cc/football/team/f653d5976458f0dcce2b3939259acffa.png" group-title="GA VANG TV",🟣 23:00 01/10 ⚽ Azerbaijan VS Liechtenstein | Gà Siêu Péo
+#EXTINF:-1 tvg-id="138" tvg-logo="https://img.gvapi.cc/football/team/f653d5976458f0dcce2b3939259acffa.png" group-title="GA VANG TV",🟣 23:00 01/10 ⚽ Azerbaijan VS Liechtenstein | Gà Siêu Péo
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-id="140" tvg-logo="https://img.gvapi.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png" group-title="GA VANG TV",🟣 23:00 01/10 ⚽ Guinea VS Kenya | Gà Siêu Kiêu
+#EXTINF:-1 tvg-id="139" tvg-logo="https://img.gvapi.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png" group-title="GA VANG TV",🟣 23:00 01/10 ⚽ Guinea VS Kenya | Gà Siêu Kiêu
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-id="141" tvg-logo="https://img.gvapi.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" group-title="GA VANG TV",🟣 23:45 01/10 ⚽ Austria Wien Women VS Inter Milan Women | Gà Siêu Tốc
+#EXTINF:-1 tvg-id="140" tvg-logo="https://img.gvapi.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" group-title="GA VANG TV",🟣 23:45 01/10 ⚽ Austria Wien Women VS Inter Milan Women | Gà Siêu Tốc
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-id="142" tvg-logo="https://img.gvapi.cc/football/team/af47207f36a49c89502312138e54f6a7.png" group-title="GA VANG TV",🟣 00:15 02/10 ⚽ Al-Shamal Sports Club VS Muaither SC | Gà Siêu Tồ
+#EXTINF:-1 tvg-id="141" tvg-logo="https://img.gvapi.cc/football/team/af47207f36a49c89502312138e54f6a7.png" group-title="GA VANG TV",🟣 00:15 02/10 ⚽ Al-Shamal Sports Club VS Muaither SC | Gà Siêu Tồ
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://img.gvapi.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Greece VS Netherlands | Gà Siêu Ngố
+#EXTINF:-1 tvg-id="142" tvg-logo="https://img.gvapi.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Greece VS Netherlands | Gà Siêu Ngố
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="https://img.gvapi.cc/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Germany VS Serbia | Gà Ô Long
+#EXTINF:-1 tvg-id="143" tvg-logo="https://img.gvapi.cc/football/team/761ccf19be6a4fdf81880acadb81aa4c.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Germany VS Serbia | Gà Ô Long
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 tvg-id="145" tvg-logo="https://img.gvapi.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Wales VS Norway | Gà Siêu Bệu
+#EXTINF:-1 tvg-id="144" tvg-logo="https://img.gvapi.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Wales VS Norway | Gà Siêu Bệu
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 tvg-id="146" tvg-logo="https://img.gvapi.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Wales VS Norway | Gà Siêu Son
+#EXTINF:-1 tvg-id="145" tvg-logo="https://img.gvapi.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Wales VS Norway | Gà Siêu Son
 https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 tvg-id="147" tvg-logo="https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Denmark VS Portugal | Gà Siêu Quỷ
+#EXTINF:-1 tvg-id="146" tvg-logo="https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Denmark VS Portugal | Gà Siêu Quỷ
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 tvg-id="148" tvg-logo="https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Denmark VS Portugal | Gà Siêu Gáy + Gà Siêu Ngố
+#EXTINF:-1 tvg-id="147" tvg-logo="https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Denmark VS Portugal | Gà Siêu Gáy + Gà Siêu Ngố
 https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 tvg-id="149" tvg-logo="https://img.gvapi.cc/football/team/a370afda41a7ae62dcb8d1b721b92bed.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Israel VS Kosovo | Gà Siêu Kiêu
+#EXTINF:-1 tvg-id="148" tvg-logo="https://img.gvapi.cc/football/team/a370afda41a7ae62dcb8d1b721b92bed.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Israel VS Kosovo | Gà Siêu Kiêu
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-id="150" tvg-logo="https://img.gvapi.cc/football/team/c940e50f90b9e73f42045c05d49c6e17.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Ireland VS Austria | Gà Siêu Tốc
+#EXTINF:-1 tvg-id="149" tvg-logo="https://img.gvapi.cc/football/team/c940e50f90b9e73f42045c05d49c6e17.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Ireland VS Austria | Gà Siêu Tốc
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 tvg-id="151" tvg-logo="https://img.gvapi.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Malta VS Gibraltar | Gà Siêu Péo
+#EXTINF:-1 tvg-id="150" tvg-logo="https://img.gvapi.cc/football/team/f7eb745a5f9b3016b083019da91b5f74.png" group-title="GA VANG TV",🟣 01:45 02/10 ⚽ Malta VS Gibraltar | Gà Siêu Péo
 https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 tvg-id="152" tvg-logo="https://img.gvapi.cc/football/team/b5e51cdfe1a14bdf8289260933b2d405.png" group-title="GA VANG TV",🟣 05:00 02/10 ⚽ Curacao VS Trinidad and Tobago | Gà Siêu Nhí
+#EXTINF:-1 tvg-id="151" tvg-logo="https://img.gvapi.cc/football/team/b5e51cdfe1a14bdf8289260933b2d405.png" group-title="GA VANG TV",🟣 05:00 02/10 ⚽ Curacao VS Trinidad and Tobago | Gà Siêu Nhí
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 tvg-id="153" tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png" group-title="GA VANG TV",🟣 07:00 02/10 ⚽ Dominican Republic VS Haiti | Gà Siêu Tồ
+#EXTINF:-1 tvg-id="152" tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png" group-title="GA VANG TV",🟣 07:00 02/10 ⚽ Dominican Republic VS Haiti | Gà Siêu Tồ
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 tvg-id="154" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png" group-title="GIO VANG TV",🟢 16:30 01/10 🏀 Tasmania JackJumpers VS Melbourne United | Vịt
+#EXTINF:-1 tvg-id="153" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png" group-title="GIO VANG TV",🟢 16:30 01/10 🏀 Tasmania JackJumpers VS Melbourne United | Vịt
 https://ftlh5sc02iliv.vcdn.cloud/1790810578_hd/1790810578_hd@720p.m3u8
-#EXTINF:-1 tvg-id="155" tvg-logo="https://static.flashscore.com/res/image/data/jgOunSg5-dtzqTXTK.png" group-title="GIO VANG TV",🟢 17:20 01/10 🏐 Japan  VS Qatar | Sún
+#EXTINF:-1 tvg-id="154" tvg-logo="https://static.flashscore.com/res/image/data/jgOunSg5-dtzqTXTK.png" group-title="GIO VANG TV",🟢 17:20 01/10 🏐 Japan  VS Qatar | Sún
 https://ftlh5sc02iliv.vcdn.cloud/1790810703_hd/1790810703_hd@720p.m3u8
-#EXTINF:-1 tvg-id="156" tvg-logo="https://static.flashscore.com/res/image/data/fJuOzPzB-GnO8YQo1.png" group-title="GIO VANG TV",🟢 16:00 01/10 🎮 TYLOO  VS Team Liquid | Mickey
+#EXTINF:-1 tvg-id="155" tvg-logo="https://static.flashscore.com/res/image/data/fJuOzPzB-GnO8YQo1.png" group-title="GIO VANG TV",🟢 16:00 01/10 🎮 TYLOO  VS Team Liquid | Mickey
 https://ftlh5sc02iliv.vcdn.cloud/1790839704_hd/1790839704_hd@720p.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADC3pRGirDoA1eaQtvYds8PQ-vmcEESiPHvywMVtvYU3ERTP__FyL8m8F&s=10" group-title="GIO VANG TV",🟢 10:00 01/10 🎾 Beijing Open  VS 2026 | Ben
+#EXTINF:-1 tvg-id="156" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADC3pRGirDoA1eaQtvYds8PQ-vmcEESiPHvywMVtvYU3ERTP__FyL8m8F&s=10" group-title="GIO VANG TV",🟢 10:00 01/10 🎾 Beijing Open  VS 2026 | Ben
 https://ftlh5sc02iliv.vcdn.cloud/1790780943_hd/1790780943_hd@720p.m3u8
-#EXTINF:-1 tvg-id="158" tvg-logo="https://liquipedia.net/commons/images/thumb/7/74/XLG_China_allmode.png/285px-XLG_China_allmode.png" group-title="GIO VANG TV",🟡 19:00 01/10 🎮 XLG  VS Nongsim Redforce | mickey
+#EXTINF:-1 tvg-id="157" tvg-logo="https://liquipedia.net/commons/images/thumb/7/74/XLG_China_allmode.png/285px-XLG_China_allmode.png" group-title="GIO VANG TV",🟡 19:00 01/10 🎮 XLG  VS Nongsim Redforce | mickey
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="159" tvg-logo="https://images.keovip88.net/images/teams/indonesia.png" group-title="GIO VANG TV",🟡 19:30 01/10 ⚽ Indonesia VS Bangladesh | blv-beo
+#EXTINF:-1 tvg-id="158" tvg-logo="https://images.keovip88.net/images/teams/indonesia.png" group-title="GIO VANG TV",🟡 19:30 01/10 ⚽ Indonesia VS Bangladesh | blv-beo
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="160" tvg-logo="https://images.keovip88.net/images/teams/malaysia.png" group-title="GIO VANG TV",🟡 19:30 01/10 ⚽ Malaysia VS Singapore | blv-sup
+#EXTINF:-1 tvg-id="159" tvg-logo="https://images.keovip88.net/images/teams/malaysia.png" group-title="GIO VANG TV",🟡 19:30 01/10 ⚽ Malaysia VS Singapore | blv-sup
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="160" tvg-logo="https://images.keovip88.net/images/teams/maldives.png" group-title="GIO VANG TV",🟣 21:00 01/10 ⚽ Maldives VS Liban | blv-18
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="161" tvg-logo="https://images.keovip88.net/images/teams/al-ettifaq.png" group-title="GIO VANG TV",🟣 22:00 01/10 ⚽ Al-Gharafa  VS Al Mesaimeer | blv-tri
 https://freem3u.xyz/static/no-signal/low.m3u8
