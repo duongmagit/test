@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
-#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 23:08 01/10",23:08 01/10
+#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 23:32 01/10",23:32 01/10
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/football/team/f653d5976458f0dcce2b3939259acffa.png!w80" group-title="COLA TV",🟢 23:00 01/10 ⚽ Azerbaijan VS ĐTQG Liechtenstein | BLV HỔ VẰN
 https://live05.meung.app/live/07428422_tsc.m3u8
@@ -75,13 +75,13 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-id="34" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_4cc808b5.png" group-title="CHUOI CHIEN TV | FHD",🟢 23:00 01/10 ⚽ Azerbaijan VS Liechtenstein | Trốc Tru
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-id="35" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" group-title="CHUOI CHIEN TV | HD1",🟡 23:45 01/10 ⚽ Austria Wien W VS Inter Milano W | Chuối Tây
+#EXTINF:-1 tvg-id="35" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" group-title="CHUOI CHIEN TV | HD1",🟢 23:45 01/10 ⚽ Austria Wien W VS Inter Milano W | Chuối Tây
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-#EXTINF:-1 tvg-id="36" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" group-title="CHUOI CHIEN TV | HD2",🟡 23:45 01/10 ⚽ Austria Wien W VS Inter Milano W | Chuối Tây
+#EXTINF:-1 tvg-id="36" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" group-title="CHUOI CHIEN TV | HD2",🟢 23:45 01/10 ⚽ Austria Wien W VS Inter Milano W | Chuối Tây
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-#EXTINF:-1 tvg-id="37" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" group-title="CHUOI CHIEN TV | FHD",🟡 23:45 01/10 ⚽ Austria Wien W VS Inter Milano W | Chuối Tây
+#EXTINF:-1 tvg-id="37" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140334_e7d9f1a5.png" group-title="CHUOI CHIEN TV | FHD",🟢 23:45 01/10 ⚽ Austria Wien W VS Inter Milano W | Chuối Tây
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8
 #EXTINF:-1 tvg-id="38" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="CHUOI CHIEN TV | HD1",🟣 01:45 02/10 ⚽ Germany VS Serbia | Chuối Chao
@@ -207,10 +207,10 @@ https://stm6dad62063600.stream.hdplaylink.com/sklive/quanghuy/playlist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/6289.png" group-title="SAO KE TV | HD",🟢 23:00 01/10 ⚽ Guinea VS Kenya | Long Ruồi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="79" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1777852.png" group-title="SAO KE TV | SD",🟡 23:45 01/10 ⚽ Austria Wien W (W) VS Inter (W) | Kai
+#EXTINF:-1 tvg-id="79" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1777852.png" group-title="SAO KE TV | SD",🟢 23:45 01/10 ⚽ Austria Wien W (W) VS Inter (W) | Kai
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad62063600.stream.hdplaylink.com/sklive/kai/playlist.m3u8
-#EXTINF:-1 tvg-id="80" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1777852.png" group-title="SAO KE TV | HD",🟡 23:45 01/10 ⚽ Austria Wien W (W) VS Inter (W) | Kai
+#EXTINF:-1 tvg-id="80" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1777852.png" group-title="SAO KE TV | HD",🟢 23:45 01/10 ⚽ Austria Wien W (W) VS Inter (W) | Kai
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x00-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-id="81" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/5791.png" group-title="SAO KE TV | SD",🟣 01:45 02/10 ⚽ Ireland VS Austria | Mơ
@@ -267,7 +267,7 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 tvg-id="99" tvg-logo="https://img.gvapi.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png" group-title="GA VANG TV",🟢 23:00 01/10 ⚽ Guinea VS Kenya | Gà Siêu Kiêu
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://img.gvapi.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" group-title="GA VANG TV",🟡 23:45 01/10 ⚽ Austria Wien Women VS Inter Milan Women | Gà Siêu Tốc
+#EXTINF:-1 tvg-id="100" tvg-logo="https://img.gvapi.cc/football/team/0454e224a578f2d2fb8e4bafc58e140e.png" group-title="GA VANG TV",🟢 23:45 01/10 ⚽ Austria Wien Women VS Inter Milan Women | Gà Siêu Tốc
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://img.gvapi.cc/football/team/af47207f36a49c89502312138e54f6a7.png" group-title="GA VANG TV",🟡 00:15 02/10 ⚽ Al-Shamal Sports Club VS Muaither SC | Gà Siêu Tồ
 https://live2.zktsva.app/live/796315.m3u8
@@ -363,12 +363,12 @@ https://pull.digitalcdn.net/live/2be18725579d4c508f9bbcb613aaf89b/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-logo="https://sta.vnres.co/file/common/20260927/fbaaac7f53bf81a2addf155599a04141.png" group-title="PHA LANG TV | HD2",🟢 23:00 01/10 ⚽ Azerbaijan VS Liechtenstein | LÝ LÀNG LÁ
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull1.digitalcdn.net/live/2be18725579d4c508f9bbcb613aaf89b/index.m3u8
-#EXTINF:-1 tvg-id="147" tvg-logo="https://img.sports-data.online/football/team/fab02be525c1579918412f73a5f2c245.png" group-title="PHA LANG TV | HD1",🟡 00:00 02/10 ⚽ Hungary U21 VS Lithuania U21 | LÝ LIỀU LĨNH
+#EXTINF:-1 tvg-id="147" tvg-logo="https://img.sports-data.online/football/team/fab02be525c1579918412f73a5f2c245.png" group-title="PHA LANG TV | HD1",🟢 00:00 02/10 ⚽ Hungary U21 VS Lithuania U21 | LÝ LIỀU LĨNH
 #EXTVLCOPT:http-referrer=https://phalang.live/
-https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="148" tvg-logo="https://img.sports-data.online/football/team/fab02be525c1579918412f73a5f2c245.png" group-title="PHA LANG TV | HD2",🟡 00:00 02/10 ⚽ Hungary U21 VS Lithuania U21 | LÝ LIỀU LĨNH
+https://pull.digitalcdn.net/live/5bb15e6768ef4bc181257fac591354e0/index.m3u8
+#EXTINF:-1 tvg-id="148" tvg-logo="https://img.sports-data.online/football/team/fab02be525c1579918412f73a5f2c245.png" group-title="PHA LANG TV | HD2",🟢 00:00 02/10 ⚽ Hungary U21 VS Lithuania U21 | LÝ LIỀU LĨNH
 #EXTVLCOPT:http-referrer=https://phalang.live/
-https://freem3u.xyz/static/no-signal/low.m3u8
+https://pull1.digitalcdn.net/live/5bb15e6768ef4bc181257fac591354e0/index.m3u8
 #EXTINF:-1 tvg-id="149" tvg-logo="https://sta.vnres.co/file/common/20260928/35948785ecc1ab3418a2d1527620f809.png" group-title="PHA LANG TV | HD1",🟣 01:45 02/10 ⚽ Denmark VS Portugal | LÝ LA LÀNG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
