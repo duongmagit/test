@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
-#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 06:28 02/10",06:28 02/10
+#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 06:55 02/10",06:55 02/10
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80" group-title="COLA TV",🟢 05:00 02/10 ⚽ Curacao VS Trinidad & Tobago | BLV SODA
 https://live05.meung.app/live/02456966_tsc.m3u8
@@ -7,7 +7,7 @@ https://live05.meung.app/live/02456966_tsc.m3u8
 https://live05.meung.app/live/90865415_tsc.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="https://img.gvapi.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80" group-title="COLA TV",🟡 07:15 02/10 ⚽ Platense VS CLB Estudiantes La Plata | BLV SAMURAI
 https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://img.gvapi.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80" group-title="COLA TV",🟣 08:30 02/10 ⚽ Seattle Sounders VS Kansas City | BLV MOUNTAIN DEW
+#EXTINF:-1 tvg-id="4" tvg-logo="https://img.gvapi.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80" group-title="COLA TV",🟡 08:30 02/10 ⚽ Seattle Sounders VS Kansas City | BLV MOUNTAIN DEW
 https://live05.meung.app/live/87547578_tsc.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://img.gvapi.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80" group-title="COLA TV",🟣 09:00 02/10 ⚽ Nicaragua VS Costa Rica | BLV PEPSI
 https://live05.meung.app/live/59444581_tsc.m3u8
@@ -200,10 +200,10 @@ https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
 #EXTINF:-1 tvg-id="75" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/287981.png" group-title="SAO KE TV | HD",🟢 05:00 02/10 ⚽ Curacao VS Trinidad and Tobago | Cà Rốt
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
-#EXTINF:-1 tvg-id="76" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262134.png" group-title="SAO KE TV | SD",🟡 07:00 02/10 ⚽ Dominican Republic VS Haiti | Long Ruồi
+#EXTINF:-1 tvg-id="76" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262134.png" group-title="SAO KE TV | SD",🟢 07:00 02/10 ⚽ Dominican Republic VS Haiti | Long Ruồi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://stm6dad62063600.stream.hdplaylink.com/sklive/quanghuy/playlist.m3u8
-#EXTINF:-1 tvg-id="77" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262134.png" group-title="SAO KE TV | HD",🟡 07:00 02/10 ⚽ Dominican Republic VS Haiti | Long Ruồi
+#EXTINF:-1 tvg-id="77" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/262134.png" group-title="SAO KE TV | HD",🟢 07:00 02/10 ⚽ Dominican Republic VS Haiti | Long Ruồi
 #EXTVLCOPT:http-referrer=https://sk.mediastation.live/
 https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="SAO KE TV | SD",🟡 08:00 02/10 🏐 India VS South Korea | Teppy
@@ -248,21 +248,21 @@ https://live2.zktsva.app/live/741294.m3u8
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 tvg-id="96" tvg-logo="https://images.keovip88.net/images/teams/curacao.png" group-title="GIO VANG TV",🟢 05:00 02/10 ⚽ Curacao VS Trinidad & Tobago | Ngọng
 https://ftlh5sc02iliv.vcdn.cloud/1790840397_hd/1790840397_hd@720p.m3u8
-#EXTINF:-1 tvg-id="97" tvg-logo="https://images.keovip88.net/images/teams/dominican-republic.png" group-title="GIO VANG TV",🟡 07:00 02/10 ⚽ Cộng hòa Dominican VS Haiti | blv Mù
-https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="98" tvg-logo="https://images.keovip88.net/images/teams/cayman-islands.png" group-title="GIO VANG TV",🟡 07:00 02/10 ⚽ Quần đảo Cayman VS Puerto Rico | blvhau
-https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="99" tvg-logo="https://static.flashscore.com/res/image/data/IPmhSoEa-hvtJM6zJ.png" group-title="GIO VANG TV",🟡 07:00 02/10 ⚾ Atlanta Braves  VS Philadelphia Phillies | blv-can
-https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_IH32DVNx93gl9bC16jRCszOVgU2zy2ns7uv_Kp9fg&s=10" group-title="GIO VANG TV",🟡 07:15 02/10 ⚽ Cleveland Browns  VS Pittburgh Steelers | riko
-https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="https://images.keovip88.net/images/teams/dominican-republic.png" group-title="GIO VANG TV",🟢 07:00 02/10 ⚽ Cộng hòa Dominican VS Haiti | Súp
+https://ftlh5sc02iliv.vcdn.cloud/1790897629_hd/1790897629_hd@720p.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="https://images.keovip88.net/images/teams/cayman-islands.png" group-title="GIO VANG TV",🟢 07:00 02/10 ⚽ Quần đảo Cayman VS Puerto Rico | BLV Hấu
+https://ftlh5sc02iliv.vcdn.cloud/1790873317_hd/1790873317_hd@720p.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="https://static.flashscore.com/res/image/data/IPmhSoEa-hvtJM6zJ.png" group-title="GIO VANG TV",🟢 07:00 02/10 ⚾ Atlanta Braves  VS Philadelphia Phillies | Cận
+https://ftlh5sc02iliv.vcdn.cloud/1790873889_hd/1790873889_hd@720p.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_IH32DVNx93gl9bC16jRCszOVgU2zy2ns7uv_Kp9fg&s=10" group-title="GIO VANG TV",🟢 07:15 02/10 ⚽ Cleveland Browns  VS Pittburgh Steelers | Riko
+https://ftlh5sc02iliv.vcdn.cloud/1790874150_hd/1790874150_hd@720p.m3u8
 #EXTINF:-1 tvg-id="101" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqdTH__j8ZyL9n_qA27lsijgSN1LcBIHOiCPk5EpdoQ&s=10" group-title="GIO VANG TV",🟡 08:00 02/10 ⚽ Inter Bogotá VS Deportiva Once Caldas | blv-1-2
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="102" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/cbf9424df17d6e06d655dca78651d329.png" group-title="GIO VANG TV",🟡 08:00 02/10 🏀 Las Vegas Aces VS Indiana Fever | blv-vit
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="103" tvg-logo="https://static.flashscore.com/res/image/data/nqz3kJDa-YB0DoGZt.png" group-title="GIO VANG TV",🟡 08:00 02/10 🏐 Ấn Độ  VS Hàn Quốc  | blv-cay
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="104" tvg-logo="https://images.keovip88.net/images/teams/seattle-sounders.png" group-title="GIO VANG TV",🟣 08:30 02/10 ⚽ Seattle Sounders VS Sporting Kansas City | blv-beo
+#EXTINF:-1 tvg-id="104" tvg-logo="https://images.keovip88.net/images/teams/seattle-sounders.png" group-title="GIO VANG TV",🟡 08:30 02/10 ⚽ Seattle Sounders VS Sporting Kansas City | blv-beo
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="105" tvg-logo="https://images.keovip88.net/images/teams/nicaragua.png" group-title="GIO VANG TV",🟣 09:00 02/10 ⚽ Nicaragua VS Costa Rica | blv-mason
 https://freem3u.xyz/static/no-signal/low.m3u8
@@ -296,11 +296,11 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://hls.lauthaitv.cc/live/cur-tat-concacaf/index.m3u8
 #EXTINF:-1 tvg-id="120" tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9c02d82-9011-4c34-a9b0-7eb36e5444e3" group-title="S8 TV",🟢 06:30 02/10 ⚽ Athletic Club VS Sport Club do Recife | NGƯỜI NẶN
 https://hls.lauthaitv.cc/live/athletic-recife-brasb/index.m3u8
-#EXTINF:-1 tvg-id="121" tvg-logo="https://s8tvkc.top/wp-json/s8-image/9279b8ad-614f-44f0-98ec-9a945c871f09" group-title="S8 TV",🟡 07:15 02/10 ⚽ CA Platense VS Estudiantes La Plata | NGƯỜI SÓI
+#EXTINF:-1 tvg-id="121" tvg-logo="https://s8tvkc.top/wp-json/s8-image/9279b8ad-614f-44f0-98ec-9a945c871f09" group-title="S8 TV",🟢 07:15 02/10 ⚽ CA Platense VS Estudiantes La Plata | NGƯỜI SÓI
 https://hls.lauthaitv.cc/live/cap-plata-copaarg/index.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://s8tvkc.top/wp-json/s8-image/d02726fd-b3da-4f0a-b6a4-53a95752406a" group-title="S8 TV",🟡 08:00 02/10 ⚽ Internacional de Bogota VS Deportiva Once Caldas | NGƯỜI PHÁO
 https://hls.lauthaitv.cc/live/bogota-caldas-cate/index.m3u8
-#EXTINF:-1 tvg-id="123" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="S8 TV",🟣 08:30 02/10 ⚽ Seattle Sounders VS Sporting Kansas City | NGƯỜI THỎ
+#EXTINF:-1 tvg-id="123" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="S8 TV",🟡 08:30 02/10 ⚽ Seattle Sounders VS Sporting Kansas City | NGƯỜI THỎ
 https://hls.lauthaitv.cc/live/seattle-kansas-mls/index.m3u8
 #EXTINF:-1 tvg-id="124" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6cf7883c-d031-42d9-9b49-a9c1eaee52c4" group-title="S8 TV",🟣 09:00 02/10 ⚽ Nicaragua VS Costa Rica | NGƯỜI NẶN
 https://hls.lauthaitv.cc/live/nic-cos-concacaf/index.m3u8

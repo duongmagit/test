@@ -2238,7 +2238,7 @@
   <programme start="20261002070000 +0700" stop="20261002091500 +0700" channel="97" channel-number="97">
     <title lang="vi">Cộng hòa Dominican VS Haiti</title>
     <desc lang="vi">CONCACAF Nations League</desc>
-    <category lang="vi">blv Mù</category>
+    <category lang="vi">Súp</category>
   </programme>
   <programme start="20261002091500 +0700" stop="20261002235959 +0700" channel="97" channel-number="97">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -2253,7 +2253,7 @@
   <programme start="20261002070000 +0700" stop="20261002091500 +0700" channel="98" channel-number="98">
     <title lang="vi">Quần đảo Cayman VS Puerto Rico</title>
     <desc lang="vi">CONCACAF Nations League</desc>
-    <category lang="vi">blvhau</category>
+    <category lang="vi">BLV Hấu</category>
   </programme>
   <programme start="20261002091500 +0700" stop="20261002235959 +0700" channel="98" channel-number="98">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -2268,7 +2268,7 @@
   <programme start="20261002070000 +0700" stop="20261002100000 +0700" channel="99" channel-number="99">
     <title lang="vi">Atlanta Braves  VS Philadelphia Phillies</title>
     <desc lang="vi">MLB - Wildcard</desc>
-    <category lang="vi">blv-can</category>
+    <category lang="vi">Cận</category>
   </programme>
   <programme start="20261002100000 +0700" stop="20261002235959 +0700" channel="99" channel-number="99">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -2283,7 +2283,7 @@
   <programme start="20261002071500 +0700" stop="20261002093000 +0700" channel="100" channel-number="100">
     <title lang="vi">Cleveland Browns  VS Pittburgh Steelers</title>
     <desc lang="vi">NFL</desc>
-    <category lang="vi">riko</category>
+    <category lang="vi">Riko</category>
   </programme>
   <programme start="20261002093000 +0700" stop="20261002235959 +0700" channel="100" channel-number="100">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
