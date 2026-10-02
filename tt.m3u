@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://tinyurl.com/dmatvepg"
-#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 08:31 02/10",08:31 02/10
+#EXTINF:-1 tvg-logo="https://prodcdn.sporty.co.nz/cms/23638/1428701/1428702/f6bf6b32-c7ba-44bc-afc5-4904021d6d96_1122.jpg" group-title="Cập nhật 08:57 02/10",08:57 02/10
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" group-title="COLA TV",🟢 07:00 02/10 ⚽ Dominican Republic VS Haiti | BLV 247
-https://live05.meung.app/live/90865415_tsc.m3u8
-#EXTINF:-1 tvg-id="2" tvg-logo="https://img.gvapi.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80" group-title="COLA TV",🟢 07:15 02/10 ⚽ Platense VS CLB Estudiantes La Plata | BLV SAMURAI
-https://live05.meung.app/live/07808742_tsc.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="https://img.gvapi.cc/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png!w80" group-title="COLA TV",🟢 08:00 02/10 ⚽ Las Vegas Aces VS Indiana Fever | BLV Cozy
-https://live05.meung.app/live/87379114_tsc.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="https://img.gvapi.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80" group-title="COLA TV",🟢 08:30 02/10 ⚽ Seattle Sounders VS Kansas City | BLV MOUNTAIN DEW
+#EXTINF:-1 tvg-id="1" tvg-logo="https://img.gvapi.cc/football/team/cef1725baaf3f3be0cb7215c5f39d162.png!w80" group-title="COLA TV",🟢 08:40 02/10 ⚽ Seattle Sounders VS Kansas City | BLV MOUNTAIN DEW
 https://live05.meung.app/live/87547578_tsc.m3u8
-#EXTINF:-1 tvg-id="5" tvg-logo="https://img.gvapi.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80" group-title="COLA TV",🟡 09:00 02/10 ⚽ Nicaragua VS Costa Rica | BLV PEPSI
+#EXTINF:-1 tvg-id="2" tvg-logo="https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80" group-title="COLA TV",🟢 07:00 02/10 ⚽ Dominican Republic VS Haiti | BLV 247
+https://live05.meung.app/live/90865415_tsc.m3u8
+#EXTINF:-1 tvg-id="3" tvg-logo="https://img.gvapi.cc/football/team/df9d41a492e324ad411a3e39c7935352.png!w80" group-title="COLA TV",🟢 07:15 02/10 ⚽ Platense VS CLB Estudiantes La Plata | BLV SAMURAI
+https://live05.meung.app/live/07808742_tsc.m3u8
+#EXTINF:-1 tvg-id="4" tvg-logo="https://img.gvapi.cc/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png!w80" group-title="COLA TV",🟢 08:00 02/10 ⚽ Las Vegas Aces VS Indiana Fever | BLV Cozy
+https://live05.meung.app/live/87379114_tsc.m3u8
+#EXTINF:-1 tvg-id="5" tvg-logo="https://img.gvapi.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80" group-title="COLA TV",🟢 09:00 02/10 ⚽ Nicaragua VS Costa Rica | BLV PEPSI
 https://live05.meung.app/live/59444581_tsc.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://img.gvapi.cc/football/team/4d15f8d9d3cdbbe522ac63ff1dff3b3b.png!w80" group-title="COLA TV",🟣 16:00 02/10 ⚽ PAOK VS Levadiakos | BLV BÍ ĐAO
 https://live05.meung.app/live/99121525_tsc.m3u8
@@ -368,133 +368,147 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-id="144" tvg-logo="https://static.flashscore.com/res/image/data/dMXGhCg5-4UTo6tjM.png" group-title="GIO VANG TV",🟣 16:00 02/10 🎮 Global Esports VS EDG | riko
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="145" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png" group-title="GIO VANG TV",🟣 16:30 02/10 🏀 Illawarra Hawks VS Adelaide 36ers | blv-vit
+#EXTINF:-1 tvg-id="145" tvg-logo="https://images.keovip88.net/images/teams/trenkwalder-admira-wacker.png" group-title="GIO VANG TV",🟣 16:00 02/10 ⚽ FC Trenkwalder Admira VS Austria Wien | mickey
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="146" tvg-logo="https://static.flashscore.com/res/image/data/jLvlBTeM-QNrz0V5B.png" group-title="GIO VANG TV",🟣 17:20 02/10 🎾 Trung Quốc VS Nhật Bản | blv-sun
+#EXTINF:-1 tvg-id="146" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png" group-title="GIO VANG TV",🟣 16:30 02/10 🏀 Illawarra Hawks VS Adelaide 36ers | blv-vit
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="147" tvg-logo="https://pbs.twimg.com/media/HTWWLjZXAAAiXYW?format=webp&name=large" group-title="GIO VANG TV",🟣 18:30 02/10 🏆 ONE Friday Fights 173 VS The Inner Circle 33 | blv-diec
+#EXTINF:-1 tvg-id="147" tvg-logo="https://static.flashscore.com/res/image/data/jLvlBTeM-QNrz0V5B.png" group-title="GIO VANG TV",🟣 17:20 02/10 🎾 Trung Quốc VS Nhật Bản | blv-sun
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="148" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png" group-title="GIO VANG TV",🟣 18:30 02/10 🏀 Perth Wildcats VS South East Melbourne Phoenix | blv-leo
+#EXTINF:-1 tvg-id="148" tvg-logo="https://static.flashscore.com/res/image/data/tYIRtYDa-xpPmazWa.png" group-title="GIO VANG TV",🟣 17:30 02/10 ⚽ North Korea W VS Japan W | blv-sup
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="149" tvg-logo="https://static.flashscore.com/res/image/data/8Oc9LNYg-Miq8CSN4.png" group-title="GIO VANG TV",🟣 19:00 02/10 ⚽ Dejan VS Persipura | blv-beo
+#EXTINF:-1 tvg-id="149" tvg-logo="https://images.keovip88.net/images/teams/augsburg.png" group-title="GIO VANG TV",🟣 18:00 02/10 ⚽ Augsburg VS Hertha BSC Berlin | mickey
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="150" tvg-logo="https://static.flashscore.com/res/image/data/zyDlfTYA-MgUxY1Yb.png" group-title="GIO VANG TV",🟣 19:30 02/10 ⚽ Bryne VS Lyn | blvhau
+#EXTINF:-1 tvg-id="150" tvg-logo="https://pbs.twimg.com/media/HTWWLjZXAAAiXYW?format=webp&name=large" group-title="GIO VANG TV",🟣 18:30 02/10 🏆 ONE Friday Fights 173 VS The Inner Circle 33 | blv-diec
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="151" tvg-logo="https://images.keovip88.net/images/teams/kazakhstan.png" group-title="GIO VANG TV",🟣 21:00 02/10 ⚽ Kazakhstan VS Moldova | blv Mù
+#EXTINF:-1 tvg-id="151" tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png" group-title="GIO VANG TV",🟣 18:30 02/10 🏀 Perth Wildcats VS South East Melbourne Phoenix | blv-leo
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="152" tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9c02d82-9011-4c34-a9b0-7eb36e5444e3" group-title="S8 TV",🟢 06:30 02/10 ⚽ Athletic Club VS Sport Club do Recife | NGƯỜI NẶN
+#EXTINF:-1 tvg-id="152" tvg-logo="https://static.flashscore.com/res/image/data/8Oc9LNYg-Miq8CSN4.png" group-title="GIO VANG TV",🟣 19:00 02/10 ⚽ Dejan VS Persipura | blv-beo
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="153" tvg-logo="https://static.flashscore.com/res/image/data/dS0NzAil-OKa9P8WR.png" group-title="GIO VANG TV",🟣 20:15 02/10 ⚽ Al Ain VS Ajman | blvhau
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="154" tvg-logo="https://static.flashscore.com/res/image/data/WSOq3hFG-K8vlWhPS.png" group-title="GIO VANG TV",🟣 20:15 02/10 ⚽ Al Wasl VS Ittihad Kalba | blv-tri
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="155" tvg-logo="https://images.keovip88.net/images/teams/eintracht-frankfurt.png" group-title="GIO VANG TV",🟣 20:30 02/10 ⚽ Eintracht Frankfurt VS Eintr. Braunschweig | blv-tom
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="156" tvg-logo="https://images.keovip88.net/images/teams/kazakhstan.png" group-title="GIO VANG TV",🟣 21:00 02/10 ⚽ Kazakhstan VS Moldova | blv Mù
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="157" tvg-logo="https://static.flashscore.com/res/image/data/0CZOhXDa-8zUcYY2j.png" group-title="GIO VANG TV",🟣 22:45 02/10 ⚽ Shabab Al-Ahli Dubai VS Al Nasr | blv-tri
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="158" tvg-logo="https://static.flashscore.com/res/image/data/zyDlfTYA-MgUxY1Yb.png" group-title="GIO VANG TV",🟣 19:30 02/10 ⚽ Bryne VS Lyn | blvhau
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:-1 tvg-id="159" tvg-logo="https://s8tvkc.top/wp-json/s8-image/d9c02d82-9011-4c34-a9b0-7eb36e5444e3" group-title="S8 TV",🟢 06:30 02/10 ⚽ Athletic Club VS Sport Club do Recife | NGƯỜI NẶN
 https://hls.lauthaitv.cc/live/athletic-recife-brasb/index.m3u8
-#EXTINF:-1 tvg-id="153" tvg-logo="https://s8tvkc.top/wp-json/s8-image/9279b8ad-614f-44f0-98ec-9a945c871f09" group-title="S8 TV",🟢 07:15 02/10 ⚽ CA Platense VS Estudiantes La Plata | NGƯỜI SÓI
+#EXTINF:-1 tvg-id="160" tvg-logo="https://s8tvkc.top/wp-json/s8-image/9279b8ad-614f-44f0-98ec-9a945c871f09" group-title="S8 TV",🟢 07:15 02/10 ⚽ CA Platense VS Estudiantes La Plata | NGƯỜI SÓI
 https://hls.lauthaitv.cc/live/cap-plata-copaarg/index.m3u8
-#EXTINF:-1 tvg-id="154" tvg-logo="https://s8tvkc.top/wp-json/s8-image/d02726fd-b3da-4f0a-b6a4-53a95752406a" group-title="S8 TV",🟡 08:00 02/10 ⚽ Internacional de Bogota VS Deportiva Once Caldas | NGƯỜI PHÁO
+#EXTINF:-1 tvg-id="161" tvg-logo="https://s8tvkc.top/wp-json/s8-image/d02726fd-b3da-4f0a-b6a4-53a95752406a" group-title="S8 TV",🟡 08:00 02/10 ⚽ Internacional de Bogota VS Deportiva Once Caldas | NGƯỜI PHÁO
 https://hls.lauthaitv.cc/live/bogota-caldas-cate/index.m3u8
-#EXTINF:-1 tvg-id="155" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="S8 TV",🟢 08:30 02/10 ⚽ Seattle Sounders VS Sporting Kansas City | NGƯỜI THỎ
+#EXTINF:-1 tvg-id="162" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="S8 TV",🟢 08:30 02/10 ⚽ Seattle Sounders VS Sporting Kansas City | NGƯỜI THỎ
 https://hls.lauthaitv.cc/live/seattle-kansas-mls/index.m3u8
-#EXTINF:-1 tvg-id="156" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6cf7883c-d031-42d9-9b49-a9c1eaee52c4" group-title="S8 TV",🟡 09:00 02/10 ⚽ Nicaragua VS Costa Rica | NGƯỜI NẶN
+#EXTINF:-1 tvg-id="163" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6cf7883c-d031-42d9-9b49-a9c1eaee52c4" group-title="S8 TV",🟢 09:00 02/10 ⚽ Nicaragua VS Costa Rica | NGƯỜI NẶN
 https://hls.lauthaitv.cc/live/nic-cos-concacaf/index.m3u8
-#EXTINF:-1 tvg-id="157" tvg-logo="https://s8tvkc.top/wp-json/s8-image/71c8f477-0dfd-450a-980c-45839d2d95ed" group-title="S8 TV",🟣 13:00 02/10 ⚽ China Women VS South Korea Women | NGƯỜI BẠC
+#EXTINF:-1 tvg-id="164" tvg-logo="https://s8tvkc.top/wp-json/s8-image/71c8f477-0dfd-450a-980c-45839d2d95ed" group-title="S8 TV",🟣 13:00 02/10 ⚽ China Women VS South Korea Women | NGƯỜI BẠC
 https://hls.lauthaitv.cc/live/chn-kor-asiadw/index.m3u8
-#EXTINF:-1 tvg-id="158" tvg-logo="https://s8tvkc.top/wp-json/s8-image/9b911583-dfec-4e4e-b76d-86fd6d14bc71" group-title="S8 TV",🟣 16:00 02/10 ⚽ Viet Nam VS Pakistan | NGƯỜI CAT
+#EXTINF:-1 tvg-id="165" tvg-logo="https://s8tvkc.top/wp-json/s8-image/9b911583-dfec-4e4e-b76d-86fd6d14bc71" group-title="S8 TV",🟣 16:00 02/10 ⚽ Viet Nam VS Pakistan | NGƯỜI CAT
 https://hls.lauthaitv.cc/live/vie-pak-ffasean/index.m3u8
-#EXTINF:-1 tvg-id="159" tvg-logo="https://s8tvkc.top/wp-json/s8-image/9deb6aa1-28d7-4001-96e0-0ac540fee953" group-title="S8 TV",🟣 16:00 02/10 ⚽ Thailand VS Philippines | NGƯỜI BẠC
+#EXTINF:-1 tvg-id="166" tvg-logo="https://s8tvkc.top/wp-json/s8-image/9deb6aa1-28d7-4001-96e0-0ac540fee953" group-title="S8 TV",🟣 16:00 02/10 ⚽ Thailand VS Philippines | NGƯỜI BẠC
 https://hls.lauthaitv.cc/live/tha-phi-ffasean/index.m3u8
-#EXTINF:-1 tvg-id="160" tvg-logo="https://s8tvkc.top/wp-json/s8-image/eddadc74-b6d1-4755-b54c-771d8980df8f" group-title="S8 TV",🟣 17:30 02/10 ⚽ North Korea Women VS Japan Women | NGƯỜI THỎ
+#EXTINF:-1 tvg-id="167" tvg-logo="https://s8tvkc.top/wp-json/s8-image/eddadc74-b6d1-4755-b54c-771d8980df8f" group-title="S8 TV",🟣 17:30 02/10 ⚽ North Korea Women VS Japan Women | NGƯỜI THỎ
 https://hls.lauthaitv.cc/live/pkr-jpn-asiadw/index.m3u8
-#EXTINF:-1 tvg-id="161" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6954d174-3fb1-41d7-a2cf-b6a6494fb3ba" group-title="S8 TV",🟣 18:00 02/10 ⚽ South Korea VS Venezuela | NGƯỜI CHÈ
+#EXTINF:-1 tvg-id="168" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6954d174-3fb1-41d7-a2cf-b6a6494fb3ba" group-title="S8 TV",🟣 18:00 02/10 ⚽ South Korea VS Venezuela | NGƯỜI CHÈ
 https://hls.lauthaitv.cc/live/kor-ven-intfr/index.m3u8
-#EXTINF:-1 tvg-id="162" tvg-logo="https://s8tvkc.top/wp-json/s8-image/4fd90142-9954-4f38-85d9-f4a91c36564b" group-title="S8 TV",🟣 18:35 02/10 ⚽ China VS Palestine | NGƯỜI SẮT
+#EXTINF:-1 tvg-id="169" tvg-logo="https://s8tvkc.top/wp-json/s8-image/4fd90142-9954-4f38-85d9-f4a91c36564b" group-title="S8 TV",🟣 18:35 02/10 ⚽ China VS Palestine | NGƯỜI SẮT
 https://hls.lauthaitv.cc/live/chn-pal-intfr/index.m3u8
-#EXTINF:-1 tvg-id="163" tvg-logo="https://s8tvkc.top/wp-json/s8-image/94d7c487-e591-47e8-b44c-ec7f2cc82799" group-title="S8 TV",🟣 20:15 02/10 ⚽ Al Wasl SC VS Ittihad Kalba FC | NGƯỜI THỎ
+#EXTINF:-1 tvg-id="170" tvg-logo="https://s8tvkc.top/wp-json/s8-image/94d7c487-e591-47e8-b44c-ec7f2cc82799" group-title="S8 TV",🟣 20:15 02/10 ⚽ Al Wasl SC VS Ittihad Kalba FC | NGƯỜI THỎ
 https://hls.lauthaitv.cc/live/wasl-kalba-uae/index.m3u8
-#EXTINF:-1 tvg-id="164" tvg-logo="https://s8tvkc.top/wp-json/s8-image/1e1196ad-2781-4b72-84ed-2bedfe7c6749" group-title="S8 TV",🟣 21:00 02/10 ⚽ Kazakhstan VS Moldova | NGƯỜI SẮT
+#EXTINF:-1 tvg-id="171" tvg-logo="https://s8tvkc.top/wp-json/s8-image/1e1196ad-2781-4b72-84ed-2bedfe7c6749" group-title="S8 TV",🟣 21:00 02/10 ⚽ Kazakhstan VS Moldova | NGƯỜI SẮT
 https://hls.lauthaitv.cc/live/kaz-mol-uefanl/index.m3u8
-#EXTINF:-1 tvg-id="165" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6632daa0-788b-4421-ae5d-ab64247f5073" group-title="S8 TV",🟣 22:45 02/10 ⚽ Shabab Al Ahli VS Al-Nasr Dubai | NGƯỜI PHÁO
+#EXTINF:-1 tvg-id="172" tvg-logo="https://s8tvkc.top/wp-json/s8-image/6632daa0-788b-4421-ae5d-ab64247f5073" group-title="S8 TV",🟣 22:45 02/10 ⚽ Shabab Al Ahli VS Al-Nasr Dubai | NGƯỜI PHÁO
 https://hls.lauthaitv.cc/live/shabab-alnasr-uae/index.m3u8
-#EXTINF:-1 tvg-id="166" tvg-logo="https://s8tvkc.top/wp-json/s8-image/05645db4-3a1d-47e5-91d1-071a04fe9672" group-title="S8 TV",🟣 23:00 02/10 ⚽ Cyprus VS Armenia | NGƯỜI DÊ
+#EXTINF:-1 tvg-id="173" tvg-logo="https://s8tvkc.top/wp-json/s8-image/05645db4-3a1d-47e5-91d1-071a04fe9672" group-title="S8 TV",🟣 23:00 02/10 ⚽ Cyprus VS Armenia | NGƯỜI DÊ
 https://hls.lauthaitv.cc/live/cyp-arm-uefanl/index.m3u8
-#EXTINF:-1 tvg-id="167" tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9841036-8abf-4b89-8904-438b3c48065f" group-title="S8 TV",🟣 23:00 02/10 ⚽ Latvia VS Montenegro | NGƯỜI CÁO
+#EXTINF:-1 tvg-id="174" tvg-logo="https://s8tvkc.top/wp-json/s8-image/c9841036-8abf-4b89-8904-438b3c48065f" group-title="S8 TV",🟣 23:00 02/10 ⚽ Latvia VS Montenegro | NGƯỜI CÁO
 https://hls.lauthaitv.cc/live/lat-mon-uefanl/index.m3u8
-#EXTINF:-1 tvg-id="168" tvg-logo="https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80" group-title="PHA LANG TV | HD1",🟣 11:00 02/10 ⚽ NGUYỄN THỊ TÂM VS WU YU | LÝ LA LÀNG
+#EXTINF:-1 tvg-id="175" tvg-logo="https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80" group-title="PHA LANG TV | HD1",🟣 11:00 02/10 ⚽ NGUYỄN THỊ TÂM VS WU YU | LÝ LA LÀNG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="169" tvg-logo="https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80" group-title="PHA LANG TV | HD2",🟣 11:00 02/10 ⚽ NGUYỄN THỊ TÂM VS WU YU | LÝ LA LÀNG
+#EXTINF:-1 tvg-id="176" tvg-logo="https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80" group-title="PHA LANG TV | HD2",🟣 11:00 02/10 ⚽ NGUYỄN THỊ TÂM VS WU YU | LÝ LA LÀNG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="170" tvg-logo="https://img0.aiscore.com/volleyball/team/24bea3e10580aa94c883db6647fb25ac.png!w80" group-title="PHA LANG TV | HD1",🟣 11:00 02/10 🏐 Qatar VS Thái Lan | LÝ LIỀU LĨNH
+#EXTINF:-1 tvg-id="177" tvg-logo="https://img0.aiscore.com/volleyball/team/24bea3e10580aa94c883db6647fb25ac.png!w80" group-title="PHA LANG TV | HD1",🟣 11:00 02/10 🏐 Qatar VS Thái Lan | LÝ LIỀU LĨNH
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="171" tvg-logo="https://img0.aiscore.com/volleyball/team/24bea3e10580aa94c883db6647fb25ac.png!w80" group-title="PHA LANG TV | HD2",🟣 11:00 02/10 🏐 Qatar VS Thái Lan | LÝ LIỀU LĨNH
+#EXTINF:-1 tvg-id="178" tvg-logo="https://img0.aiscore.com/volleyball/team/24bea3e10580aa94c883db6647fb25ac.png!w80" group-title="PHA LANG TV | HD2",🟣 11:00 02/10 🏐 Qatar VS Thái Lan | LÝ LIỀU LĨNH
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="172" tvg-logo="https://img0.aiscore.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" group-title="PHA LANG TV | HD1",🟣 13:00 02/10 ⚽ China Women VS South Korea Women | LÝ LINH LỰC
+#EXTINF:-1 tvg-id="179" tvg-logo="https://img0.aiscore.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" group-title="PHA LANG TV | HD1",🟣 13:00 02/10 ⚽ China Women VS South Korea Women | LÝ LINH LỰC
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="173" tvg-logo="https://img0.aiscore.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" group-title="PHA LANG TV | HD2",🟣 13:00 02/10 ⚽ China Women VS South Korea Women | LÝ LINH LỰC
+#EXTINF:-1 tvg-id="180" tvg-logo="https://img0.aiscore.com/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80" group-title="PHA LANG TV | HD2",🟣 13:00 02/10 ⚽ China Women VS South Korea Women | LÝ LINH LỰC
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="174" tvg-logo="https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80" group-title="PHA LANG TV | HD1",🟣 14:00 02/10 🏐 Pakistan  VS Iran | LÝ LÊN LỬA
+#EXTINF:-1 tvg-id="181" tvg-logo="https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80" group-title="PHA LANG TV | HD1",🟣 14:00 02/10 🏐 Pakistan  VS Iran | LÝ LÊN LỬA
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="175" tvg-logo="https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80" group-title="PHA LANG TV | HD2",🟣 14:00 02/10 🏐 Pakistan  VS Iran | LÝ LÊN LỬA
+#EXTINF:-1 tvg-id="182" tvg-logo="https://img0.aiscore.com/volleyball/team/8f0728585eec7b39e9f54a1fd98b1f47.png!w80" group-title="PHA LANG TV | HD2",🟣 14:00 02/10 🏐 Pakistan  VS Iran | LÝ LÊN LỬA
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="176" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="PHA LANG TV | HD1",🟣 16:00 02/10 ⚽ Vietnam VS Pakistan | LÝ LA LÀNG
+#EXTINF:-1 tvg-id="183" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="PHA LANG TV | HD1",🟣 16:00 02/10 ⚽ Vietnam VS Pakistan | LÝ LA LÀNG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="177" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="PHA LANG TV | HD2",🟣 16:00 02/10 ⚽ Vietnam VS Pakistan | LÝ LA LÀNG
+#EXTINF:-1 tvg-id="184" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="PHA LANG TV | HD2",🟣 16:00 02/10 ⚽ Vietnam VS Pakistan | LÝ LA LÀNG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="178" tvg-logo="https://img0.aiscore.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="PHA LANG TV | HD1",🟣 16:00 02/10 ⚽ Thailand VS Philippines | LÝ LÀNG LÁ
+#EXTINF:-1 tvg-id="185" tvg-logo="https://img0.aiscore.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="PHA LANG TV | HD1",🟣 16:00 02/10 ⚽ Thailand VS Philippines | LÝ LÀNG LÁ
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="179" tvg-logo="https://img0.aiscore.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="PHA LANG TV | HD2",🟣 16:00 02/10 ⚽ Thailand VS Philippines | LÝ LÀNG LÁ
+#EXTINF:-1 tvg-id="186" tvg-logo="https://img0.aiscore.com/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80" group-title="PHA LANG TV | HD2",🟣 16:00 02/10 ⚽ Thailand VS Philippines | LÝ LÀNG LÁ
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="180" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="PHA LANG TV | HD1",🟣 16:00 02/10 ⚽ Vietnam  VS Pakistan | LÝ LONG
+#EXTINF:-1 tvg-id="187" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="PHA LANG TV | HD1",🟣 16:00 02/10 ⚽ Vietnam  VS Pakistan | LÝ LONG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="181" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="PHA LANG TV | HD2",🟣 16:00 02/10 ⚽ Vietnam  VS Pakistan | LÝ LONG
+#EXTINF:-1 tvg-id="188" tvg-logo="https://img0.aiscore.com/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80" group-title="PHA LANG TV | HD2",🟣 16:00 02/10 ⚽ Vietnam  VS Pakistan | LÝ LONG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="182" tvg-logo="https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80" group-title="PHA LANG TV | HD1",🟣 17:00 02/10 🏐 Việt Nam VS Indonesia | LÝ LIỀU LĨNH
+#EXTINF:-1 tvg-id="189" tvg-logo="https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80" group-title="PHA LANG TV | HD1",🟣 17:00 02/10 🏐 Việt Nam VS Indonesia | LÝ LIỀU LĨNH
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="183" tvg-logo="https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80" group-title="PHA LANG TV | HD2",🟣 17:00 02/10 🏐 Việt Nam VS Indonesia | LÝ LIỀU LĨNH
+#EXTINF:-1 tvg-id="190" tvg-logo="https://img0.aiscore.com/volleyball/team/93ff8d7f8cbb4a363bee874b30e2a263.png!w80" group-title="PHA LANG TV | HD2",🟣 17:00 02/10 🏐 Việt Nam VS Indonesia | LÝ LIỀU LĨNH
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="184" tvg-logo="https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80" group-title="PHA LANG TV | HD1",🟣 17:20 02/10 🏐 Nhật Bản VS Trung Quốc | LÝ LÊN LỬA
+#EXTINF:-1 tvg-id="191" tvg-logo="https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80" group-title="PHA LANG TV | HD1",🟣 17:20 02/10 🏐 Nhật Bản VS Trung Quốc | LÝ LÊN LỬA
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="185" tvg-logo="https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80" group-title="PHA LANG TV | HD2",🟣 17:20 02/10 🏐 Nhật Bản VS Trung Quốc | LÝ LÊN LỬA
+#EXTINF:-1 tvg-id="192" tvg-logo="https://img0.aiscore.com/volleyball/team/b337fa1acec0642f9ded3da29456d58a.png!w80" group-title="PHA LANG TV | HD2",🟣 17:20 02/10 🏐 Nhật Bản VS Trung Quốc | LÝ LÊN LỬA
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="186" tvg-logo="https://img0.aiscore.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80" group-title="PHA LANG TV | HD1",🟣 17:30 02/10 ⚽ North Korea Women VS Japan Women | LÝ LIỀU LĨNH
+#EXTINF:-1 tvg-id="193" tvg-logo="https://img0.aiscore.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80" group-title="PHA LANG TV | HD1",🟣 17:30 02/10 ⚽ North Korea Women VS Japan Women | LÝ LIỀU LĨNH
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="187" tvg-logo="https://img0.aiscore.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80" group-title="PHA LANG TV | HD2",🟣 17:30 02/10 ⚽ North Korea Women VS Japan Women | LÝ LIỀU LĨNH
+#EXTINF:-1 tvg-id="194" tvg-logo="https://img0.aiscore.com/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80" group-title="PHA LANG TV | HD2",🟣 17:30 02/10 ⚽ North Korea Women VS Japan Women | LÝ LIỀU LĨNH
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="188" tvg-logo="https://img0.aiscore.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png!w80" group-title="PHA LANG TV | HD1",🟣 18:00 02/10 ⚽ South Korea VS Venezuela | LÝ LINH LỰC
+#EXTINF:-1 tvg-id="195" tvg-logo="https://img0.aiscore.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png!w80" group-title="PHA LANG TV | HD1",🟣 18:00 02/10 ⚽ South Korea VS Venezuela | LÝ LINH LỰC
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="189" tvg-logo="https://img0.aiscore.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png!w80" group-title="PHA LANG TV | HD2",🟣 18:00 02/10 ⚽ South Korea VS Venezuela | LÝ LINH LỰC
+#EXTINF:-1 tvg-id="196" tvg-logo="https://img0.aiscore.com/football/team/a3f9a9a7e81748828ce092f0dd488479.png!w80" group-title="PHA LANG TV | HD2",🟣 18:00 02/10 ⚽ South Korea VS Venezuela | LÝ LINH LỰC
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="190" tvg-logo="https://img0.aiscore.com/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80" group-title="PHA LANG TV | HD1",🟣 20:15 02/10 ⚽ Al-Wasl SC VS Ittihad Kalba FC | LÝ LA LÀNG
+#EXTINF:-1 tvg-id="197" tvg-logo="https://img0.aiscore.com/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80" group-title="PHA LANG TV | HD1",🟣 20:15 02/10 ⚽ Al-Wasl SC VS Ittihad Kalba FC | LÝ LA LÀNG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="191" tvg-logo="https://img0.aiscore.com/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80" group-title="PHA LANG TV | HD2",🟣 20:15 02/10 ⚽ Al-Wasl SC VS Ittihad Kalba FC | LÝ LA LÀNG
+#EXTINF:-1 tvg-id="198" tvg-logo="https://img0.aiscore.com/football/team/17b767b98695df2fb512e992dd8a7af4.png!w80" group-title="PHA LANG TV | HD2",🟣 20:15 02/10 ⚽ Al-Wasl SC VS Ittihad Kalba FC | LÝ LA LÀNG
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="192" tvg-logo="https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="PHA LANG TV | HD1",🟣 21:00 02/10 ⚽ Kazakhstan VS Moldova | LÝ LINH LỰC
+#EXTINF:-1 tvg-id="199" tvg-logo="https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="PHA LANG TV | HD1",🟣 21:00 02/10 ⚽ Kazakhstan VS Moldova | LÝ LINH LỰC
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="193" tvg-logo="https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="PHA LANG TV | HD2",🟣 21:00 02/10 ⚽ Kazakhstan VS Moldova | LÝ LINH LỰC
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img0.aiscore.com/football/team/0b01c7d68feb22290f3b0da91bef689d.png!w80" group-title="PHA LANG TV | HD2",🟣 21:00 02/10 ⚽ Kazakhstan VS Moldova | LÝ LINH LỰC
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="194" tvg-logo="https://img0.aiscore.com/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="PHA LANG TV | HD1",🟣 23:00 02/10 ⚽ Cyprus VS Armenia | LÝ LÀNG LÁ
+#EXTINF:-1 tvg-id="201" tvg-logo="https://img0.aiscore.com/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="PHA LANG TV | HD1",🟣 23:00 02/10 ⚽ Cyprus VS Armenia | LÝ LÀNG LÁ
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
-#EXTINF:-1 tvg-id="195" tvg-logo="https://img0.aiscore.com/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="PHA LANG TV | HD2",🟣 23:00 02/10 ⚽ Cyprus VS Armenia | LÝ LÀNG LÁ
+#EXTINF:-1 tvg-id="202" tvg-logo="https://img0.aiscore.com/football/team/2c5a6c94ba9dea2c9a656407e1b9bd8c.png!w80" group-title="PHA LANG TV | HD2",🟣 23:00 02/10 ⚽ Cyprus VS Armenia | LÝ LÀNG LÁ
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://freem3u.xyz/static/no-signal/low.m3u8
