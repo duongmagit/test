@@ -28,22 +28,22 @@
   <channel id="6">
     <display-name lang="vi">6</display-name>
     <display-number>6</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
   </channel>
   <channel id="7">
     <display-name lang="vi">7</display-name>
     <display-number>7</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="8">
     <display-name lang="vi">8</display-name>
     <display-number>8</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
   </channel>
   <channel id="9">
     <display-name lang="vi">9</display-name>
     <display-number>9</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
   </channel>
   <channel id="10">
     <display-name lang="vi">10</display-name>
@@ -936,9 +936,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261003014500 +0700" stop="20261003040000 +0700" channel="6" channel-number="6">
-    <title lang="vi">ĐTQG Ba Lan VS CLB Romania</title>
+    <title lang="vi">ĐTQG Ukraine VS ĐTQG Bắc Ireland</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
-    <category lang="vi">BLV SODA</category>
+    <category lang="vi">BLV STING</category>
   </programme>
   <programme start="20261003040000 +0700" stop="20261003235959 +0700" channel="6" channel-number="6">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -951,9 +951,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261003014500 +0700" stop="20261003040000 +0700" channel="7" channel-number="7">
-    <title lang="vi">ĐTQG Ukraine VS ĐTQG Bắc Ireland</title>
+    <title lang="vi">ĐTQG Hungary VS ĐTQG Georgia</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
-    <category lang="vi">BLV STING</category>
+    <category lang="vi">BLV MONSTER</category>
   </programme>
   <programme start="20261003040000 +0700" stop="20261003235959 +0700" channel="7" channel-number="7">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -966,9 +966,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261003014500 +0700" stop="20261003040000 +0700" channel="8" channel-number="8">
-    <title lang="vi">ĐTQG Hungary VS ĐTQG Georgia</title>
+    <title lang="vi">Quần đảo Faroe VS Đội tuyển Quốc gia Slovakia</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
-    <category lang="vi">BLV MONSTER</category>
+    <category lang="vi">BLV SPRITE</category>
   </programme>
   <programme start="20261003040000 +0700" stop="20261003235959 +0700" channel="8" channel-number="8">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -981,9 +981,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261003014500 +0700" stop="20261003040000 +0700" channel="9" channel-number="9">
-    <title lang="vi">Quần đảo Faroe VS Đội tuyển Quốc gia Slovakia</title>
+    <title lang="vi">ĐTQG Ba Lan VS CLB Romania</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
-    <category lang="vi">BLV SPRITE</category>
+    <category lang="vi">BLV SODA</category>
   </programme>
   <programme start="20261003040000 +0700" stop="20261003235959 +0700" channel="9" channel-number="9">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
