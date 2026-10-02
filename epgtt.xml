@@ -118,12 +118,12 @@
   <channel id="24">
     <display-name lang="vi">24</display-name>
     <display-number>24</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="25">
     <display-name lang="vi">25</display-name>
     <display-number>25</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmJlZTBiMGRkYTgtOTA1Mg/MGU3YTgxNzdmMjktYzk3MA.png"/>
   </channel>
   <channel id="26">
     <display-name lang="vi">26</display-name>
@@ -1573,7 +1573,7 @@
   <programme start="20261002230000 +0700" stop="20261003011500 +0700" channel="24" channel-number="24">
     <title lang="vi">Latvia VS Montenegro</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
-    <category lang="vi">BLV BÍ ĐAO</category>
+    <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
   <programme start="20261003011500 +0700" stop="20261003235959 +0700" channel="24" channel-number="24">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1588,7 +1588,7 @@
   <programme start="20261002230000 +0700" stop="20261003011500 +0700" channel="25" channel-number="25">
     <title lang="vi">Latvia VS Montenegro</title>
     <desc lang="vi">Giải vô địch bóng đá các quốc gia châu Âu</desc>
-    <category lang="vi">BLV MOUNTAIN DEW</category>
+    <category lang="vi">BLV BÍ ĐAO</category>
   </programme>
   <programme start="20261003011500 +0700" stop="20261003235959 +0700" channel="25" channel-number="25">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
