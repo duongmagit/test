@@ -308,12 +308,12 @@
   <channel id="62">
     <display-name lang="vi">62</display-name>
     <display-number>62</display-number>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-v62evjqa_zZK0wVOecR8uc3xUbBsbTg74KUnF7iZjJAf5ltbn-C-sk&amp;s=10"/>
+    <icon src=""/>
   </channel>
   <channel id="63">
     <display-name lang="vi">63</display-name>
     <display-number>63</display-number>
-    <icon src=""/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-v62evjqa_zZK0wVOecR8uc3xUbBsbTg74KUnF7iZjJAf5ltbn-C-sk&amp;s=10"/>
   </channel>
   <channel id="64">
     <display-name lang="vi">64</display-name>
@@ -2135,32 +2135,32 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261002000000 +0000" stop="20261002090000 +0700" channel="62" channel-number="62">
+  <programme start="20261002000000 +0000" stop="20261002123000 +0700" channel="62" channel-number="62">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261002090000 +0700" stop="20261002113000 +0700" channel="62" channel-number="62">
-    <title lang="vi">tokyo Open VS 2026</title>
-    <desc lang="vi">ATP Tokyo Open</desc>
-    <category lang="vi">Mù</category>
+  <programme start="20261002123000 +0700" stop="20261002143000 +0700" channel="62" channel-number="62">
+    <title lang="vi">VietNam Men  VS Spain Man</title>
+    <desc lang="vi">Bali 10 Ball Open</desc>
+    <category lang="vi">Điếc</category>
   </programme>
-  <programme start="20261002113000 +0700" stop="20261002235959 +0700" channel="62" channel-number="62">
+  <programme start="20261002143000 +0700" stop="20261002235959 +0700" channel="62" channel-number="62">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261002000000 +0000" stop="20261002123000 +0700" channel="63" channel-number="63">
+  <programme start="20261002000000 +0000" stop="20261002090000 +0700" channel="63" channel-number="63">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261002123000 +0700" stop="20261002143000 +0700" channel="63" channel-number="63">
-    <title lang="vi">VietNam Men  VS Spain Man</title>
-    <desc lang="vi">Bali 10 Ball Open</desc>
-    <category lang="vi">blv-diec</category>
+  <programme start="20261002090000 +0700" stop="20261002113000 +0700" channel="63" channel-number="63">
+    <title lang="vi">tokyo Open VS 2026</title>
+    <desc lang="vi">ATP Tokyo Open</desc>
+    <category lang="vi">Mù</category>
   </programme>
-  <programme start="20261002143000 +0700" stop="20261002235959 +0700" channel="63" channel-number="63">
+  <programme start="20261002113000 +0700" stop="20261002235959 +0700" channel="63" channel-number="63">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
