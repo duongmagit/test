@@ -148,12 +148,12 @@
   <channel id="30">
     <display-name lang="vi">30</display-name>
     <display-number>30</display-number>
-    <icon src="https://images.keovip88.net/images/league/concacaf-nations-league.png"/>
+    <icon src=""/>
   </channel>
   <channel id="31">
     <display-name lang="vi">31</display-name>
     <display-number>31</display-number>
-    <icon src=""/>
+    <icon src="https://images.keovip88.net/images/league/concacaf-nations-league.png"/>
   </channel>
   <channel id="32">
     <display-name lang="vi">32</display-name>
@@ -1135,32 +1135,32 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261005000000 +0000" stop="20261005090000 +0700" channel="30" channel-number="30">
+  <programme start="20261005000000 +0000" stop="20261005100000 +0700" channel="30" channel-number="30">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261005090000 +0700" stop="20261005111500 +0700" channel="30" channel-number="30">
-    <title lang="vi">Nicaragua VS Cộng hòa Dominican</title>
-    <desc lang="vi">CONCACAF Nations League</desc>
-    <category lang="vi">BLV Hấu</category>
+  <programme start="20261005100000 +0700" stop="20261005113000 +0700" channel="30" channel-number="30">
+    <title lang="vi">Groth J VS Harimoto T</title>
+    <desc lang="vi">China Smash 2026</desc>
+    <category lang="vi">Dory</category>
   </programme>
-  <programme start="20261005111500 +0700" stop="20261005235959 +0700" channel="30" channel-number="30">
+  <programme start="20261005113000 +0700" stop="20261005235959 +0700" channel="30" channel-number="30">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261005000000 +0000" stop="20261005100000 +0700" channel="31" channel-number="31">
+  <programme start="20261005000000 +0000" stop="20261005090000 +0700" channel="31" channel-number="31">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261005100000 +0700" stop="20261005113000 +0700" channel="31" channel-number="31">
-    <title lang="vi">Groth J VS Harimoto T</title>
-    <desc lang="vi">China Smash 2026</desc>
-    <category lang="vi">blv-18</category>
+  <programme start="20261005090000 +0700" stop="20261005111500 +0700" channel="31" channel-number="31">
+    <title lang="vi">Nicaragua VS Cộng hòa Dominican</title>
+    <desc lang="vi">CONCACAF Nations League</desc>
+    <category lang="vi">BLV Hấu</category>
   </programme>
-  <programme start="20261005113000 +0700" stop="20261005235959 +0700" channel="31" channel-number="31">
+  <programme start="20261005111500 +0700" stop="20261005235959 +0700" channel="31" channel-number="31">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
