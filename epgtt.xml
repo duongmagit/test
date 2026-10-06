@@ -713,42 +713,42 @@
   <channel id="143">
     <display-name lang="vi">143</display-name>
     <display-number>143</display-number>
-    <icon src="https://static.flashscore.com/res/image/data/team"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/10437.png"/>
   </channel>
   <channel id="144">
     <display-name lang="vi">144</display-name>
     <display-number>144</display-number>
-    <icon src="https://static.flashscore.com/res/image/data/team"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/10437.png"/>
   </channel>
   <channel id="145">
     <display-name lang="vi">145</display-name>
     <display-number>145</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/10437.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9808.png"/>
   </channel>
   <channel id="146">
     <display-name lang="vi">146</display-name>
     <display-number>146</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/10437.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9808.png"/>
   </channel>
   <channel id="147">
     <display-name lang="vi">147</display-name>
     <display-number>147</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9808.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/114.png"/>
   </channel>
   <channel id="148">
     <display-name lang="vi">148</display-name>
     <display-number>148</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/9808.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/114.png"/>
   </channel>
   <channel id="149">
     <display-name lang="vi">149</display-name>
     <display-number>149</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/114.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/10437.png"/>
   </channel>
   <channel id="150">
     <display-name lang="vi">150</display-name>
     <display-number>150</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/114.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/10437.png"/>
   </channel>
   <channel id="151">
     <display-name lang="vi">151</display-name>
@@ -3335,62 +3335,62 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261006000000 +0000" stop="20261006200000 +0700" channel="143" channel-number="143">
+  <programme start="20261006000000 +0000" stop="20261006204500 +0700" channel="143" channel-number="143">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261006200000 +0700" stop="20261006221500 +0700" channel="143" channel-number="143">
-    <title lang="vi">Libya U20 VS Morocco U20</title>
-    <desc lang="vi">Africa Cup of Nations U20 - Qualification</desc>
-    <category lang="vi">Kai</category>
-  </programme>
-  <programme start="20261006221500 +0700" stop="20261006235959 +0700" channel="143" channel-number="143">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261006000000 +0000" stop="20261006200000 +0700" channel="144" channel-number="144">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261006200000 +0700" stop="20261006221500 +0700" channel="144" channel-number="144">
-    <title lang="vi">Libya U20 VS Morocco U20</title>
-    <desc lang="vi">Africa Cup of Nations U20 - Qualification</desc>
-    <category lang="vi">Kai</category>
-  </programme>
-  <programme start="20261006221500 +0700" stop="20261006235959 +0700" channel="144" channel-number="144">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261006000000 +0000" stop="20261006204500 +0700" channel="145" channel-number="145">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261006204500 +0700" stop="20261006230000 +0700" channel="145" channel-number="145">
+  <programme start="20261006204500 +0700" stop="20261006230000 +0700" channel="143" channel-number="143">
     <title lang="vi">Azerbaijan U21 VS Gibraltar U21</title>
     <desc lang="vi">EURO U21 Qualification Grp. B</desc>
     <category lang="vi">Long Ruồi</category>
   </programme>
-  <programme start="20261006230000 +0700" stop="20261006235959 +0700" channel="145" channel-number="145">
+  <programme start="20261006230000 +0700" stop="20261006235959 +0700" channel="143" channel-number="143">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261006000000 +0000" stop="20261006204500 +0700" channel="146" channel-number="146">
+  <programme start="20261006000000 +0000" stop="20261006204500 +0700" channel="144" channel-number="144">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261006204500 +0700" stop="20261006230000 +0700" channel="146" channel-number="146">
+  <programme start="20261006204500 +0700" stop="20261006230000 +0700" channel="144" channel-number="144">
     <title lang="vi">Azerbaijan U21 VS Gibraltar U21</title>
     <desc lang="vi">EURO U21 Qualification Grp. B</desc>
     <category lang="vi">Long Ruồi</category>
   </programme>
-  <programme start="20261006230000 +0700" stop="20261006235959 +0700" channel="146" channel-number="146">
+  <programme start="20261006230000 +0700" stop="20261006235959 +0700" channel="144" channel-number="144">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006210000 +0700" channel="145" channel-number="145">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261006210000 +0700" stop="20261006231500 +0700" channel="145" channel-number="145">
+    <title lang="vi">Kazakhstan VS Faroe Islands</title>
+    <desc lang="vi">UEFA Nations League C Grp. 3</desc>
+    <category lang="vi">Teppy</category>
+  </programme>
+  <programme start="20261006231500 +0700" stop="20261006235959 +0700" channel="145" channel-number="145">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261006000000 +0000" stop="20261006210000 +0700" channel="146" channel-number="146">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261006210000 +0700" stop="20261006231500 +0700" channel="146" channel-number="146">
+    <title lang="vi">Kazakhstan VS Faroe Islands</title>
+    <desc lang="vi">UEFA Nations League C Grp. 3</desc>
+    <category lang="vi">Teppy</category>
+  </programme>
+  <programme start="20261006231500 +0700" stop="20261006235959 +0700" channel="146" channel-number="146">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -3401,9 +3401,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006210000 +0700" stop="20261006231500 +0700" channel="147" channel-number="147">
-    <title lang="vi">Kazakhstan VS Faroe Islands</title>
-    <desc lang="vi">UEFA Nations League C Grp. 3</desc>
-    <category lang="vi">Teppy</category>
+    <title lang="vi">India VS Uruguay</title>
+    <desc lang="vi">Friendlies</desc>
+    <category lang="vi">Bút Chì</category>
   </programme>
   <programme start="20261006231500 +0700" stop="20261006235959 +0700" channel="147" channel-number="147">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -3416,9 +3416,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006210000 +0700" stop="20261006231500 +0700" channel="148" channel-number="148">
-    <title lang="vi">Kazakhstan VS Faroe Islands</title>
-    <desc lang="vi">UEFA Nations League C Grp. 3</desc>
-    <category lang="vi">Teppy</category>
+    <title lang="vi">India VS Uruguay</title>
+    <desc lang="vi">Friendlies</desc>
+    <category lang="vi">Bút Chì</category>
   </programme>
   <programme start="20261006231500 +0700" stop="20261006235959 +0700" channel="148" channel-number="148">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -3431,9 +3431,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006210000 +0700" stop="20261006231500 +0700" channel="149" channel-number="149">
-    <title lang="vi">India VS Uruguay</title>
-    <desc lang="vi">Friendlies</desc>
-    <category lang="vi">Bút Chì</category>
+    <title lang="vi">Moldova U21 VS Kazakhstan U21</title>
+    <desc lang="vi">EURO U21 Qualification Grp. D</desc>
+    <category lang="vi">Kai</category>
   </programme>
   <programme start="20261006231500 +0700" stop="20261006235959 +0700" channel="149" channel-number="149">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -3446,9 +3446,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006210000 +0700" stop="20261006231500 +0700" channel="150" channel-number="150">
-    <title lang="vi">India VS Uruguay</title>
-    <desc lang="vi">Friendlies</desc>
-    <category lang="vi">Bút Chì</category>
+    <title lang="vi">Moldova U21 VS Kazakhstan U21</title>
+    <desc lang="vi">EURO U21 Qualification Grp. D</desc>
+    <category lang="vi">Kai</category>
   </programme>
   <programme start="20261006231500 +0700" stop="20261006235959 +0700" channel="150" channel-number="150">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
