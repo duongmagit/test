@@ -13,12 +13,12 @@
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
@@ -1111,9 +1111,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006143000 +0700" stop="20261006164500 +0700" channel="3" channel-number="3">
-    <title lang="vi">Beijing Technology VS Chengdu Rongcheng B</title>
+    <title lang="vi">Qingdao Red Lions VS Wuhan Three Towns B</title>
     <desc lang="vi">Giải bóng đá Hạng hai Trung Quốc</desc>
-    <category lang="vi">BLV MOUNTAIN DEW</category>
+    <category lang="vi">BLV 247</category>
   </programme>
   <programme start="20261006164500 +0700" stop="20261006235959 +0700" channel="3" channel-number="3">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1126,9 +1126,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006143000 +0700" stop="20261006164500 +0700" channel="4" channel-number="4">
-    <title lang="vi">Qingdao Red Lions VS Wuhan Three Towns B</title>
+    <title lang="vi">Beijing Technology VS Chengdu Rongcheng B</title>
     <desc lang="vi">Giải bóng đá Hạng hai Trung Quốc</desc>
-    <category lang="vi">BLV 247</category>
+    <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
   <programme start="20261006164500 +0700" stop="20261006235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
