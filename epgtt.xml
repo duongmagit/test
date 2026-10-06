@@ -8,17 +8,17 @@
   <channel id="2">
     <display-name lang="vi">2</display-name>
     <display-number>2</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
@@ -273,12 +273,12 @@
   <channel id="55">
     <display-name lang="vi">55</display-name>
     <display-number>55</display-number>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsXo22dR0a8IwO2dJ7JIgmB8rC0jxrLUToAz8V8rzvg&amp;s"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqdhc5SV3WybTB7Sjxym1GEKujXG79MxX6l4hO-Ft2xhaR5ydk3PrXUo&amp;s=10"/>
   </channel>
   <channel id="56">
     <display-name lang="vi">56</display-name>
     <display-number>56</display-number>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqdhc5SV3WybTB7Sjxym1GEKujXG79MxX6l4hO-Ft2xhaR5ydk3PrXUo&amp;s=10"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwsXo22dR0a8IwO2dJ7JIgmB8rC0jxrLUToAz8V8rzvg&amp;s"/>
   </channel>
   <channel id="57">
     <display-name lang="vi">57</display-name>
@@ -1081,9 +1081,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006143000 +0700" stop="20261006164500 +0700" channel="2" channel-number="2">
-    <title lang="vi">Thượng Hải Saigenda VS Yichun Grand Tiger</title>
+    <title lang="vi">Qingdao Red Lions VS Wuhan Three Towns B</title>
     <desc lang="vi">Giải bóng đá Hạng hai Trung Quốc</desc>
-    <category lang="vi">BLV C2</category>
+    <category lang="vi">BLV 247</category>
   </programme>
   <programme start="20261006164500 +0700" stop="20261006235959 +0700" channel="2" channel-number="2">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1096,9 +1096,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006143000 +0700" stop="20261006164500 +0700" channel="3" channel-number="3">
-    <title lang="vi">Beijing Technology VS Chengdu Rongcheng B</title>
+    <title lang="vi">Thượng Hải Saigenda VS Yichun Grand Tiger</title>
     <desc lang="vi">Giải bóng đá Hạng hai Trung Quốc</desc>
-    <category lang="vi">BLV MOUNTAIN DEW</category>
+    <category lang="vi">BLV C2</category>
   </programme>
   <programme start="20261006164500 +0700" stop="20261006235959 +0700" channel="3" channel-number="3">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1111,9 +1111,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261006143000 +0700" stop="20261006164500 +0700" channel="4" channel-number="4">
-    <title lang="vi">Qingdao Red Lions VS Wuhan Three Towns B</title>
+    <title lang="vi">Beijing Technology VS Chengdu Rongcheng B</title>
     <desc lang="vi">Giải bóng đá Hạng hai Trung Quốc</desc>
-    <category lang="vi">BLV 247</category>
+    <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
   <programme start="20261006164500 +0700" stop="20261006235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1870,32 +1870,32 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261006000000 +0000" stop="20261006100000 +0700" channel="55" channel-number="55">
+  <programme start="20261006000000 +0000" stop="20261006140000 +0700" channel="55" channel-number="55">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261006100000 +0700" stop="20261006113000 +0700" channel="55" channel-number="55">
-    <title lang="vi">HUANG Youzheng  VS LIN Yun-Ju</title>
-    <desc lang="vi">China Smash 2026</desc>
-    <category lang="vi">Súp</category>
+  <programme start="20261006140000 +0700" stop="20261006160000 +0700" channel="55" channel-number="55">
+    <title lang="vi">BRO  VS NAVI</title>
+    <desc lang="vi">Demacia Cup Global Invitational</desc>
+    <category lang="vi">Cận</category>
   </programme>
-  <programme start="20261006113000 +0700" stop="20261006235959 +0700" channel="55" channel-number="55">
+  <programme start="20261006160000 +0700" stop="20261006235959 +0700" channel="55" channel-number="55">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261006000000 +0000" stop="20261006140000 +0700" channel="56" channel-number="56">
+  <programme start="20261006000000 +0000" stop="20261006100000 +0700" channel="56" channel-number="56">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261006140000 +0700" stop="20261006160000 +0700" channel="56" channel-number="56">
-    <title lang="vi">BRO  VS NAVI</title>
-    <desc lang="vi">Demacia Cup Global Invitational</desc>
-    <category lang="vi">blvhau</category>
+  <programme start="20261006100000 +0700" stop="20261006113000 +0700" channel="56" channel-number="56">
+    <title lang="vi">HUANG Youzheng  VS LIN Yun-Ju</title>
+    <desc lang="vi">China Smash 2026</desc>
+    <category lang="vi">Súp</category>
   </programme>
-  <programme start="20261006160000 +0700" stop="20261006235959 +0700" channel="56" channel-number="56">
+  <programme start="20261006113000 +0700" stop="20261006235959 +0700" channel="56" channel-number="56">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
