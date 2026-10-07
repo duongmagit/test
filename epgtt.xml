@@ -18,12 +18,12 @@
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
     <display-number>5</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODE5OGI4NDQzZDYtMmZlZA/MzFkNzJhYTVmMTctNjhlZg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZTRmM2VlMTNmYTUtYzdlYQ/NWI2MmFkMDMzNDYtMzgzMQ.jpg"/>
   </channel>
   <channel id="6">
     <display-name lang="vi">6</display-name>
@@ -901,9 +901,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261007163000 +0700" stop="20261007184500 +0700" channel="4" channel-number="4">
-    <title lang="vi">Cerezo Osaka VS Kagoshima United</title>
+    <title lang="vi">Sanfrecce Hiroshima VS Ban Di Tesi Iwaki</title>
     <desc lang="vi">Emperors Cup</desc>
-    <category lang="vi">BLV STING</category>
+    <category lang="vi">BLV SPRITE</category>
   </programme>
   <programme start="20261007184500 +0700" stop="20261007235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -916,9 +916,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261007163000 +0700" stop="20261007184500 +0700" channel="5" channel-number="5">
-    <title lang="vi">Sanfrecce Hiroshima VS Ban Di Tesi Iwaki</title>
+    <title lang="vi">Cerezo Osaka VS Kagoshima United</title>
     <desc lang="vi">Emperors Cup</desc>
-    <category lang="vi">BLV SPRITE</category>
+    <category lang="vi">BLV STING</category>
   </programme>
   <programme start="20261007184500 +0700" stop="20261007235959 +0700" channel="5" channel-number="5">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
