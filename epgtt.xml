@@ -98,32 +98,32 @@
   <channel id="20">
     <display-name lang="vi">20</display-name>
     <display-number>20</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/team_7565.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="21">
     <display-name lang="vi">21</display-name>
     <display-number>21</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/Ratchaburi_Mitr_Phol_logo_2019.png"/>
+    <icon src="https://khandai2.link/media/teams/logos/team_7565.jpg"/>
   </channel>
   <channel id="22">
     <display-name lang="vi">22</display-name>
     <display-number>22</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/team_5306.jpg"/>
+    <icon src="https://khandai2.link/media/teams/logos/Ratchaburi_Mitr_Phol_logo_2019.png"/>
   </channel>
   <channel id="23">
     <display-name lang="vi">23</display-name>
     <display-number>23</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/team_10543.jpg"/>
+    <icon src="https://khandai2.link/media/teams/logos/team_5306.jpg"/>
   </channel>
   <channel id="24">
     <display-name lang="vi">24</display-name>
     <display-number>24</display-number>
-    <icon src="https://khandai2.link/media/teams/logos/team_3541.jpg"/>
+    <icon src="https://khandai2.link/media/teams/logos/team_10543.jpg"/>
   </channel>
   <channel id="25">
     <display-name lang="vi">25</display-name>
     <display-number>25</display-number>
-    <icon src=""/>
+    <icon src="https://khandai2.link/media/teams/logos/team_3541.jpg"/>
   </channel>
   <channel id="26">
     <display-name lang="vi">26</display-name>
@@ -1025,17 +1025,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261007000000 +0000" stop="20261007190000 +0700" channel="20" channel-number="20">
+  <programme start="20261007000000 +0000" stop="20261008040000 +0700" channel="20" channel-number="20">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261007190000 +0700" stop="20261007211500 +0700" channel="20" channel-number="20">
-    <title lang="vi">Buriram VS Borneo</title>
-    <desc lang="vi">ASEAN Club Championship</desc>
-    <category lang="vi">Pháo Thủ</category>
+  <programme start="20261008040000 +0700" stop="20261008061500 +0700" channel="20" channel-number="20">
+    <title lang="vi">Leones VS Barranquilla FC</title>
+    <desc lang="vi">Giải bóng đá Hạng nhì Colombia</desc>
+    <category lang="vi">BLV MONSTER</category>
   </programme>
-  <programme start="20261007211500 +0700" stop="20261007235959 +0700" channel="20" channel-number="20">
+  <programme start="20261008061500 +0700" stop="20261008235959 +0700" channel="20" channel-number="20">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1046,71 +1046,71 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261007190000 +0700" stop="20261007211500 +0700" channel="21" channel-number="21">
-    <title lang="vi">Ratchaburi VS Công An HCM</title>
+    <title lang="vi">Buriram VS Borneo</title>
     <desc lang="vi">ASEAN Club Championship</desc>
-    <category lang="vi">Tày</category>
+    <category lang="vi">Pháo Thủ</category>
   </programme>
   <programme start="20261007211500 +0700" stop="20261007235959 +0700" channel="21" channel-number="21">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261007000000 +0000" stop="20261007200000 +0700" channel="22" channel-number="22">
+  <programme start="20261007000000 +0000" stop="20261007190000 +0700" channel="22" channel-number="22">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261007200000 +0700" stop="20261007221500 +0700" channel="22" channel-number="22">
+  <programme start="20261007190000 +0700" stop="20261007211500 +0700" channel="22" channel-number="22">
+    <title lang="vi">Ratchaburi VS Công An HCM</title>
+    <desc lang="vi">ASEAN Club Championship</desc>
+    <category lang="vi">Tày</category>
+  </programme>
+  <programme start="20261007211500 +0700" stop="20261007235959 +0700" channel="22" channel-number="22">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261007000000 +0000" stop="20261007200000 +0700" channel="23" channel-number="23">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261007200000 +0700" stop="20261007221500 +0700" channel="23" channel-number="23">
     <title lang="vi">Kuching City FC VS Tampines</title>
     <desc lang="vi">ASEAN Club Championship</desc>
     <category lang="vi">Kền Kền</category>
   </programme>
-  <programme start="20261007221500 +0700" stop="20261007235959 +0700" channel="22" channel-number="22">
+  <programme start="20261007221500 +0700" stop="20261007235959 +0700" channel="23" channel-number="23">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261007000000 +0000" stop="20261007210000 +0700" channel="23" channel-number="23">
+  <programme start="20261007000000 +0000" stop="20261007210000 +0700" channel="24" channel-number="24">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261007210000 +0700" stop="20261007231500 +0700" channel="23" channel-number="23">
+  <programme start="20261007210000 +0700" stop="20261007231500 +0700" channel="24" channel-number="24">
     <title lang="vi">Neftchi Fargona VS Xorazm Urganch</title>
     <desc lang="vi">Super League</desc>
     <category lang="vi">Enzo</category>
   </programme>
-  <programme start="20261007231500 +0700" stop="20261007235959 +0700" channel="23" channel-number="23">
+  <programme start="20261007231500 +0700" stop="20261007235959 +0700" channel="24" channel-number="24">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261007000000 +0000" stop="20261007230000 +0700" channel="24" channel-number="24">
+  <programme start="20261007000000 +0000" stop="20261007230000 +0700" channel="25" channel-number="25">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261007230000 +0700" stop="20261008011500 +0700" channel="24" channel-number="24">
+  <programme start="20261007230000 +0700" stop="20261008011500 +0700" channel="25" channel-number="25">
     <title lang="vi">Gnistan VS Inter Turku</title>
     <desc lang="vi">Veikkausliiga</desc>
     <category lang="vi">Tiểu Mây</category>
   </programme>
-  <programme start="20261008011500 +0700" stop="20261008235959 +0700" channel="24" channel-number="24">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261007000000 +0000" stop="20261007083000 +0700" channel="25" channel-number="25">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261007083000 +0700" stop="20261007113000 +0700" channel="25" channel-number="25">
-    <title lang="vi">San Diego Padres VS Milwaukee Brewers</title>
-    <desc lang="vi">MLB</desc>
-    <category lang="vi">Cận</category>
-  </programme>
-  <programme start="20261007113000 +0700" stop="20261007235959 +0700" channel="25" channel-number="25">
+  <programme start="20261008011500 +0700" stop="20261008235959 +0700" channel="25" channel-number="25">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1153,7 +1153,7 @@
   <programme start="20261007133000 +0700" stop="20261007160000 +0700" channel="28" channel-number="28">
     <title lang="vi">Coco Gauff VS Elise Mertens</title>
     <desc lang="vi">WTA Beijing Open</desc>
-    <category lang="vi">blv-vit</category>
+    <category lang="vi">Vịt</category>
   </programme>
   <programme start="20261007160000 +0700" stop="20261007235959 +0700" channel="28" channel-number="28">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
