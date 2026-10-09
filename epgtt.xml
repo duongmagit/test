@@ -203,7 +203,7 @@
   <channel id="41">
     <display-name lang="vi">41</display-name>
     <display-number>41</display-number>
-    <icon src="https://images.keovip88.net/images/league/usl-championship-my.jpg"/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/cc5f8e2acbc7e8151754c48970f9f1e6.png"/>
   </channel>
   <channel id="42">
     <display-name lang="vi">42</display-name>
@@ -213,7 +213,7 @@
   <channel id="43">
     <display-name lang="vi">43</display-name>
     <display-number>43</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/cc5f8e2acbc7e8151754c48970f9f1e6.png"/>
+    <icon src="https://images.keovip88.net/images/league/usl-championship-my.jpg"/>
   </channel>
   <channel id="44">
     <display-name lang="vi">44</display-name>
@@ -1565,17 +1565,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009000000 +0000" stop="20261010063000 +0700" channel="41" channel-number="41">
+  <programme start="20261009000000 +0000" stop="20261010070000 +0700" channel="41" channel-number="41">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261010063000 +0700" stop="20261010084500 +0700" channel="41" channel-number="41">
-    <title lang="vi">Lexington VS FC Tulsa</title>
-    <desc lang="vi">USL Championship Mỹ</desc>
-    <category lang="vi">blvhau</category>
+  <programme start="20261010070000 +0700" stop="20261010093000 +0700" channel="41" channel-number="41">
+    <title lang="vi">Chicago Bulls VS Memphis Grizzlies</title>
+    <desc lang="vi">National Basketball Association</desc>
+    <category lang="vi">Chồn</category>
   </programme>
-  <programme start="20261010084500 +0700" stop="20261010235959 +0700" channel="41" channel-number="41">
+  <programme start="20261010093000 +0700" stop="20261010235959 +0700" channel="41" channel-number="41">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1588,24 +1588,24 @@
   <programme start="20261010063000 +0700" stop="20261010090000 +0700" channel="42" channel-number="42">
     <title lang="vi">New York Liberty VS Atlanta Dream</title>
     <desc lang="vi">Women’s National Basketball Association</desc>
-    <category lang="vi">mickey</category>
+    <category lang="vi">Mickey</category>
   </programme>
   <programme start="20261010090000 +0700" stop="20261010235959 +0700" channel="42" channel-number="42">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009000000 +0000" stop="20261010070000 +0700" channel="43" channel-number="43">
+  <programme start="20261009000000 +0000" stop="20261010063000 +0700" channel="43" channel-number="43">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261010070000 +0700" stop="20261010093000 +0700" channel="43" channel-number="43">
-    <title lang="vi">Chicago Bulls VS Memphis Grizzlies</title>
-    <desc lang="vi">National Basketball Association</desc>
-    <category lang="vi">blv-leo</category>
+  <programme start="20261010063000 +0700" stop="20261010084500 +0700" channel="43" channel-number="43">
+    <title lang="vi">Lexington VS FC Tulsa</title>
+    <desc lang="vi">USL Championship Mỹ</desc>
+    <category lang="vi">blvhau</category>
   </programme>
-  <programme start="20261010093000 +0700" stop="20261010235959 +0700" channel="43" channel-number="43">
+  <programme start="20261010084500 +0700" stop="20261010235959 +0700" channel="43" channel-number="43">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
