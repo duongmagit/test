@@ -3,22 +3,22 @@
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="2">
     <display-name lang="vi">2</display-name>
     <display-number>2</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
   </channel>
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
@@ -208,17 +208,17 @@
   <channel id="42">
     <display-name lang="vi">42</display-name>
     <display-number>42</display-number>
-    <icon src=""/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/25586f2e4bf9e990b5bf35753e68408d.jpg"/>
   </channel>
   <channel id="43">
     <display-name lang="vi">43</display-name>
     <display-number>43</display-number>
-    <icon src="https://images.keovip88.net/images/league/k-league-han-quoc.jpg"/>
+    <icon src=""/>
   </channel>
   <channel id="44">
     <display-name lang="vi">44</display-name>
     <display-number>44</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/25586f2e4bf9e990b5bf35753e68408d.jpg"/>
+    <icon src="https://images.keovip88.net/images/league/k-league-han-quoc.jpg"/>
   </channel>
   <channel id="45">
     <display-name lang="vi">45</display-name>
@@ -1075,17 +1075,17 @@
     <display-number>215</display-number>
     <icon src="https://img.sports-data.online/football/team/d71ebda5c7fbca9093a1c2978c46f619.png"/>
   </channel>
-  <programme start="20261009000000 +0000" stop="20261009094500 +0700" channel="1" channel-number="1">
+  <programme start="20261009000000 +0000" stop="20261009120000 +0700" channel="1" channel-number="1">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009094500 +0700" stop="20261009120000 +0700" channel="1" channel-number="1">
-    <title lang="vi">Los Angeles Lakers VS Sacramento Kings</title>
-    <desc lang="vi">Hiệp hội Bóng rổ Quốc gia</desc>
-    <category lang="vi">BLV 247</category>
+  <programme start="20261009120000 +0700" stop="20261009141500 +0700" channel="1" channel-number="1">
+    <title lang="vi">Suwon FC VS Hwaseong</title>
+    <desc lang="vi">Giải K2 Hàn Quốc</desc>
+    <category lang="vi">BLV SAMURAI</category>
   </programme>
-  <programme start="20261009120000 +0700" stop="20261009235959 +0700" channel="1" channel-number="1">
+  <programme start="20261009141500 +0700" stop="20261009235959 +0700" channel="1" channel-number="1">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1096,26 +1096,26 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261009120000 +0700" stop="20261009141500 +0700" channel="2" channel-number="2">
-    <title lang="vi">Busan KTF Sonicboom VS Goyang Carrot Jumpers</title>
-    <desc lang="vi">Giải bóng rổ nam Hàn Quốc</desc>
-    <category lang="vi">BLV Cozy</category>
+    <title lang="vi">Daejeon VS CLB Jeonbuk Hyundai Motors</title>
+    <desc lang="vi">Giải K1 Hàn Quốc</desc>
+    <category lang="vi">BLV GIÀ LÀNG</category>
   </programme>
   <programme start="20261009141500 +0700" stop="20261009235959 +0700" channel="2" channel-number="2">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009000000 +0000" stop="20261009120000 +0700" channel="3" channel-number="3">
+  <programme start="20261009000000 +0000" stop="20261009094500 +0700" channel="3" channel-number="3">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009120000 +0700" stop="20261009141500 +0700" channel="3" channel-number="3">
-    <title lang="vi">Daejeon VS CLB Jeonbuk Hyundai Motors</title>
-    <desc lang="vi">Giải K1 Hàn Quốc</desc>
-    <category lang="vi">BLV GIÀ LÀNG</category>
+  <programme start="20261009094500 +0700" stop="20261009120000 +0700" channel="3" channel-number="3">
+    <title lang="vi">Los Angeles Lakers VS Sacramento Kings</title>
+    <desc lang="vi">Hiệp hội Bóng rổ Quốc gia</desc>
+    <category lang="vi">BLV 247</category>
   </programme>
-  <programme start="20261009141500 +0700" stop="20261009235959 +0700" channel="3" channel-number="3">
+  <programme start="20261009120000 +0700" stop="20261009235959 +0700" channel="3" channel-number="3">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1126,9 +1126,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261009120000 +0700" stop="20261009141500 +0700" channel="4" channel-number="4">
-    <title lang="vi">Suwon FC VS Hwaseong</title>
-    <desc lang="vi">Giải K2 Hàn Quốc</desc>
-    <category lang="vi">BLV SAMURAI</category>
+    <title lang="vi">Busan KTF Sonicboom VS Goyang Carrot Jumpers</title>
+    <desc lang="vi">Giải bóng rổ nam Hàn Quốc</desc>
+    <category lang="vi">BLV Cozy</category>
   </programme>
   <programme start="20261009141500 +0700" stop="20261009235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1690,32 +1690,32 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009000000 +0000" stop="20261009100000 +0700" channel="42" channel-number="42">
+  <programme start="20261009000000 +0000" stop="20261009120000 +0700" channel="42" channel-number="42">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009100000 +0700" stop="20261009113000 +0700" channel="42" channel-number="42">
-    <title lang="vi">HONOKA HASHIMOTO VS CHEN XINGTONG</title>
-    <desc lang="vi">China Smash 2026</desc>
-    <category lang="vi">Súp</category>
+  <programme start="20261009120000 +0700" stop="20261009143000 +0700" channel="42" channel-number="42">
+    <title lang="vi">Busan KTF Magicwings VS Goyang Orions</title>
+    <desc lang="vi">Korea Basketball League</desc>
+    <category lang="vi">Cầy</category>
   </programme>
-  <programme start="20261009113000 +0700" stop="20261009235959 +0700" channel="42" channel-number="42">
+  <programme start="20261009143000 +0700" stop="20261009235959 +0700" channel="42" channel-number="42">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009000000 +0000" stop="20261009120000 +0700" channel="43" channel-number="43">
+  <programme start="20261009000000 +0000" stop="20261009100000 +0700" channel="43" channel-number="43">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009120000 +0700" stop="20261009141500 +0700" channel="43" channel-number="43">
-    <title lang="vi">Daejeon Citizen VS Jeonbuk Hyundai Motors</title>
-    <desc lang="vi">K-League Hàn Quốc</desc>
-    <category lang="vi">Bón</category>
+  <programme start="20261009100000 +0700" stop="20261009113000 +0700" channel="43" channel-number="43">
+    <title lang="vi">HONOKA HASHIMOTO VS CHEN XINGTONG</title>
+    <desc lang="vi">China Smash 2026</desc>
+    <category lang="vi">Súp</category>
   </programme>
-  <programme start="20261009141500 +0700" stop="20261009235959 +0700" channel="43" channel-number="43">
+  <programme start="20261009113000 +0700" stop="20261009235959 +0700" channel="43" channel-number="43">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1725,12 +1725,12 @@
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261009120000 +0700" stop="20261009143000 +0700" channel="44" channel-number="44">
-    <title lang="vi">Busan KTF Magicwings VS Goyang Orions</title>
-    <desc lang="vi">Korea Basketball League</desc>
-    <category lang="vi">Cầy</category>
+  <programme start="20261009120000 +0700" stop="20261009141500 +0700" channel="44" channel-number="44">
+    <title lang="vi">Daejeon Citizen VS Jeonbuk Hyundai Motors</title>
+    <desc lang="vi">K-League Hàn Quốc</desc>
+    <category lang="vi">Bón</category>
   </programme>
-  <programme start="20261009143000 +0700" stop="20261009235959 +0700" channel="44" channel-number="44">
+  <programme start="20261009141500 +0700" stop="20261009235959 +0700" channel="44" channel-number="44">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
