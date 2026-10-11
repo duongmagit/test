@@ -113,17 +113,17 @@
   <channel id="23">
     <display-name lang="vi">23</display-name>
     <display-number>23</display-number>
-    <icon src="https://images.keovip88.net/images/league/mexico-liga-mx.jpg"/>
+    <icon src=""/>
   </channel>
   <channel id="24">
     <display-name lang="vi">24</display-name>
     <display-number>24</display-number>
-    <icon src="https://images.keovip88.net/images/league/mls-my.png"/>
+    <icon src="https://images.keovip88.net/images/league/mexico-liga-mx.jpg"/>
   </channel>
   <channel id="25">
     <display-name lang="vi">25</display-name>
     <display-number>25</display-number>
-    <icon src=""/>
+    <icon src="https://images.keovip88.net/images/league/mls-my.png"/>
   </channel>
   <channel id="26">
     <display-name lang="vi">26</display-name>
@@ -760,17 +760,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261011000000 +0000" stop="20261012060000 +0700" channel="23" channel-number="23">
+  <programme start="20261011000000 +0000" stop="20261012070000 +0700" channel="23" channel-number="23">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012060000 +0700" stop="20261012081500 +0700" channel="23" channel-number="23">
-    <title lang="vi">Atletico San Luis VS Santos Laguna</title>
-    <desc lang="vi">Mexico Liga MX</desc>
-    <category lang="vi">Cầy</category>
+  <programme start="20261012070000 +0700" stop="20261012100000 +0700" channel="23" channel-number="23">
+    <title lang="vi">Los Angeles Dodgers VS Milwaukee Brewers</title>
+    <desc lang="vi">MLB - Championship Series</desc>
+    <category lang="vi">Ngu</category>
   </programme>
-  <programme start="20261012081500 +0700" stop="20261012235959 +0700" channel="23" channel-number="23">
+  <programme start="20261012100000 +0700" stop="20261012235959 +0700" channel="23" channel-number="23">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -781,26 +781,26 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261012060000 +0700" stop="20261012081500 +0700" channel="24" channel-number="24">
-    <title lang="vi">St. Louis City VS Los Angeles Galaxy</title>
-    <desc lang="vi">MLS Mỹ</desc>
-    <category lang="vi">Ngọng</category>
+    <title lang="vi">Atletico San Luis VS Santos Laguna</title>
+    <desc lang="vi">Mexico Liga MX</desc>
+    <category lang="vi">Cầy</category>
   </programme>
   <programme start="20261012081500 +0700" stop="20261012235959 +0700" channel="24" channel-number="24">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261011000000 +0000" stop="20261012070000 +0700" channel="25" channel-number="25">
+  <programme start="20261011000000 +0000" stop="20261012060000 +0700" channel="25" channel-number="25">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012070000 +0700" stop="20261012100000 +0700" channel="25" channel-number="25">
-    <title lang="vi">Los Angeles Dodgers VS Milwaukee Brewers</title>
-    <desc lang="vi">MLB - Championship Series</desc>
-    <category lang="vi">blv-ngu</category>
+  <programme start="20261012060000 +0700" stop="20261012081500 +0700" channel="25" channel-number="25">
+    <title lang="vi">St. Louis City VS Los Angeles Galaxy</title>
+    <desc lang="vi">MLS Mỹ</desc>
+    <category lang="vi">Ngọng</category>
   </programme>
-  <programme start="20261012100000 +0700" stop="20261012235959 +0700" channel="25" channel-number="25">
+  <programme start="20261012081500 +0700" stop="20261012235959 +0700" channel="25" channel-number="25">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
