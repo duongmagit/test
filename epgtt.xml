@@ -203,7 +203,7 @@
   <channel id="41">
     <display-name lang="vi">41</display-name>
     <display-number>41</display-number>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqdhc5SV3WybTB7Sjxym1GEKujXG79MxX6l4hO-Ft2xhaR5ydk3PrXUo&amp;s=10"/>
+    <icon src=""/>
   </channel>
   <channel id="42">
     <display-name lang="vi">42</display-name>
@@ -213,12 +213,12 @@
   <channel id="43">
     <display-name lang="vi">43</display-name>
     <display-number>43</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/f0f253320873d5abaebbe6bc32ec2ace.png"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqdhc5SV3WybTB7Sjxym1GEKujXG79MxX6l4hO-Ft2xhaR5ydk3PrXUo&amp;s=10"/>
   </channel>
   <channel id="44">
     <display-name lang="vi">44</display-name>
     <display-number>44</display-number>
-    <icon src=""/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/f0f253320873d5abaebbe6bc32ec2ace.png"/>
   </channel>
   <channel id="45">
     <display-name lang="vi">45</display-name>
@@ -1755,62 +1755,62 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261012130000 +0700" channel="40" channel-number="40">
+  <programme start="20261012000000 +0000" stop="20261012170000 +0700" channel="40" channel-number="40">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012130000 +0700" stop="20261012150000 +0700" channel="40" channel-number="40">
+  <programme start="20261012170000 +0700" stop="20261012193000 +0700" channel="40" channel-number="40">
+    <title lang="vi">GS Caltex Nữ  VS Expressway Co Nữ</title>
+    <desc lang="vi">Hàn Quốc Cúp KOVO Nữ</desc>
+    <category lang="vi">Sún</category>
+  </programme>
+  <programme start="20261012193000 +0700" stop="20261012235959 +0700" channel="40" channel-number="40">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261012170000 +0700" channel="41" channel-number="41">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012170000 +0700" stop="20261012193000 +0700" channel="41" channel-number="41">
+    <title lang="vi">Zizou Berg VS  Carlos Alcaraz</title>
+    <desc lang="vi">ATP Shanghai Open</desc>
+    <category lang="vi">Ben</category>
+  </programme>
+  <programme start="20261012193000 +0700" stop="20261012235959 +0700" channel="41" channel-number="41">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261012130000 +0700" channel="42" channel-number="42">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012130000 +0700" stop="20261012150000 +0700" channel="42" channel-number="42">
     <title lang="vi">KT VS VIT</title>
     <desc lang="vi">Demacia Cup Global Invitational</desc>
     <category lang="vi">Ngu</category>
   </programme>
-  <programme start="20261012150000 +0700" stop="20261012235959 +0700" channel="40" channel-number="40">
+  <programme start="20261012150000 +0700" stop="20261012235959 +0700" channel="42" channel-number="42">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261012160000 +0700" channel="41" channel-number="41">
+  <programme start="20261012000000 +0000" stop="20261012160000 +0700" channel="43" channel-number="43">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012160000 +0700" stop="20261012180000 +0700" channel="41" channel-number="41">
+  <programme start="20261012160000 +0700" stop="20261012180000 +0700" channel="43" channel-number="43">
     <title lang="vi">BFX VS JDG</title>
     <desc lang="vi">Demacia Cup Global Invitational</desc>
     <category lang="vi">blv-ngu</category>
   </programme>
-  <programme start="20261012180000 +0700" stop="20261012235959 +0700" channel="41" channel-number="41">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261012170000 +0700" channel="42" channel-number="42">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012170000 +0700" stop="20261012193000 +0700" channel="42" channel-number="42">
-    <title lang="vi">Zizou Berg VS  Carlos Alcaraz</title>
-    <desc lang="vi">ATP Shanghai Open</desc>
-    <category lang="vi">blv-ben</category>
-  </programme>
-  <programme start="20261012193000 +0700" stop="20261012235959 +0700" channel="42" channel-number="42">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261012170000 +0700" channel="43" channel-number="43">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012170000 +0700" stop="20261012193000 +0700" channel="43" channel-number="43">
-    <title lang="vi">Mobis Phoebus VS Wonju DB</title>
-    <desc lang="vi">South Korean KBL Cup</desc>
-    <category lang="vi">blv-leo</category>
-  </programme>
-  <programme start="20261012193000 +0700" stop="20261012235959 +0700" channel="43" channel-number="43">
+  <programme start="20261012180000 +0700" stop="20261012235959 +0700" channel="43" channel-number="43">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1821,9 +1821,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261012170000 +0700" stop="20261012193000 +0700" channel="44" channel-number="44">
-    <title lang="vi">GS Caltex Nữ  VS Expressway Co Nữ</title>
-    <desc lang="vi">Hàn Quốc Cúp KOVO Nữ</desc>
-    <category lang="vi">blv-sun</category>
+    <title lang="vi">Mobis Phoebus VS Wonju DB</title>
+    <desc lang="vi">South Korean KBL Cup</desc>
+    <category lang="vi">blv-leo</category>
   </programme>
   <programme start="20261012193000 +0700" stop="20261012235959 +0700" channel="44" channel-number="44">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
