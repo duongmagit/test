@@ -13,17 +13,17 @@
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
     <display-number>5</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ZmU4NDM4OGViMmUtYzEzYQ/ZmQ3NjA5MmZmMjctYjc2Ng.png"/>
   </channel>
   <channel id="6">
     <display-name lang="vi">6</display-name>
@@ -538,17 +538,17 @@
   <channel id="108">
     <display-name lang="vi">108</display-name>
     <display-number>108</display-number>
-    <icon src="https://img.gvapi.cc/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png"/>
+    <icon src="https://img.gvapi.cc/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png"/>
   </channel>
   <channel id="109">
     <display-name lang="vi">109</display-name>
     <display-number>109</display-number>
-    <icon src="https://img.gvapi.cc/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png"/>
+    <icon src="https://img.gvapi.cc/football/competition/1fbbb4be3b47d9465c5badecc3122e07.png"/>
   </channel>
   <channel id="110">
     <display-name lang="vi">110</display-name>
     <display-number>110</display-number>
-    <icon src="https://img.gvapi.cc/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png"/>
+    <icon src="https://img.gvapi.cc/football/competition/6b38f4015a6b3309ad9462e6ce27ae99.png"/>
   </channel>
   <channel id="111">
     <display-name lang="vi">111</display-name>
@@ -593,106 +593,91 @@
   <channel id="119">
     <display-name lang="vi">119</display-name>
     <display-number>119</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/98b08649-d735-4e34-8520-edd9b311d18a"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/db5c7624-d57c-4380-9dba-e158723f619f"/>
   </channel>
   <channel id="120">
     <display-name lang="vi">120</display-name>
     <display-number>120</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/f5694ac6-4129-4b0e-bcc6-d67194a0ea73"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/352a365d-7a6d-4736-881a-770950c5790b"/>
   </channel>
   <channel id="121">
     <display-name lang="vi">121</display-name>
     <display-number>121</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/36ebd002-b460-43d5-b584-96f4579ec906"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/87a22435-d5bf-407b-b83b-13af81091260"/>
   </channel>
   <channel id="122">
     <display-name lang="vi">122</display-name>
     <display-number>122</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/db5c7624-d57c-4380-9dba-e158723f619f"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/044ed3c4-bed2-472f-b79f-10dfadc26156"/>
   </channel>
   <channel id="123">
     <display-name lang="vi">123</display-name>
     <display-number>123</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/352a365d-7a6d-4736-881a-770950c5790b"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/67bc4b66-3a4c-4431-b605-b448941e91aa"/>
   </channel>
   <channel id="124">
     <display-name lang="vi">124</display-name>
     <display-number>124</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/87a22435-d5bf-407b-b83b-13af81091260"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/67bc4b66-3a4c-4431-b605-b448941e91aa"/>
   </channel>
   <channel id="125">
     <display-name lang="vi">125</display-name>
     <display-number>125</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/044ed3c4-bed2-472f-b79f-10dfadc26156"/>
+    <icon src="https://img.sports-data.online/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png"/>
   </channel>
   <channel id="126">
     <display-name lang="vi">126</display-name>
     <display-number>126</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/67bc4b66-3a4c-4431-b605-b448941e91aa"/>
+    <icon src="https://img.sports-data.online/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png"/>
   </channel>
   <channel id="127">
     <display-name lang="vi">127</display-name>
     <display-number>127</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/67bc4b66-3a4c-4431-b605-b448941e91aa"/>
+    <icon src="https://img.sports-data.online/football/team/759f19ccaecadd33a5c09b535e543410.png"/>
   </channel>
   <channel id="128">
     <display-name lang="vi">128</display-name>
     <display-number>128</display-number>
-    <icon src="https://img.sports-data.online/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png"/>
+    <icon src="https://img.sports-data.online/football/team/759f19ccaecadd33a5c09b535e543410.png"/>
   </channel>
   <channel id="129">
     <display-name lang="vi">129</display-name>
     <display-number>129</display-number>
-    <icon src="https://img.sports-data.online/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png"/>
+    <icon src="https://img.sports-data.online/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png"/>
   </channel>
   <channel id="130">
     <display-name lang="vi">130</display-name>
     <display-number>130</display-number>
-    <icon src="https://img.sports-data.online/football/team/759f19ccaecadd33a5c09b535e543410.png"/>
+    <icon src="https://img.sports-data.online/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png"/>
   </channel>
   <channel id="131">
     <display-name lang="vi">131</display-name>
     <display-number>131</display-number>
-    <icon src="https://img.sports-data.online/football/team/759f19ccaecadd33a5c09b535e543410.png"/>
+    <icon src="https://img.sports-data.online/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png"/>
   </channel>
   <channel id="132">
     <display-name lang="vi">132</display-name>
     <display-number>132</display-number>
-    <icon src="https://img.sports-data.online/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png"/>
+    <icon src="https://img.sports-data.online/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png"/>
   </channel>
   <channel id="133">
     <display-name lang="vi">133</display-name>
     <display-number>133</display-number>
-    <icon src="https://img.sports-data.online/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png"/>
+    <icon src="https://img.sports-data.online/football/team/c4e143e537412003565cdb7c2d212538.png"/>
   </channel>
   <channel id="134">
     <display-name lang="vi">134</display-name>
     <display-number>134</display-number>
-    <icon src="https://img.sports-data.online/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png"/>
+    <icon src="https://img.sports-data.online/football/team/c4e143e537412003565cdb7c2d212538.png"/>
   </channel>
   <channel id="135">
     <display-name lang="vi">135</display-name>
     <display-number>135</display-number>
-    <icon src="https://img.sports-data.online/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png"/>
+    <icon src="https://img.sports-data.online/football/team/7d6fa50ea67cde7d66612a8189897ba5.png"/>
   </channel>
   <channel id="136">
     <display-name lang="vi">136</display-name>
     <display-number>136</display-number>
-    <icon src="https://img.sports-data.online/football/team/c4e143e537412003565cdb7c2d212538.png"/>
-  </channel>
-  <channel id="137">
-    <display-name lang="vi">137</display-name>
-    <display-number>137</display-number>
-    <icon src="https://img.sports-data.online/football/team/c4e143e537412003565cdb7c2d212538.png"/>
-  </channel>
-  <channel id="138">
-    <display-name lang="vi">138</display-name>
-    <display-number>138</display-number>
-    <icon src="https://img.sports-data.online/football/team/7d6fa50ea67cde7d66612a8189897ba5.png"/>
-  </channel>
-  <channel id="139">
-    <display-name lang="vi">139</display-name>
-    <display-number>139</display-number>
     <icon src="https://img.sports-data.online/football/team/7d6fa50ea67cde7d66612a8189897ba5.png"/>
   </channel>
   <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="1" channel-number="1">
@@ -725,47 +710,47 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="3" channel-number="3">
+  <programme start="20261012000000 +0000" stop="20261013021500 +0700" channel="3" channel-number="3">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="3" channel-number="3">
-    <title lang="vi">CLB Levante VS Sevilla FC</title>
-    <desc lang="vi">Giải Bóng đá Vô địch Quốc gia Tây Ban Nha</desc>
-    <category lang="vi">BLV MONSTER</category>
-  </programme>
-  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="3" channel-number="3">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013014500 +0700" channel="4" channel-number="4">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013014500 +0700" stop="20261013040000 +0700" channel="4" channel-number="4">
-    <title lang="vi">Torino F.C. VS Udinese Calcio</title>
-    <desc lang="vi">Giải bóng đá Serie A Italia</desc>
-    <category lang="vi">BLV 7UP</category>
-  </programme>
-  <programme start="20261013040000 +0700" stop="20261013235959 +0700" channel="4" channel-number="4">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013021500 +0700" channel="5" channel-number="5">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013021500 +0700" stop="20261013043000 +0700" channel="5" channel-number="5">
+  <programme start="20261013021500 +0700" stop="20261013043000 +0700" channel="3" channel-number="3">
     <title lang="vi">Al-Nassr VS Neftchi Fargona</title>
     <desc lang="vi">AFC Giải vô địch Champions Elite</desc>
     <category lang="vi">BLV HỔ VẰN</category>
   </programme>
-  <programme start="20261013043000 +0700" stop="20261013235959 +0700" channel="5" channel-number="5">
+  <programme start="20261013043000 +0700" stop="20261013235959 +0700" channel="3" channel-number="3">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="4" channel-number="4">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="4" channel-number="4">
+    <title lang="vi">CLB Levante VS Sevilla FC</title>
+    <desc lang="vi">Giải Bóng đá Vô địch Quốc gia Tây Ban Nha</desc>
+    <category lang="vi">BLV MONSTER</category>
+  </programme>
+  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="4" channel-number="4">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261013014500 +0700" channel="5" channel-number="5">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013014500 +0700" stop="20261013040000 +0700" channel="5" channel-number="5">
+    <title lang="vi">Torino F.C. VS Udinese Calcio</title>
+    <desc lang="vi">Giải bóng đá Serie A Italia</desc>
+    <category lang="vi">BLV 7UP</category>
+  </programme>
+  <programme start="20261013040000 +0700" stop="20261013235959 +0700" channel="5" channel-number="5">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -2300,47 +2285,47 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="108" channel-number="108">
+  <programme start="20261012000000 +0000" stop="20261013021500 +0700" channel="108" channel-number="108">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="108" channel-number="108">
-    <title lang="vi">Levante VS Sevilla FC</title>
-    <desc lang="vi">Spanish La Liga</desc>
-    <category lang="vi">Gà Siêu Péo</category>
-  </programme>
-  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="108" channel-number="108">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013014500 +0700" channel="109" channel-number="109">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013014500 +0700" stop="20261013040000 +0700" channel="109" channel-number="109">
-    <title lang="vi">Torino VS Udinese</title>
-    <desc lang="vi">Italian Serie A</desc>
-    <category lang="vi">Gà Siêu Kiêu</category>
-  </programme>
-  <programme start="20261013040000 +0700" stop="20261013235959 +0700" channel="109" channel-number="109">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013021500 +0700" channel="110" channel-number="110">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013021500 +0700" stop="20261013043000 +0700" channel="110" channel-number="110">
+  <programme start="20261013021500 +0700" stop="20261013043000 +0700" channel="108" channel-number="108">
     <title lang="vi">Al Nassr VS Neftchi Fergana</title>
     <desc lang="vi">AFC Champions League Elite</desc>
     <category lang="vi">Gà Siêu Son</category>
   </programme>
-  <programme start="20261013043000 +0700" stop="20261013235959 +0700" channel="110" channel-number="110">
+  <programme start="20261013043000 +0700" stop="20261013235959 +0700" channel="108" channel-number="108">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="109" channel-number="109">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="109" channel-number="109">
+    <title lang="vi">Levante VS Sevilla FC</title>
+    <desc lang="vi">Spanish La Liga</desc>
+    <category lang="vi">Gà Siêu Péo</category>
+  </programme>
+  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="109" channel-number="109">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261013014500 +0700" channel="110" channel-number="110">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013014500 +0700" stop="20261013040000 +0700" channel="110" channel-number="110">
+    <title lang="vi">Torino VS Udinese</title>
+    <desc lang="vi">Italian Serie A</desc>
+    <category lang="vi">Gà Siêu Kiêu</category>
+  </programme>
+  <programme start="20261013040000 +0700" stop="20261013235959 +0700" channel="110" channel-number="110">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -2465,257 +2450,257 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261012233000 +0700" channel="119" channel-number="119">
+  <programme start="20261012000000 +0000" stop="20261013011500 +0700" channel="119" channel-number="119">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012233000 +0700" stop="20261013014500 +0700" channel="119" channel-number="119">
-    <title lang="vi">Atalanta VS Venezia</title>
-    <desc lang="vi">Serie A</desc>
-    <category lang="vi">NGƯỜI CAT</category>
-  </programme>
-  <programme start="20261013014500 +0700" stop="20261013235959 +0700" channel="119" channel-number="119">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013000000 +0700" channel="120" channel-number="120">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013000000 +0700" stop="20261013021500 +0700" channel="120" channel-number="120">
-    <title lang="vi">Malmo FF VS Kalmar</title>
-    <desc lang="vi">SWE Allsvenskan</desc>
-    <category lang="vi">NGƯỜI CÁO</category>
-  </programme>
-  <programme start="20261013021500 +0700" stop="20261013235959 +0700" channel="120" channel-number="120">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013000000 +0700" channel="121" channel-number="121">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013000000 +0700" stop="20261013021500 +0700" channel="121" channel-number="121">
-    <title lang="vi">KFUM Oslo VS Valerenga Fotbal Elite</title>
-    <desc lang="vi">NOR Eliteserien</desc>
-    <category lang="vi">NGƯỜI DÊ</category>
-  </programme>
-  <programme start="20261013021500 +0700" stop="20261013235959 +0700" channel="121" channel-number="121">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013011500 +0700" channel="122" channel-number="122">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013011500 +0700" stop="20261013033000 +0700" channel="122" channel-number="122">
+  <programme start="20261013011500 +0700" stop="20261013033000 +0700" channel="119" channel-number="119">
     <title lang="vi">Al Nassr FC VS Neftchi Fergana</title>
     <desc lang="vi">AFC Champions League Elite</desc>
     <category lang="vi">NGƯỜI CHÈ</category>
   </programme>
-  <programme start="20261013033000 +0700" stop="20261013235959 +0700" channel="122" channel-number="122">
+  <programme start="20261013033000 +0700" stop="20261013235959 +0700" channel="119" channel-number="119">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="123" channel-number="123">
+  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="120" channel-number="120">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="123" channel-number="123">
+  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="120" channel-number="120">
     <title lang="vi">Coventry City VS Newcastle United</title>
     <desc lang="vi">Premier League</desc>
     <category lang="vi">NGƯỜI CÁO</category>
   </programme>
-  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="123" channel-number="123">
+  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="120" channel-number="120">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="124" channel-number="124">
+  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="121" channel-number="121">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="124" channel-number="124">
+  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="121" channel-number="121">
     <title lang="vi">Levante VS Sevilla FC</title>
     <desc lang="vi">La Liga</desc>
     <category lang="vi">NGƯỜI DÊ</category>
   </programme>
-  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="124" channel-number="124">
+  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="121" channel-number="121">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013043000 +0700" channel="125" channel-number="125">
+  <programme start="20261012000000 +0000" stop="20261013043000 +0700" channel="122" channel-number="122">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013043000 +0700" stop="20261013064500 +0700" channel="125" channel-number="125">
+  <programme start="20261013043000 +0700" stop="20261013064500 +0700" channel="122" channel-number="122">
     <title lang="vi">Gimnasia Mendoza VS Club Atlético Newell's Old Boys</title>
     <desc lang="vi">ARG Division 1</desc>
     <category lang="vi">NGƯỜI SÓI</category>
   </programme>
-  <programme start="20261013064500 +0700" stop="20261013235959 +0700" channel="125" channel-number="125">
+  <programme start="20261013064500 +0700" stop="20261013235959 +0700" channel="122" channel-number="122">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013053000 +0700" channel="126" channel-number="126">
+  <programme start="20261012000000 +0000" stop="20261013053000 +0700" channel="123" channel-number="123">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013053000 +0700" stop="20261013074500 +0700" channel="126" channel-number="126">
+  <programme start="20261013053000 +0700" stop="20261013074500 +0700" channel="123" channel-number="123">
     <title lang="vi">Chapecoense SC VS Atletico Paranaense</title>
     <desc lang="vi">BRA Serie A</desc>
     <category lang="vi">NGƯỜI NẶN</category>
   </programme>
-  <programme start="20261013074500 +0700" stop="20261013235959 +0700" channel="126" channel-number="126">
+  <programme start="20261013074500 +0700" stop="20261013235959 +0700" channel="123" channel-number="123">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013070000 +0700" channel="127" channel-number="127">
+  <programme start="20261012000000 +0000" stop="20261013070000 +0700" channel="124" channel-number="124">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013070000 +0700" stop="20261013091500 +0700" channel="127" channel-number="127">
+  <programme start="20261013070000 +0700" stop="20261013091500 +0700" channel="124" channel-number="124">
     <title lang="vi">Red Bull Bragantino VS Cruzeiro</title>
     <desc lang="vi">BRA Serie A</desc>
     <category lang="vi">NGƯỜI SÓI</category>
   </programme>
-  <programme start="20261013091500 +0700" stop="20261013235959 +0700" channel="127" channel-number="127">
+  <programme start="20261013091500 +0700" stop="20261013235959 +0700" channel="124" channel-number="124">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013014500 +0700" channel="128" channel-number="128">
+  <programme start="20261012000000 +0000" stop="20261013014500 +0700" channel="125" channel-number="125">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013014500 +0700" stop="20261013040000 +0700" channel="128" channel-number="128">
+  <programme start="20261013014500 +0700" stop="20261013040000 +0700" channel="125" channel-number="125">
     <title lang="vi">Torino VS Udinese</title>
     <desc lang="vi">Italian Serie A</desc>
     <category lang="vi">LÝ LÊN LỬA</category>
   </programme>
-  <programme start="20261013040000 +0700" stop="20261013235959 +0700" channel="128" channel-number="128">
+  <programme start="20261013040000 +0700" stop="20261013235959 +0700" channel="125" channel-number="125">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013014500 +0700" channel="129" channel-number="129">
+  <programme start="20261012000000 +0000" stop="20261013014500 +0700" channel="126" channel-number="126">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013014500 +0700" stop="20261013040000 +0700" channel="129" channel-number="129">
+  <programme start="20261013014500 +0700" stop="20261013040000 +0700" channel="126" channel-number="126">
     <title lang="vi">Torino VS Udinese</title>
     <desc lang="vi">Italian Serie A</desc>
     <category lang="vi">LÝ LÊN LỬA</category>
   </programme>
-  <programme start="20261013040000 +0700" stop="20261013235959 +0700" channel="129" channel-number="129">
+  <programme start="20261013040000 +0700" stop="20261013235959 +0700" channel="126" channel-number="126">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="130" channel-number="130">
+  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="127" channel-number="127">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="130" channel-number="130">
+  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="127" channel-number="127">
     <title lang="vi">Coventry City VS Newcastle United</title>
     <desc lang="vi">English Premier League</desc>
     <category lang="vi">LÝ LONG</category>
   </programme>
-  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="130" channel-number="130">
+  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="127" channel-number="127">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="131" channel-number="131">
+  <programme start="20261012000000 +0000" stop="20261013020000 +0700" channel="128" channel-number="128">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="131" channel-number="131">
+  <programme start="20261013020000 +0700" stop="20261013041500 +0700" channel="128" channel-number="128">
     <title lang="vi">Coventry City VS Newcastle United</title>
     <desc lang="vi">English Premier League</desc>
     <category lang="vi">LÝ LONG</category>
   </programme>
-  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="131" channel-number="131">
+  <programme start="20261013041500 +0700" stop="20261013235959 +0700" channel="128" channel-number="128">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013021500 +0700" channel="132" channel-number="132">
+  <programme start="20261012000000 +0000" stop="20261013021500 +0700" channel="129" channel-number="129">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013021500 +0700" stop="20261013043000 +0700" channel="132" channel-number="132">
+  <programme start="20261013021500 +0700" stop="20261013043000 +0700" channel="129" channel-number="129">
     <title lang="vi">Al Nassr VS Neftchi Fergana</title>
     <desc lang="vi">AFC Champions League Elite</desc>
     <category lang="vi">LÝ LỀNH</category>
   </programme>
-  <programme start="20261013043000 +0700" stop="20261013235959 +0700" channel="132" channel-number="132">
+  <programme start="20261013043000 +0700" stop="20261013235959 +0700" channel="129" channel-number="129">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013021500 +0700" channel="133" channel-number="133">
+  <programme start="20261012000000 +0000" stop="20261013021500 +0700" channel="130" channel-number="130">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013021500 +0700" stop="20261013043000 +0700" channel="133" channel-number="133">
+  <programme start="20261013021500 +0700" stop="20261013043000 +0700" channel="130" channel-number="130">
     <title lang="vi">Al Nassr VS Neftchi Fergana</title>
     <desc lang="vi">AFC Champions League Elite</desc>
     <category lang="vi">LÝ LỀNH</category>
   </programme>
-  <programme start="20261013043000 +0700" stop="20261013235959 +0700" channel="133" channel-number="133">
+  <programme start="20261013043000 +0700" stop="20261013235959 +0700" channel="130" channel-number="130">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013144500 +0700" channel="134" channel-number="134">
+  <programme start="20261012000000 +0000" stop="20261013144500 +0700" channel="131" channel-number="131">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013144500 +0700" stop="20261013170000 +0700" channel="134" channel-number="134">
+  <programme start="20261013144500 +0700" stop="20261013170000 +0700" channel="131" channel-number="131">
     <title lang="vi">Newcastle Jets VS Gamba Osaka</title>
     <desc lang="vi">AFC Champions League Elite</desc>
     <category lang="vi">LÝ LÀNG LÁ</category>
   </programme>
-  <programme start="20261013170000 +0700" stop="20261013235959 +0700" channel="134" channel-number="134">
+  <programme start="20261013170000 +0700" stop="20261013235959 +0700" channel="131" channel-number="131">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261012000000 +0000" stop="20261013144500 +0700" channel="135" channel-number="135">
+  <programme start="20261012000000 +0000" stop="20261013144500 +0700" channel="132" channel-number="132">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013144500 +0700" stop="20261013170000 +0700" channel="135" channel-number="135">
+  <programme start="20261013144500 +0700" stop="20261013170000 +0700" channel="132" channel-number="132">
     <title lang="vi">Newcastle Jets VS Gamba Osaka</title>
     <desc lang="vi">AFC Champions League Elite</desc>
     <category lang="vi">LÝ LÀNG LÁ</category>
   </programme>
-  <programme start="20261013170000 +0700" stop="20261013235959 +0700" channel="135" channel-number="135">
+  <programme start="20261013170000 +0700" stop="20261013235959 +0700" channel="132" channel-number="132">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261013170000 +0700" channel="133" channel-number="133">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013170000 +0700" stop="20261013191500 +0700" channel="133" channel-number="133">
+    <title lang="vi">Shanghai Port VS Daejeon Hana Citizen</title>
+    <desc lang="vi">AFC Champions League Elite</desc>
+    <category lang="vi">LÝ LA LÀNG</category>
+  </programme>
+  <programme start="20261013191500 +0700" stop="20261013235959 +0700" channel="133" channel-number="133">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261013170000 +0700" channel="134" channel-number="134">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013170000 +0700" stop="20261013191500 +0700" channel="134" channel-number="134">
+    <title lang="vi">Shanghai Port VS Daejeon Hana Citizen</title>
+    <desc lang="vi">AFC Champions League Elite</desc>
+    <category lang="vi">LÝ LA LÀNG</category>
+  </programme>
+  <programme start="20261013191500 +0700" stop="20261013235959 +0700" channel="134" channel-number="134">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261012000000 +0000" stop="20261013170000 +0700" channel="135" channel-number="135">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013170000 +0700" stop="20261013191500 +0700" channel="135" channel-number="135">
+    <title lang="vi">Kyoto Sanga VS Ratchaburi FC</title>
+    <desc lang="vi">AFC Champions League Elite</desc>
+    <category lang="vi">LÝ LIỀU LĨNH</category>
+  </programme>
+  <programme start="20261013191500 +0700" stop="20261013235959 +0700" channel="135" channel-number="135">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -2726,56 +2711,11 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261013170000 +0700" stop="20261013191500 +0700" channel="136" channel-number="136">
-    <title lang="vi">Shanghai Port VS Daejeon Hana Citizen</title>
+    <title lang="vi">Kyoto Sanga VS Ratchaburi FC</title>
     <desc lang="vi">AFC Champions League Elite</desc>
-    <category lang="vi">LÝ LA LÀNG</category>
+    <category lang="vi">LÝ LIỀU LĨNH</category>
   </programme>
   <programme start="20261013191500 +0700" stop="20261013235959 +0700" channel="136" channel-number="136">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013170000 +0700" channel="137" channel-number="137">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013170000 +0700" stop="20261013191500 +0700" channel="137" channel-number="137">
-    <title lang="vi">Shanghai Port VS Daejeon Hana Citizen</title>
-    <desc lang="vi">AFC Champions League Elite</desc>
-    <category lang="vi">LÝ LA LÀNG</category>
-  </programme>
-  <programme start="20261013191500 +0700" stop="20261013235959 +0700" channel="137" channel-number="137">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013170000 +0700" channel="138" channel-number="138">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013170000 +0700" stop="20261013191500 +0700" channel="138" channel-number="138">
-    <title lang="vi">Kyoto Sanga VS Ratchaburi FC</title>
-    <desc lang="vi">AFC Champions League Elite</desc>
-    <category lang="vi">LÝ LIỀU LĨNH</category>
-  </programme>
-  <programme start="20261013191500 +0700" stop="20261013235959 +0700" channel="138" channel-number="138">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261012000000 +0000" stop="20261013170000 +0700" channel="139" channel-number="139">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013170000 +0700" stop="20261013191500 +0700" channel="139" channel-number="139">
-    <title lang="vi">Kyoto Sanga VS Ratchaburi FC</title>
-    <desc lang="vi">AFC Champions League Elite</desc>
-    <category lang="vi">LÝ LIỀU LĨNH</category>
-  </programme>
-  <programme start="20261013191500 +0700" stop="20261013235959 +0700" channel="139" channel-number="139">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
