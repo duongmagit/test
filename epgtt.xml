@@ -3,22 +3,22 @@
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
   </channel>
   <channel id="2">
     <display-name lang="vi">2</display-name>
     <display-number>2</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
   </channel>
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
@@ -1130,62 +1130,62 @@
     <display-number>226</display-number>
     <icon src="https://img.sports-data.online/football/team/390977b0421bce136c562057ea171ecf.png"/>
   </channel>
-  <programme start="20261013000000 +0000" stop="20261013183000 +0700" channel="1" channel-number="1">
+  <programme start="20261013000000 +0000" stop="20261013191500 +0700" channel="1" channel-number="1">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013183000 +0700" stop="20261013204500 +0700" channel="1" channel-number="1">
-    <title lang="vi">Bandirmaspor VS CLB Sivasspor</title>
-    <desc lang="vi">Giải Bóng đá Vô địch Quốc gia Thổ Nhĩ Kỳ</desc>
-    <category lang="vi">BLV PEPSI</category>
-  </programme>
-  <programme start="20261013204500 +0700" stop="20261013235959 +0700" channel="1" channel-number="1">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013000000 +0000" stop="20261013190000 +0700" channel="2" channel-number="2">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013190000 +0700" stop="20261013211500 +0700" channel="2" channel-number="2">
-    <title lang="vi">RB Leipzig U19 VS PSV U19</title>
-    <desc lang="vi">Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu</desc>
-    <category lang="vi">BLV SAMURAI</category>
-  </programme>
-  <programme start="20261013211500 +0700" stop="20261013235959 +0700" channel="2" channel-number="2">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013000000 +0000" stop="20261013191500 +0700" channel="3" channel-number="3">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013191500 +0700" stop="20261013213000 +0700" channel="3" channel-number="3">
+  <programme start="20261013191500 +0700" stop="20261013213000 +0700" channel="1" channel-number="1">
     <title lang="vi">Cong An Ha Noi FC VS Kashima Antlers</title>
     <desc lang="vi">AFC Giải vô địch Champions Elite</desc>
     <category lang="vi">BLV HỔ VẰN</category>
   </programme>
-  <programme start="20261013213000 +0700" stop="20261013235959 +0700" channel="3" channel-number="3">
+  <programme start="20261013213000 +0700" stop="20261013235959 +0700" channel="1" channel-number="1">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013000000 +0000" stop="20261013191500 +0700" channel="4" channel-number="4">
+  <programme start="20261013000000 +0000" stop="20261013191500 +0700" channel="2" channel-number="2">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013191500 +0700" stop="20261013213000 +0700" channel="4" channel-number="4">
+  <programme start="20261013191500 +0700" stop="20261013213000 +0700" channel="2" channel-number="2">
     <title lang="vi">Buriram VS Beijing Guoan</title>
     <desc lang="vi">AFC Giải vô địch Champions Elite</desc>
     <category lang="vi">BLV REVIVE</category>
   </programme>
-  <programme start="20261013213000 +0700" stop="20261013235959 +0700" channel="4" channel-number="4">
+  <programme start="20261013213000 +0700" stop="20261013235959 +0700" channel="2" channel-number="2">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013000000 +0000" stop="20261013183000 +0700" channel="3" channel-number="3">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013183000 +0700" stop="20261013204500 +0700" channel="3" channel-number="3">
+    <title lang="vi">Bandirmaspor VS CLB Sivasspor</title>
+    <desc lang="vi">Giải Bóng đá Vô địch Quốc gia Thổ Nhĩ Kỳ</desc>
+    <category lang="vi">BLV PEPSI</category>
+  </programme>
+  <programme start="20261013204500 +0700" stop="20261013235959 +0700" channel="3" channel-number="3">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013000000 +0000" stop="20261013190000 +0700" channel="4" channel-number="4">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013190000 +0700" stop="20261013211500 +0700" channel="4" channel-number="4">
+    <title lang="vi">RB Leipzig U19 VS PSV U19</title>
+    <desc lang="vi">Giải đấu Liên minh Trẻ Câu lạc bộ Châu Âu</desc>
+    <category lang="vi">BLV SAMURAI</category>
+  </programme>
+  <programme start="20261013211500 +0700" stop="20261013235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
