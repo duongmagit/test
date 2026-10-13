@@ -183,7 +183,7 @@
   <channel id="37">
     <display-name lang="vi">37</display-name>
     <display-number>37</display-number>
-    <icon src=""/>
+    <icon src="https://images.keovip88.net/images/league/afc-champions-league.png"/>
   </channel>
   <channel id="38">
     <display-name lang="vi">38</display-name>
@@ -198,7 +198,7 @@
   <channel id="40">
     <display-name lang="vi">40</display-name>
     <display-number>40</display-number>
-    <icon src="https://images.keovip88.net/images/league/afc-champions-league.png"/>
+    <icon src=""/>
   </channel>
   <channel id="41">
     <display-name lang="vi">41</display-name>
@@ -1755,62 +1755,62 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013000000 +0000" stop="20261013133000 +0700" channel="37" channel-number="37">
+  <programme start="20261013000000 +0000" stop="20261013144500 +0700" channel="37" channel-number="37">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013133000 +0700" stop="20261013160000 +0700" channel="37" channel-number="37">
+  <programme start="20261013144500 +0700" stop="20261013170000 +0700" channel="37" channel-number="37">
+    <title lang="vi">Newcastle Jets FC VS Gamba Osaka</title>
+    <desc lang="vi">AFC Champions League</desc>
+    <category lang="vi">Tỵ </category>
+  </programme>
+  <programme start="20261013170000 +0700" stop="20261013235959 +0700" channel="37" channel-number="37">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013000000 +0000" stop="20261013133000 +0700" channel="38" channel-number="38">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261013133000 +0700" stop="20261013160000 +0700" channel="38" channel-number="38">
     <title lang="vi">Daejeon JKJ Nữ VS Pepper Savings Bank Nữ</title>
     <desc lang="vi">Hàn Quốc Cúp KOVO Nữ</desc>
     <category lang="vi">Sún</category>
   </programme>
-  <programme start="20261013160000 +0700" stop="20261013235959 +0700" channel="37" channel-number="37">
+  <programme start="20261013160000 +0700" stop="20261013235959 +0700" channel="38" channel-number="38">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013000000 +0000" stop="20261013130000 +0700" channel="38" channel-number="38">
+  <programme start="20261013000000 +0000" stop="20261013130000 +0700" channel="39" channel-number="39">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013130000 +0700" stop="20261013150000 +0700" channel="38" channel-number="38">
+  <programme start="20261013130000 +0700" stop="20261013150000 +0700" channel="39" channel-number="39">
     <title lang="vi">WE VS FLY</title>
     <desc lang="vi">Demacia Cup Global Invitational</desc>
     <category lang="vi">Ngu</category>
-  </programme>
-  <programme start="20261013150000 +0700" stop="20261013235959 +0700" channel="38" channel-number="38">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013000000 +0000" stop="20261013123000 +0700" channel="39" channel-number="39">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261013123000 +0700" stop="20261013150000 +0700" channel="39" channel-number="39">
-    <title lang="vi">Arthur Gea VS Jakub Mensik </title>
-    <desc lang="vi">ATP Shanghai Open</desc>
-    <category lang="vi">Mù</category>
   </programme>
   <programme start="20261013150000 +0700" stop="20261013235959 +0700" channel="39" channel-number="39">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013000000 +0000" stop="20261013144500 +0700" channel="40" channel-number="40">
+  <programme start="20261013000000 +0000" stop="20261013123000 +0700" channel="40" channel-number="40">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261013144500 +0700" stop="20261013170000 +0700" channel="40" channel-number="40">
-    <title lang="vi">Newcastle Jets FC VS Gamba Osaka</title>
-    <desc lang="vi">AFC Champions League</desc>
-    <category lang="vi">blv-ty</category>
+  <programme start="20261013123000 +0700" stop="20261013150000 +0700" channel="40" channel-number="40">
+    <title lang="vi">Arthur Gea VS Jakub Mensik </title>
+    <desc lang="vi">ATP Shanghai Open</desc>
+    <category lang="vi">Mù</category>
   </programme>
-  <programme start="20261013170000 +0700" stop="20261013235959 +0700" channel="40" channel-number="40">
+  <programme start="20261013150000 +0700" stop="20261013235959 +0700" channel="40" channel-number="40">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
