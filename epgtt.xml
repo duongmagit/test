@@ -3,22 +3,22 @@
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
   </channel>
   <channel id="2">
     <display-name lang="vi">2</display-name>
     <display-number>2</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODRjNGMzZDI0ODItMDg5Yg/ZjUzY2VhODIzYWQtYWI4YQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
   </channel>
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
@@ -638,22 +638,22 @@
   <channel id="128">
     <display-name lang="vi">128</display-name>
     <display-number>128</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/8938.png"/>
+    <icon src="https://static.flashscore.com/res/image/data/04RQzSDO-vHiDGNOl.png"/>
   </channel>
   <channel id="129">
     <display-name lang="vi">129</display-name>
     <display-number>129</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/8938.png"/>
+    <icon src="https://static.flashscore.com/res/image/data/04RQzSDO-vHiDGNOl.png"/>
   </channel>
   <channel id="130">
     <display-name lang="vi">130</display-name>
     <display-number>130</display-number>
-    <icon src="https://static.flashscore.com/res/image/data/04RQzSDO-vHiDGNOl.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/8938.png"/>
   </channel>
   <channel id="131">
     <display-name lang="vi">131</display-name>
     <display-number>131</display-number>
-    <icon src="https://static.flashscore.com/res/image/data/04RQzSDO-vHiDGNOl.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/8938.png"/>
   </channel>
   <channel id="132">
     <display-name lang="vi">132</display-name>
@@ -933,7 +933,7 @@
   <channel id="187">
     <display-name lang="vi">187</display-name>
     <display-number>187</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/2cac1f1a-890f-428e-84d5-3d55121a0823"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/a7d2c3f7-1b23-47da-8396-219d96118fb6"/>
   </channel>
   <channel id="188">
     <display-name lang="vi">188</display-name>
@@ -953,22 +953,22 @@
   <channel id="191">
     <display-name lang="vi">191</display-name>
     <display-number>191</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/a7d2c3f7-1b23-47da-8396-219d96118fb6"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/1b77ad12-9e43-474a-ad99-180e2864a950"/>
   </channel>
   <channel id="192">
     <display-name lang="vi">192</display-name>
     <display-number>192</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/1b77ad12-9e43-474a-ad99-180e2864a950"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/d438b53e-661c-4541-888d-570c6bcc9ee4"/>
   </channel>
   <channel id="193">
     <display-name lang="vi">193</display-name>
     <display-number>193</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/d438b53e-661c-4541-888d-570c6bcc9ee4"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/1b77ad12-9e43-474a-ad99-180e2864a950"/>
   </channel>
   <channel id="194">
     <display-name lang="vi">194</display-name>
     <display-number>194</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/1b77ad12-9e43-474a-ad99-180e2864a950"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/07d59514-f47f-45dd-ba26-bff64c7ac0be"/>
   </channel>
   <channel id="195">
     <display-name lang="vi">195</display-name>
@@ -1003,32 +1003,32 @@
   <channel id="201">
     <display-name lang="vi">201</display-name>
     <display-number>201</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/07d59514-f47f-45dd-ba26-bff64c7ac0be"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/2765e2ee-095d-43d4-b98d-7d0193b09807"/>
   </channel>
   <channel id="202">
     <display-name lang="vi">202</display-name>
     <display-number>202</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/2765e2ee-095d-43d4-b98d-7d0193b09807"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/48d41bef-02ff-4a11-bcaa-35c4b62b9af8"/>
   </channel>
   <channel id="203">
     <display-name lang="vi">203</display-name>
     <display-number>203</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/48d41bef-02ff-4a11-bcaa-35c4b62b9af8"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/275d5e8d-9999-49f4-96aa-90e23171676a"/>
   </channel>
   <channel id="204">
     <display-name lang="vi">204</display-name>
     <display-number>204</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/275d5e8d-9999-49f4-96aa-90e23171676a"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/044ed3c4-bed2-472f-b79f-10dfadc26156"/>
   </channel>
   <channel id="205">
     <display-name lang="vi">205</display-name>
     <display-number>205</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/044ed3c4-bed2-472f-b79f-10dfadc26156"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/edd3c05d-ddba-486d-97ac-37aafb90f8ef"/>
   </channel>
   <channel id="206">
     <display-name lang="vi">206</display-name>
     <display-number>206</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/edd3c05d-ddba-486d-97ac-37aafb90f8ef"/>
+    <icon src="https://img.sports-data.online/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png"/>
   </channel>
   <channel id="207">
     <display-name lang="vi">207</display-name>
@@ -1038,7 +1038,7 @@
   <channel id="208">
     <display-name lang="vi">208</display-name>
     <display-number>208</display-number>
-    <icon src="https://img.sports-data.online/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png"/>
   </channel>
   <channel id="209">
     <display-name lang="vi">209</display-name>
@@ -1048,7 +1048,7 @@
   <channel id="210">
     <display-name lang="vi">210</display-name>
     <display-number>210</display-number>
-    <icon src="https://upload.wikimedia.org/wikipedia/vi/7/7a/Logo_Geleximco_H%C6%B0ng_Y%C3%AAn.png"/>
+    <icon src="https://img.sports-data.online/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png"/>
   </channel>
   <channel id="211">
     <display-name lang="vi">211</display-name>
@@ -1058,7 +1058,7 @@
   <channel id="212">
     <display-name lang="vi">212</display-name>
     <display-number>212</display-number>
-    <icon src="https://img.sports-data.online/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png"/>
   </channel>
   <channel id="213">
     <display-name lang="vi">213</display-name>
@@ -1068,7 +1068,7 @@
   <channel id="214">
     <display-name lang="vi">214</display-name>
     <display-number>214</display-number>
-    <icon src="https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png"/>
+    <icon src="https://img.sports-data.online/football/team/4e9f55c1006ca24b2b535054a52187e8.png"/>
   </channel>
   <channel id="215">
     <display-name lang="vi">215</display-name>
@@ -1078,7 +1078,7 @@
   <channel id="216">
     <display-name lang="vi">216</display-name>
     <display-number>216</display-number>
-    <icon src="https://img.sports-data.online/football/team/4e9f55c1006ca24b2b535054a52187e8.png"/>
+    <icon src="https://img.sports-data.online/football/team/a2246a99fffe73bb4274e59b10d95f2d.png"/>
   </channel>
   <channel id="217">
     <display-name lang="vi">217</display-name>
@@ -1088,7 +1088,7 @@
   <channel id="218">
     <display-name lang="vi">218</display-name>
     <display-number>218</display-number>
-    <icon src="https://img.sports-data.online/football/team/a2246a99fffe73bb4274e59b10d95f2d.png"/>
+    <icon src="https://img.sports-data.online/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png"/>
   </channel>
   <channel id="219">
     <display-name lang="vi">219</display-name>
@@ -1098,7 +1098,7 @@
   <channel id="220">
     <display-name lang="vi">220</display-name>
     <display-number>220</display-number>
-    <icon src="https://img.sports-data.online/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png"/>
+    <icon src="https://img.sports-data.online/football/team/92fb3cf79ea2ba919b94b04668e13491.png"/>
   </channel>
   <channel id="221">
     <display-name lang="vi">221</display-name>
@@ -1108,7 +1108,7 @@
   <channel id="222">
     <display-name lang="vi">222</display-name>
     <display-number>222</display-number>
-    <icon src="https://img.sports-data.online/football/team/92fb3cf79ea2ba919b94b04668e13491.png"/>
+    <icon src="https://img.sports-data.online/football/team/3555977b288a6b8b02f876b0e5a1da53.png"/>
   </channel>
   <channel id="223">
     <display-name lang="vi">223</display-name>
@@ -1118,7 +1118,7 @@
   <channel id="224">
     <display-name lang="vi">224</display-name>
     <display-number>224</display-number>
-    <icon src="https://img.sports-data.online/football/team/3555977b288a6b8b02f876b0e5a1da53.png"/>
+    <icon src="https://img.sports-data.online/football/team/d49ab93fbac0f4602293bac98b94d9c0.png"/>
   </channel>
   <channel id="225">
     <display-name lang="vi">225</display-name>
@@ -1128,7 +1128,7 @@
   <channel id="226">
     <display-name lang="vi">226</display-name>
     <display-number>226</display-number>
-    <icon src="https://img.sports-data.online/football/team/d49ab93fbac0f4602293bac98b94d9c0.png"/>
+    <icon src="https://img.sports-data.online/football/team/a0a227a6100628d3213e1fc321acd4f2.png"/>
   </channel>
   <channel id="227">
     <display-name lang="vi">227</display-name>
@@ -1138,7 +1138,7 @@
   <channel id="228">
     <display-name lang="vi">228</display-name>
     <display-number>228</display-number>
-    <icon src="https://img.sports-data.online/football/team/a0a227a6100628d3213e1fc321acd4f2.png"/>
+    <icon src="https://img.sports-data.online/football/team/240b30d333c97d293752ab7afd77ccd6.png"/>
   </channel>
   <channel id="229">
     <display-name lang="vi">229</display-name>
@@ -1148,29 +1148,24 @@
   <channel id="230">
     <display-name lang="vi">230</display-name>
     <display-number>230</display-number>
-    <icon src="https://img.sports-data.online/football/team/240b30d333c97d293752ab7afd77ccd6.png"/>
+    <icon src="https://img.sports-data.online/football/team/fd954d083ee85a6f1a3f2471dc756242.png"/>
   </channel>
   <channel id="231">
     <display-name lang="vi">231</display-name>
     <display-number>231</display-number>
     <icon src="https://img.sports-data.online/football/team/fd954d083ee85a6f1a3f2471dc756242.png"/>
   </channel>
-  <channel id="232">
-    <display-name lang="vi">232</display-name>
-    <display-number>232</display-number>
-    <icon src="https://img.sports-data.online/football/team/fd954d083ee85a6f1a3f2471dc756242.png"/>
-  </channel>
-  <programme start="20261015000000 +0000" stop="20261015153000 +0700" channel="1" channel-number="1">
+  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="1" channel-number="1">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015153000 +0700" stop="20261015174500 +0700" channel="1" channel-number="1">
-    <title lang="vi">Brisbane Bullets VS South East Melbourne</title>
-    <desc lang="vi">Liên đoàn Bóng rổ Quốc gia Úc</desc>
-    <category lang="vi">BLV 247</category>
+  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="1" channel-number="1">
+    <title lang="vi">Wofoo Tai Po VS Lion City</title>
+    <desc lang="vi">AFC Giải vô địch Champions 2</desc>
+    <category lang="vi">BLV MONSTER</category>
   </programme>
-  <programme start="20261015174500 +0700" stop="20261015235959 +0700" channel="1" channel-number="1">
+  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="1" channel-number="1">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1181,26 +1176,26 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="2" channel-number="2">
-    <title lang="vi">Wofoo Tai Po VS Lion City</title>
+    <title lang="vi">Gangwon VS Phnom Penh Crown</title>
     <desc lang="vi">AFC Giải vô địch Champions 2</desc>
-    <category lang="vi">BLV MONSTER</category>
+    <category lang="vi">BLV HỔ VẰN</category>
   </programme>
   <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="2" channel-number="2">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="3" channel-number="3">
+  <programme start="20261015000000 +0000" stop="20261015153000 +0700" channel="3" channel-number="3">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="3" channel-number="3">
-    <title lang="vi">Seoul Samsung Thunders VS LG Sakers</title>
-    <desc lang="vi">Giải bóng rổ nam Hàn Quốc</desc>
-    <category lang="vi">BLV Cozy</category>
+  <programme start="20261015153000 +0700" stop="20261015174500 +0700" channel="3" channel-number="3">
+    <title lang="vi">Brisbane Bullets VS South East Melbourne</title>
+    <desc lang="vi">Liên đoàn Bóng rổ Quốc gia Úc</desc>
+    <category lang="vi">BLV 247</category>
   </programme>
-  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="3" channel-number="3">
+  <programme start="20261015174500 +0700" stop="20261015235959 +0700" channel="3" channel-number="3">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1211,9 +1206,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="4" channel-number="4">
-    <title lang="vi">Gangwon VS Phnom Penh Crown</title>
-    <desc lang="vi">AFC Giải vô địch Champions 2</desc>
-    <category lang="vi">BLV HỔ VẰN</category>
+    <title lang="vi">Seoul Samsung Thunders VS LG Sakers</title>
+    <desc lang="vi">Giải bóng rổ nam Hàn Quốc</desc>
+    <category lang="vi">BLV Cozy</category>
   </programme>
   <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -3065,62 +3060,62 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015153000 +0700" channel="128" channel-number="128">
+  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="128" channel-number="128">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015153000 +0700" stop="20261015174500 +0700" channel="128" channel-number="128">
-    <title lang="vi">Preston Lions VS Wollongong Wolves</title>
-    <desc lang="vi">Australian Championship Grp. D</desc>
-    <category lang="vi">Kai</category>
-  </programme>
-  <programme start="20261015174500 +0700" stop="20261015235959 +0700" channel="128" channel-number="128">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261015000000 +0000" stop="20261015153000 +0700" channel="129" channel-number="129">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261015153000 +0700" stop="20261015174500 +0700" channel="129" channel-number="129">
-    <title lang="vi">Preston Lions VS Wollongong Wolves</title>
-    <desc lang="vi">Australian Championship Grp. D</desc>
-    <category lang="vi">Kai</category>
-  </programme>
-  <programme start="20261015174500 +0700" stop="20261015235959 +0700" channel="129" channel-number="129">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="130" channel-number="130">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="130" channel-number="130">
+  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="128" channel-number="128">
     <title lang="vi">Tai Po (Hkg) VS Lion City (Sgp)</title>
     <desc lang="vi">AFC Champions League 2</desc>
     <category lang="vi">Tít</category>
   </programme>
-  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="130" channel-number="130">
+  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="128" channel-number="128">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="131" channel-number="131">
+  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="129" channel-number="129">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="131" channel-number="131">
+  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="129" channel-number="129">
     <title lang="vi">Tai Po (Hkg) VS Lion City (Sgp)</title>
     <desc lang="vi">AFC Champions League 2</desc>
     <category lang="vi">Tít</category>
   </programme>
-  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="131" channel-number="131">
+  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="129" channel-number="129">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261015000000 +0000" stop="20261015153000 +0700" channel="130" channel-number="130">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261015153000 +0700" stop="20261015174500 +0700" channel="130" channel-number="130">
+    <title lang="vi">Preston Lions VS Wollongong Wolves</title>
+    <desc lang="vi">Australian Championship Grp. D</desc>
+    <category lang="vi">Kai</category>
+  </programme>
+  <programme start="20261015174500 +0700" stop="20261015235959 +0700" channel="130" channel-number="130">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261015000000 +0000" stop="20261015153000 +0700" channel="131" channel-number="131">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261015153000 +0700" stop="20261015174500 +0700" channel="131" channel-number="131">
+    <title lang="vi">Preston Lions VS Wollongong Wolves</title>
+    <desc lang="vi">Australian Championship Grp. D</desc>
+    <category lang="vi">Kai</category>
+  </programme>
+  <programme start="20261015174500 +0700" stop="20261015235959 +0700" channel="131" channel-number="131">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -3950,17 +3945,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015150000 +0700" channel="187" channel-number="187">
+  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="187" channel-number="187">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015150000 +0700" stop="20261015171500 +0700" channel="187" channel-number="187">
-    <title lang="vi">Amtat FC VS Ulaagom City</title>
-    <desc lang="vi">MGL Premier League</desc>
-    <category lang="vi">NGƯỜI SẮT</category>
+  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="187" channel-number="187">
+    <title lang="vi">Gangwon Football Club VS Phnom Penh Crown FC</title>
+    <desc lang="vi">AFC Champions League 2</desc>
+    <category lang="vi">NGƯỜI THỎ</category>
   </programme>
-  <programme start="20261015171500 +0700" stop="20261015235959 +0700" channel="187" channel-number="187">
+  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="187" channel-number="187">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -3971,26 +3966,26 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="188" channel-number="188">
-    <title lang="vi">Gangwon Football Club VS Phnom Penh Crown FC</title>
+    <title lang="vi">Tai Po VS Lion City Sailors</title>
     <desc lang="vi">AFC Champions League 2</desc>
-    <category lang="vi">NGƯỜI THỎ</category>
+    <category lang="vi">NGƯỜI SẮT</category>
   </programme>
   <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="188" channel-number="188">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="189" channel-number="189">
+  <programme start="20261015000000 +0000" stop="20261015191500 +0700" channel="189" channel-number="189">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="189" channel-number="189">
-    <title lang="vi">Tai Po VS Lion City Sailors</title>
+  <programme start="20261015191500 +0700" stop="20261015213000 +0700" channel="189" channel-number="189">
+    <title lang="vi">BG Pathum United VS Adelaide United</title>
     <desc lang="vi">AFC Champions League 2</desc>
     <category lang="vi">NGƯỜI SẮT</category>
   </programme>
-  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="189" channel-number="189">
+  <programme start="20261015213000 +0700" stop="20261015235959 +0700" channel="189" channel-number="189">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4001,71 +3996,71 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015191500 +0700" stop="20261015213000 +0700" channel="190" channel-number="190">
-    <title lang="vi">BG Pathum United VS Adelaide United</title>
+    <title lang="vi">Svay Rieng FC VS Shanghai Shenhua FC</title>
     <desc lang="vi">AFC Champions League 2</desc>
-    <category lang="vi">NGƯỜI SẮT</category>
+    <category lang="vi">NGƯỜI THỎ</category>
   </programme>
   <programme start="20261015213000 +0700" stop="20261015235959 +0700" channel="190" channel-number="190">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015191500 +0700" channel="191" channel-number="191">
+  <programme start="20261015000000 +0000" stop="20261015204000 +0700" channel="191" channel-number="191">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015191500 +0700" stop="20261015213000 +0700" channel="191" channel-number="191">
-    <title lang="vi">Svay Rieng FC VS Shanghai Shenhua FC</title>
-    <desc lang="vi">AFC Champions League 2</desc>
-    <category lang="vi">NGƯỜI THỎ</category>
-  </programme>
-  <programme start="20261015213000 +0700" stop="20261015235959 +0700" channel="191" channel-number="191">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261015000000 +0000" stop="20261015204000 +0700" channel="192" channel-number="192">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261015204000 +0700" stop="20261015225500 +0700" channel="192" channel-number="192">
+  <programme start="20261015204000 +0700" stop="20261015225500 +0700" channel="191" channel-number="191">
     <title lang="vi">Al Faisaly Harmah VS Al Kholood</title>
     <desc lang="vi">KSA Pro League</desc>
     <category lang="vi">NGƯỜI BẠC</category>
   </programme>
-  <programme start="20261015225500 +0700" stop="20261015235959 +0700" channel="192" channel-number="192">
+  <programme start="20261015225500 +0700" stop="20261015235959 +0700" channel="191" channel-number="191">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015210000 +0700" channel="193" channel-number="193">
+  <programme start="20261015000000 +0000" stop="20261015210000 +0700" channel="192" channel-number="192">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015210000 +0700" stop="20261015231500 +0700" channel="193" channel-number="193">
+  <programme start="20261015210000 +0700" stop="20261015231500 +0700" channel="192" channel-number="192">
     <title lang="vi">Mardin 1969 Spor VS Karagumruk</title>
     <desc lang="vi">TUR First League</desc>
     <category lang="vi">NGƯỜI CAT</category>
   </programme>
-  <programme start="20261015231500 +0700" stop="20261015235959 +0700" channel="193" channel-number="193">
+  <programme start="20261015231500 +0700" stop="20261015235959 +0700" channel="192" channel-number="192">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015215000 +0700" channel="194" channel-number="194">
+  <programme start="20261015000000 +0000" stop="20261015215000 +0700" channel="193" channel-number="193">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015215000 +0700" stop="20261016000500 +0700" channel="194" channel-number="194">
+  <programme start="20261015215000 +0700" stop="20261016000500 +0700" channel="193" channel-number="193">
     <title lang="vi">Al Khaleej Club VS Al Fayha</title>
     <desc lang="vi">KSA Pro League</desc>
     <category lang="vi">NGƯỜI PHÁO</category>
   </programme>
-  <programme start="20261016000500 +0700" stop="20261016235959 +0700" channel="194" channel-number="194">
+  <programme start="20261016000500 +0700" stop="20261016235959 +0700" channel="193" channel-number="193">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261015000000 +0000" stop="20261015234500 +0700" channel="194" channel-number="194">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="194" channel-number="194">
+    <title lang="vi">Lech Poznan VS Bayer 04 Leverkusen</title>
+    <desc lang="vi">UEFA Europa League</desc>
+    <category lang="vi">NGƯỜI DÊ</category>
+  </programme>
+  <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="194" channel-number="194">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4076,9 +4071,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="195" channel-number="195">
-    <title lang="vi">Lech Poznan VS Bayer 04 Leverkusen</title>
+    <title lang="vi">SCU Torreense VS Sunderland</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">NGƯỜI DÊ</category>
+    <category lang="vi">NGƯỜI CHÈ</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="195" channel-number="195">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -4091,9 +4086,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="196" channel-number="196">
-    <title lang="vi">SCU Torreense VS Sunderland</title>
+    <title lang="vi">Red Bull Salzburg VS AC Milan</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">NGƯỜI CHÈ</category>
+    <category lang="vi">NGƯỜI BẠC</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="196" channel-number="196">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -4106,26 +4101,26 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="197" channel-number="197">
-    <title lang="vi">Red Bull Salzburg VS AC Milan</title>
+    <title lang="vi">Lyon VS Crystal Palace</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">NGƯỜI BẠC</category>
+    <category lang="vi">NGƯỜI CÁO</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="197" channel-number="197">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015234500 +0700" channel="198" channel-number="198">
+  <programme start="20261015000000 +0000" stop="20261016020000 +0700" channel="198" channel-number="198">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="198" channel-number="198">
-    <title lang="vi">Lyon VS Crystal Palace</title>
+  <programme start="20261016020000 +0700" stop="20261016041500 +0700" channel="198" channel-number="198">
+    <title lang="vi">Benfica VS Celtic FC</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">NGƯỜI CÁO</category>
+    <category lang="vi">NGƯỜI DÊ</category>
   </programme>
-  <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="198" channel-number="198">
+  <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="198" channel-number="198">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4136,9 +4131,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016041500 +0700" channel="199" channel-number="199">
-    <title lang="vi">Benfica VS Celtic FC</title>
+    <title lang="vi">RC Celta VS Juventus</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">NGƯỜI DÊ</category>
+    <category lang="vi">NGƯỜI CAT</category>
   </programme>
   <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="199" channel-number="199">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -4151,9 +4146,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016041500 +0700" channel="200" channel-number="200">
-    <title lang="vi">RC Celta VS Juventus</title>
+    <title lang="vi">Bournemouth AFC VS Sturm Graz</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">NGƯỜI CAT</category>
+    <category lang="vi">NGƯỜI CHÈ</category>
   </programme>
   <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="200" channel-number="200">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -4166,86 +4161,86 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016041500 +0700" channel="201" channel-number="201">
-    <title lang="vi">Bournemouth AFC VS Sturm Graz</title>
-    <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">NGƯỜI CHÈ</category>
+    <title lang="vi">Brighton Hove Albion VS Kauno Zalgiris</title>
+    <desc lang="vi">UEFA Conference League</desc>
+    <category lang="vi">NGƯỜI CÁO</category>
   </programme>
   <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="201" channel-number="201">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261016020000 +0700" channel="202" channel-number="202">
+  <programme start="20261015000000 +0000" stop="20261016030000 +0700" channel="202" channel-number="202">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261016020000 +0700" stop="20261016041500 +0700" channel="202" channel-number="202">
-    <title lang="vi">Brighton Hove Albion VS Kauno Zalgiris</title>
-    <desc lang="vi">UEFA Conference League</desc>
-    <category lang="vi">NGƯỜI CÁO</category>
-  </programme>
-  <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="202" channel-number="202">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261015000000 +0000" stop="20261016030000 +0700" channel="203" channel-number="203">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261016030000 +0700" stop="20261016051500 +0700" channel="203" channel-number="203">
+  <programme start="20261016030000 +0700" stop="20261016051500 +0700" channel="202" channel-number="202">
     <title lang="vi">Independiente del Valle Women VS Belgrano Women</title>
     <desc lang="vi">Copa Libertadores Women</desc>
     <category lang="vi">NGƯỜI SÓI</category>
   </programme>
-  <programme start="20261016051500 +0700" stop="20261016235959 +0700" channel="203" channel-number="203">
+  <programme start="20261016051500 +0700" stop="20261016235959 +0700" channel="202" channel-number="202">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261016051500 +0700" channel="204" channel-number="204">
+  <programme start="20261015000000 +0000" stop="20261016051500 +0700" channel="203" channel-number="203">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261016051500 +0700" stop="20261016073000 +0700" channel="204" channel-number="204">
+  <programme start="20261016051500 +0700" stop="20261016073000 +0700" channel="203" channel-number="203">
     <title lang="vi">Deportivo Rionegro VS Patriotas FC</title>
     <desc lang="vi">COL Torneo BetPlay Dimayor</desc>
     <category lang="vi">NGƯỜI NẶN</category>
   </programme>
-  <programme start="20261016073000 +0700" stop="20261016235959 +0700" channel="204" channel-number="204">
+  <programme start="20261016073000 +0700" stop="20261016235959 +0700" channel="203" channel-number="203">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261016060000 +0700" channel="205" channel-number="205">
+  <programme start="20261015000000 +0000" stop="20261016060000 +0700" channel="204" channel-number="204">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261016060000 +0700" stop="20261016081500 +0700" channel="205" channel-number="205">
+  <programme start="20261016060000 +0700" stop="20261016081500 +0700" channel="204" channel-number="204">
     <title lang="vi">CA Huracan VS Gimnasia La Plata</title>
     <desc lang="vi">ARG Division 1</desc>
     <category lang="vi">NGƯỜI SÓI</category>
   </programme>
-  <programme start="20261016081500 +0700" stop="20261016235959 +0700" channel="205" channel-number="205">
+  <programme start="20261016081500 +0700" stop="20261016235959 +0700" channel="204" channel-number="204">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261016073000 +0700" channel="206" channel-number="206">
+  <programme start="20261015000000 +0000" stop="20261016073000 +0700" channel="205" channel-number="205">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261016073000 +0700" stop="20261016094500 +0700" channel="206" channel-number="206">
+  <programme start="20261016073000 +0700" stop="20261016094500 +0700" channel="205" channel-number="205">
     <title lang="vi">Estudiantes La Plata VS Flamengo</title>
     <desc lang="vi">Copa Libertodores</desc>
     <category lang="vi">NGƯỜI NẶN</category>
   </programme>
-  <programme start="20261016094500 +0700" stop="20261016235959 +0700" channel="206" channel-number="206">
+  <programme start="20261016094500 +0700" stop="20261016235959 +0700" channel="205" channel-number="205">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="206" channel-number="206">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="206" channel-number="206">
+    <title lang="vi">Gangwon FC VS Phnom Penh Crown FC</title>
+    <desc lang="vi">AFC Champions League Two</desc>
+    <category lang="vi">LÝ LINH LỰC</category>
+  </programme>
+  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="206" channel-number="206">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4270,12 +4265,12 @@
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015170000 +0700" stop="20261015191500 +0700" channel="208" channel-number="208">
-    <title lang="vi">Gangwon FC VS Phnom Penh Crown FC</title>
-    <desc lang="vi">AFC Champions League Two</desc>
-    <category lang="vi">LÝ LINH LỰC</category>
+  <programme start="20261015170000 +0700" stop="20261015193000 +0700" channel="208" channel-number="208">
+    <title lang="vi">Geleximco Hưng Yên VS LB Bank Ninh Bình</title>
+    <desc lang="vi">Giải bóng chuyền VĐQG 2026</desc>
+    <category lang="vi">LÝ LÊN LỬA</category>
   </programme>
-  <programme start="20261015191500 +0700" stop="20261015235959 +0700" channel="208" channel-number="208">
+  <programme start="20261015193000 +0700" stop="20261015235959 +0700" channel="208" channel-number="208">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4295,17 +4290,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015170000 +0700" channel="210" channel-number="210">
+  <programme start="20261015000000 +0000" stop="20261015191500 +0700" channel="210" channel-number="210">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015170000 +0700" stop="20261015193000 +0700" channel="210" channel-number="210">
-    <title lang="vi">Geleximco Hưng Yên VS LB Bank Ninh Bình</title>
-    <desc lang="vi">Giải bóng chuyền VĐQG 2026</desc>
-    <category lang="vi">LÝ LÊN LỬA</category>
+  <programme start="20261015191500 +0700" stop="20261015213000 +0700" channel="210" channel-number="210">
+    <title lang="vi">Preah Khan Reach Svay Rieng FC VS Shanghai Shenhua</title>
+    <desc lang="vi">AFC Champions League Two</desc>
+    <category lang="vi">LÝ LÀNG LÁ</category>
   </programme>
-  <programme start="20261015193000 +0700" stop="20261015235959 +0700" channel="210" channel-number="210">
+  <programme start="20261015213000 +0700" stop="20261015235959 +0700" channel="210" channel-number="210">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4325,17 +4320,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015191500 +0700" channel="212" channel-number="212">
+  <programme start="20261015000000 +0000" stop="20261015193000 +0700" channel="212" channel-number="212">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015191500 +0700" stop="20261015213000 +0700" channel="212" channel-number="212">
-    <title lang="vi">Preah Khan Reach Svay Rieng FC VS Shanghai Shenhua</title>
-    <desc lang="vi">AFC Champions League Two</desc>
-    <category lang="vi">LÝ LÀNG LÁ</category>
+  <programme start="20261015193000 +0700" stop="20261015220000 +0700" channel="212" channel-number="212">
+    <title lang="vi">VTV BĐ Long An VS XMLS Thanh Hoá</title>
+    <desc lang="vi">Giải bóng chuyền VĐQG 2026</desc>
+    <category lang="vi">LÝ LIỀU LĨNH</category>
   </programme>
-  <programme start="20261015213000 +0700" stop="20261015235959 +0700" channel="212" channel-number="212">
+  <programme start="20261015220000 +0700" stop="20261015235959 +0700" channel="212" channel-number="212">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4355,17 +4350,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015193000 +0700" channel="214" channel-number="214">
+  <programme start="20261015000000 +0000" stop="20261015204000 +0700" channel="214" channel-number="214">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015193000 +0700" stop="20261015220000 +0700" channel="214" channel-number="214">
-    <title lang="vi">VTV BĐ Long An VS XMLS Thanh Hoá</title>
-    <desc lang="vi">Giải bóng chuyền VĐQG 2026</desc>
-    <category lang="vi">LÝ LIỀU LĨNH</category>
+  <programme start="20261015204000 +0700" stop="20261015225500 +0700" channel="214" channel-number="214">
+    <title lang="vi">Al Faisaly VS Al Kholood</title>
+    <desc lang="vi">Saudi Professional League</desc>
+    <category lang="vi">LÝ LONG</category>
   </programme>
-  <programme start="20261015220000 +0700" stop="20261015235959 +0700" channel="214" channel-number="214">
+  <programme start="20261015225500 +0700" stop="20261015235959 +0700" channel="214" channel-number="214">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4385,17 +4380,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015204000 +0700" channel="216" channel-number="216">
+  <programme start="20261015000000 +0000" stop="20261015221500 +0700" channel="216" channel-number="216">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015204000 +0700" stop="20261015225500 +0700" channel="216" channel-number="216">
-    <title lang="vi">Al Faisaly VS Al Kholood</title>
+  <programme start="20261015221500 +0700" stop="20261016003000 +0700" channel="216" channel-number="216">
+    <title lang="vi">Al Hazem VS Al Fateh</title>
     <desc lang="vi">Saudi Professional League</desc>
-    <category lang="vi">LÝ LONG</category>
+    <category lang="vi">LÝ LỀNH</category>
   </programme>
-  <programme start="20261015225500 +0700" stop="20261015235959 +0700" channel="216" channel-number="216">
+  <programme start="20261016003000 +0700" stop="20261016235959 +0700" channel="216" channel-number="216">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4415,17 +4410,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015221500 +0700" channel="218" channel-number="218">
+  <programme start="20261015000000 +0000" stop="20261015234500 +0700" channel="218" channel-number="218">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015221500 +0700" stop="20261016003000 +0700" channel="218" channel-number="218">
-    <title lang="vi">Al Hazem VS Al Fateh</title>
-    <desc lang="vi">Saudi Professional League</desc>
-    <category lang="vi">LÝ LỀNH</category>
+  <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="218" channel-number="218">
+    <title lang="vi">Red Bull Salzburg VS AC Milan</title>
+    <desc lang="vi">UEFA Europa League</desc>
+    <category lang="vi">LÝ LINH LỰC</category>
   </programme>
-  <programme start="20261016003000 +0700" stop="20261016235959 +0700" channel="218" channel-number="218">
+  <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="218" channel-number="218">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4451,9 +4446,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="220" channel-number="220">
-    <title lang="vi">Red Bull Salzburg VS AC Milan</title>
+    <title lang="vi">Lyon VS Crystal Palace</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">LÝ LINH LỰC</category>
+    <category lang="vi">LÝ LA LÀNG</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="220" channel-number="220">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -4481,9 +4476,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="222" channel-number="222">
-    <title lang="vi">Lyon VS Crystal Palace</title>
+    <title lang="vi">SCU Torreense VS Sunderland</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">LÝ LA LÀNG</category>
+    <category lang="vi">LÝ LÀNG LÁ</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="222" channel-number="222">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -4511,9 +4506,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="224" channel-number="224">
-    <title lang="vi">SCU Torreense VS Sunderland</title>
+    <title lang="vi">Lech Poznan VS Bayer 04 Leverkusen</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">LÝ LÀNG LÁ</category>
+    <category lang="vi">LÝ LONG</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="224" channel-number="224">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -4535,17 +4530,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015234500 +0700" channel="226" channel-number="226">
+  <programme start="20261015000000 +0000" stop="20261016010000 +0700" channel="226" channel-number="226">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015234500 +0700" stop="20261016020000 +0700" channel="226" channel-number="226">
-    <title lang="vi">Lech Poznan VS Bayer 04 Leverkusen</title>
-    <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">LÝ LONG</category>
+  <programme start="20261016010000 +0700" stop="20261016031500 +0700" channel="226" channel-number="226">
+    <title lang="vi">Al Ahli SC VS Al Nassr</title>
+    <desc lang="vi">Saudi Professional League</desc>
+    <category lang="vi">LÝ LỀNH</category>
   </programme>
-  <programme start="20261016020000 +0700" stop="20261016235959 +0700" channel="226" channel-number="226">
+  <programme start="20261016031500 +0700" stop="20261016235959 +0700" channel="226" channel-number="226">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4565,17 +4560,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261016010000 +0700" channel="228" channel-number="228">
+  <programme start="20261015000000 +0000" stop="20261016020000 +0700" channel="228" channel-number="228">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261016010000 +0700" stop="20261016031500 +0700" channel="228" channel-number="228">
-    <title lang="vi">Al Ahli SC VS Al Nassr</title>
-    <desc lang="vi">Saudi Professional League</desc>
-    <category lang="vi">LÝ LỀNH</category>
+  <programme start="20261016020000 +0700" stop="20261016041500 +0700" channel="228" channel-number="228">
+    <title lang="vi">Bournemouth AFC VS Sturm Graz</title>
+    <desc lang="vi">UEFA Europa League</desc>
+    <category lang="vi">LÝ LÊN LỬA</category>
   </programme>
-  <programme start="20261016031500 +0700" stop="20261016235959 +0700" channel="228" channel-number="228">
+  <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="228" channel-number="228">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -4601,9 +4596,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261016020000 +0700" stop="20261016041500 +0700" channel="230" channel-number="230">
-    <title lang="vi">Bournemouth AFC VS Sturm Graz</title>
+    <title lang="vi">RC Celta VS Juventus</title>
     <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">LÝ LÊN LỬA</category>
+    <category lang="vi">LÝ LONG</category>
   </programme>
   <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="230" channel-number="230">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -4621,21 +4616,6 @@
     <category lang="vi">LÝ LONG</category>
   </programme>
   <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="231" channel-number="231">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261015000000 +0000" stop="20261016020000 +0700" channel="232" channel-number="232">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261016020000 +0700" stop="20261016041500 +0700" channel="232" channel-number="232">
-    <title lang="vi">RC Celta VS Juventus</title>
-    <desc lang="vi">UEFA Europa League</desc>
-    <category lang="vi">LÝ LONG</category>
-  </programme>
-  <programme start="20261016041500 +0700" stop="20261016235959 +0700" channel="232" channel-number="232">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
