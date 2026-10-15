@@ -18,12 +18,12 @@
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
     <display-number>5</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
   </channel>
   <channel id="6">
     <display-name lang="vi">6</display-name>
@@ -1186,9 +1186,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015191500 +0700" stop="20261015213000 +0700" channel="4" channel-number="4">
-    <title lang="vi">Kuching City FC VS CLB Kitchee</title>
+    <title lang="vi">CLB Tampines VS Machida</title>
     <desc lang="vi">AFC Giải vô địch Champions 2</desc>
-    <category lang="vi">BLV ROCKSTAR</category>
+    <category lang="vi">BLV SAMURAI</category>
   </programme>
   <programme start="20261015213000 +0700" stop="20261015235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1201,9 +1201,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015191500 +0700" stop="20261015213000 +0700" channel="5" channel-number="5">
-    <title lang="vi">CLB Tampines VS Machida</title>
+    <title lang="vi">Kuching City FC VS CLB Kitchee</title>
     <desc lang="vi">AFC Giải vô địch Champions 2</desc>
-    <category lang="vi">BLV SAMURAI</category>
+    <category lang="vi">BLV ROCKSTAR</category>
   </programme>
   <programme start="20261015213000 +0700" stop="20261015235959 +0700" channel="5" channel-number="5">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
