@@ -13,37 +13,37 @@
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin1/gPD8UtdyThm5MB8dhd1fKg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
+    <icon src="https://oss-logo-hk.oss-accelerate.aliyuncs.com/admin/image/admin1/gPD8UtdyThm5MB8dhd1fKg.jpg"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
     <display-number>5</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NWE0OTdhYWE1NGYtMjdkZg/MTVkZDcyNjEyM2MtNDRjMA.png"/>
   </channel>
   <channel id="6">
     <display-name lang="vi">6</display-name>
     <display-number>6</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/YjY5MjdjYWM2MzctYWIxMQ/ZGZiMDQzMzE0ZGItZWFmZQ.png"/>
   </channel>
   <channel id="7">
     <display-name lang="vi">7</display-name>
     <display-number>7</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjM4ZDcwYzIwZWItNDk4MQ/MzU1MDM1ZWFkZWQtNWMzMg.png"/>
   </channel>
   <channel id="8">
     <display-name lang="vi">8</display-name>
     <display-number>8</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzZmMTdhNDQyODUtMzUzOA/OTllZGUxNmUwOGEtZmZhZQ.png"/>
   </channel>
   <channel id="9">
     <display-name lang="vi">9</display-name>
     <display-number>9</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MjhmNmNiOTA4ZDktZDIwZQ/ODQ3ODZiOGQyNDgtZjBiMg.jpg"/>
   </channel>
   <channel id="10">
     <display-name lang="vi">10</display-name>
@@ -725,17 +725,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015073000 +0700" channel="3" channel-number="3">
+  <programme start="20261015000000 +0000" stop="20261015074000 +0700" channel="3" channel-number="3">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015073000 +0700" stop="20261015094500 +0700" channel="3" channel-number="3">
-    <title lang="vi">Fluminense RJ VS Palmeiras</title>
-    <desc lang="vi">Giải Vô địch các Câu lạc bộ Nam Mỹ</desc>
-    <category lang="vi">BLV REDBULL</category>
+  <programme start="20261015074000 +0700" stop="20261015095500 +0700" channel="3" channel-number="3">
+    <title lang="vi">CLB Chicago Fire VS CLB Philadelphia Union</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">BLV SAMURAI</category>
   </programme>
-  <programme start="20261015094500 +0700" stop="20261015235959 +0700" channel="3" channel-number="3">
+  <programme start="20261015095500 +0700" stop="20261015235959 +0700" channel="3" channel-number="3">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -746,41 +746,41 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015073000 +0700" stop="20261015094500 +0700" channel="4" channel-number="4">
-    <title lang="vi">CLB Nashville VS Kansas City</title>
-    <desc lang="vi">Major League Soccer</desc>
-    <category lang="vi">BLV SODA</category>
+    <title lang="vi">Fluminense RJ VS Palmeiras</title>
+    <desc lang="vi">Giải Vô địch các Câu lạc bộ Nam Mỹ</desc>
+    <category lang="vi">BLV REDBULL</category>
   </programme>
   <programme start="20261015094500 +0700" stop="20261015235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015063000 +0700" channel="5" channel-number="5">
+  <programme start="20261015000000 +0000" stop="20261015074000 +0700" channel="5" channel-number="5">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015063000 +0700" stop="20261015084500 +0700" channel="5" channel-number="5">
-    <title lang="vi">Boston Celtics VS Charlotte Hornets</title>
-    <desc lang="vi">Hiệp hội Bóng rổ Quốc gia</desc>
-    <category lang="vi">BLV POCARI</category>
+  <programme start="20261015074000 +0700" stop="20261015095500 +0700" channel="5" channel-number="5">
+    <title lang="vi">CLB Nashville VS Kansas City</title>
+    <desc lang="vi">Major League Soccer</desc>
+    <category lang="vi">BLV SODA</category>
   </programme>
-  <programme start="20261015084500 +0700" stop="20261015235959 +0700" channel="5" channel-number="5">
+  <programme start="20261015095500 +0700" stop="20261015235959 +0700" channel="5" channel-number="5">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015070000 +0700" channel="6" channel-number="6">
+  <programme start="20261015000000 +0000" stop="20261015063000 +0700" channel="6" channel-number="6">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015070000 +0700" stop="20261015091500 +0700" channel="6" channel-number="6">
-    <title lang="vi">San Antonio Spurs VS Phoenix suns</title>
+  <programme start="20261015063000 +0700" stop="20261015084500 +0700" channel="6" channel-number="6">
+    <title lang="vi">Boston Celtics VS Charlotte Hornets</title>
     <desc lang="vi">Hiệp hội Bóng rổ Quốc gia</desc>
-    <category lang="vi">BLV ROCKSTAR</category>
+    <category lang="vi">BLV POCARI</category>
   </programme>
-  <programme start="20261015091500 +0700" stop="20261015235959 +0700" channel="6" channel-number="6">
+  <programme start="20261015084500 +0700" stop="20261015235959 +0700" channel="6" channel-number="6">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -791,9 +791,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015070000 +0700" stop="20261015091500 +0700" channel="7" channel-number="7">
-    <title lang="vi">Minnesota Timberwolves VS Detroit Pistons</title>
+    <title lang="vi">San Antonio Spurs VS Phoenix suns</title>
     <desc lang="vi">Hiệp hội Bóng rổ Quốc gia</desc>
-    <category lang="vi">BLV Cozy</category>
+    <category lang="vi">BLV ROCKSTAR</category>
   </programme>
   <programme start="20261015091500 +0700" stop="20261015235959 +0700" channel="7" channel-number="7">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -806,26 +806,26 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261015070000 +0700" stop="20261015091500 +0700" channel="8" channel-number="8">
-    <title lang="vi">Dallas Mavericks VS New Orleans Pelicans</title>
+    <title lang="vi">Minnesota Timberwolves VS Detroit Pistons</title>
     <desc lang="vi">Hiệp hội Bóng rổ Quốc gia</desc>
-    <category lang="vi">BLV 247</category>
+    <category lang="vi">BLV Cozy</category>
   </programme>
   <programme start="20261015091500 +0700" stop="20261015235959 +0700" channel="8" channel-number="8">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015000000 +0000" stop="20261015074000 +0700" channel="9" channel-number="9">
+  <programme start="20261015000000 +0000" stop="20261015070000 +0700" channel="9" channel-number="9">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261015074000 +0700" stop="20261015095500 +0700" channel="9" channel-number="9">
-    <title lang="vi">CLB Chicago Fire VS CLB Philadelphia Union</title>
-    <desc lang="vi">Major League Soccer</desc>
-    <category lang="vi">BLV SAMURAI</category>
+  <programme start="20261015070000 +0700" stop="20261015091500 +0700" channel="9" channel-number="9">
+    <title lang="vi">Dallas Mavericks VS New Orleans Pelicans</title>
+    <desc lang="vi">Hiệp hội Bóng rổ Quốc gia</desc>
+    <category lang="vi">BLV 247</category>
   </programme>
-  <programme start="20261015095500 +0700" stop="20261015235959 +0700" channel="9" channel-number="9">
+  <programme start="20261015091500 +0700" stop="20261015235959 +0700" channel="9" channel-number="9">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
