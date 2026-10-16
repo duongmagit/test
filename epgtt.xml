@@ -663,12 +663,12 @@
   <channel id="133">
     <display-name lang="vi">133</display-name>
     <display-number>133</display-number>
-    <icon src="https://img.gvapi.cc/football/competition/3888349404e5d5d09f977b30df0ee151.png"/>
+    <icon src="https://img.gvapi.cc/football/competition/1012858622ebf597d520c00c1c278e58.png"/>
   </channel>
   <channel id="134">
     <display-name lang="vi">134</display-name>
     <display-number>134</display-number>
-    <icon src="https://img.gvapi.cc/football/competition/9115e93d22380b87e231573b0a796f27.png"/>
+    <icon src="https://img.gvapi.cc/football/competition/3888349404e5d5d09f977b30df0ee151.png"/>
   </channel>
   <channel id="135">
     <display-name lang="vi">135</display-name>
@@ -2835,17 +2835,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261016000000 +0000" stop="20261016220000 +0700" channel="133" channel-number="133">
+  <programme start="20261016000000 +0000" stop="20261016213000 +0700" channel="133" channel-number="133">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261016220000 +0700" stop="20261017001500 +0700" channel="133" channel-number="133">
-    <title lang="vi">FC Otelul Galati VS FK Csikszereda Miercurea Ciuc</title>
-    <desc lang="vi">Romanian Super Liga</desc>
-    <category lang="vi">Gà Siêu Nhí</category>
+  <programme start="20261016213000 +0700" stop="20261016234500 +0700" channel="133" channel-number="133">
+    <title lang="vi">Al-Ahli Sports Club(Qatar) VS Al-Wakrah Sports Club</title>
+    <desc lang="vi">Qatar Stars League</desc>
+    <category lang="vi">Gà Siêu Quỷ</category>
   </programme>
-  <programme start="20261017001500 +0700" stop="20261017235959 +0700" channel="133" channel-number="133">
+  <programme start="20261016234500 +0700" stop="20261016235959 +0700" channel="133" channel-number="133">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -2856,9 +2856,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261016220000 +0700" stop="20261017001500 +0700" channel="134" channel-number="134">
-    <title lang="vi">Al Riyadh VS Al Hilal</title>
-    <desc lang="vi">Saudi Professional League</desc>
-    <category lang="vi">Gà Siêu Quỷ</category>
+    <title lang="vi">FC Otelul Galati VS FK Csikszereda Miercurea Ciuc</title>
+    <desc lang="vi">Romanian Super Liga</desc>
+    <category lang="vi">Gà Siêu Nhí</category>
   </programme>
   <programme start="20261017001500 +0700" stop="20261017235959 +0700" channel="134" channel-number="134">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
