@@ -288,7 +288,7 @@
   <channel id="58">
     <display-name lang="vi">58</display-name>
     <display-number>58</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/f0f253320873d5abaebbe6bc32ec2ace.png"/>
+    <icon src="https://images.keovip88.net/images/league/k-league-han-quoc.jpg"/>
   </channel>
   <channel id="59">
     <display-name lang="vi">59</display-name>
@@ -298,12 +298,12 @@
   <channel id="60">
     <display-name lang="vi">60</display-name>
     <display-number>60</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/6ea9d3a49774e62cb0eaadc24235482b.png"/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/f0f253320873d5abaebbe6bc32ec2ace.png"/>
   </channel>
   <channel id="61">
     <display-name lang="vi">61</display-name>
     <display-number>61</display-number>
-    <icon src=""/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/6ea9d3a49774e62cb0eaadc24235482b.png"/>
   </channel>
   <channel id="62">
     <display-name lang="vi">62</display-name>
@@ -318,7 +318,7 @@
   <channel id="64">
     <display-name lang="vi">64</display-name>
     <display-number>64</display-number>
-    <icon src="https://images.keovip88.net/images/league/k-league-han-quoc.jpg"/>
+    <icon src=""/>
   </channel>
   <channel id="65">
     <display-name lang="vi">65</display-name>
@@ -2265,17 +2265,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017000000 +0000" stop="20261017120000 +0700" channel="58" channel-number="58">
+  <programme start="20261017000000 +0000" stop="20261017143000 +0700" channel="58" channel-number="58">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017120000 +0700" stop="20261017143000 +0700" channel="58" channel-number="58">
-    <title lang="vi">Anyang Jung Kwan Jang VS Sonicboom</title>
-    <desc lang="vi">South Korean KBL Cup</desc>
-    <category lang="vi">Cầy</category>
+  <programme start="20261017143000 +0700" stop="20261017164500 +0700" channel="58" channel-number="58">
+    <title lang="vi">Ulsan Hyundai VS Bucheon FC 1995</title>
+    <desc lang="vi">K-League Hàn Quốc</desc>
+    <category lang="vi">Tỵ </category>
   </programme>
-  <programme start="20261017143000 +0700" stop="20261017235959 +0700" channel="58" channel-number="58">
+  <programme start="20261017164500 +0700" stop="20261017235959 +0700" channel="58" channel-number="58">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -2286,56 +2286,56 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261017120000 +0700" stop="20261017143000 +0700" channel="59" channel-number="59">
-    <title lang="vi">Wonju DB Promy VS Samsung Thunders</title>
+    <title lang="vi">Anyang Jung Kwan Jang VS Sonicboom</title>
     <desc lang="vi">South Korean KBL Cup</desc>
-    <category lang="vi">Tôm</category>
+    <category lang="vi">Cầy</category>
   </programme>
   <programme start="20261017143000 +0700" stop="20261017235959 +0700" channel="59" channel-number="59">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017000000 +0000" stop="20261017133000 +0700" channel="60" channel-number="60">
+  <programme start="20261017000000 +0000" stop="20261017120000 +0700" channel="60" channel-number="60">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017133000 +0700" stop="20261017160000 +0700" channel="60" channel-number="60">
+  <programme start="20261017120000 +0700" stop="20261017143000 +0700" channel="60" channel-number="60">
+    <title lang="vi">Wonju DB Promy VS Samsung Thunders</title>
+    <desc lang="vi">South Korean KBL Cup</desc>
+    <category lang="vi">Tôm</category>
+  </programme>
+  <programme start="20261017143000 +0700" stop="20261017235959 +0700" channel="60" channel-number="60">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261017000000 +0000" stop="20261017133000 +0700" channel="61" channel-number="61">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261017133000 +0700" stop="20261017160000 +0700" channel="61" channel-number="61">
     <title lang="vi">South East Melbourne Phoenix VS Cairns Taipans</title>
     <desc lang="vi">National Basketball League(Australia)</desc>
     <category lang="vi">Vịt</category>
   </programme>
-  <programme start="20261017160000 +0700" stop="20261017235959 +0700" channel="60" channel-number="60">
+  <programme start="20261017160000 +0700" stop="20261017235959 +0700" channel="61" channel-number="61">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017000000 +0000" stop="20261017120500 +0700" channel="61" channel-number="61">
+  <programme start="20261017000000 +0000" stop="20261017120500 +0700" channel="62" channel-number="62">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017120500 +0700" stop="20261017143500 +0700" channel="61" channel-number="61">
+  <programme start="20261017120500 +0700" stop="20261017143500 +0700" channel="62" channel-number="62">
     <title lang="vi">Astemo Rivale Ibaraki Nữ VS Gunma Greenwings Nữ</title>
     <desc lang="vi">Nhật Bản SV. League</desc>
     <category lang="vi">Sún</category>
   </programme>
-  <programme start="20261017143500 +0700" stop="20261017235959 +0700" channel="61" channel-number="61">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261017000000 +0000" stop="20261017140000 +0700" channel="62" channel-number="62">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261017140000 +0700" stop="20261017160000 +0700" channel="62" channel-number="62">
-    <title lang="vi">Team Vitality VS 100T</title>
-    <desc lang="vi">Valorant Champions 2026</desc>
-    <category lang="vi">Riko</category>
-  </programme>
-  <programme start="20261017160000 +0700" stop="20261017235959 +0700" channel="62" channel-number="62">
+  <programme start="20261017143500 +0700" stop="20261017235959 +0700" channel="62" channel-number="62">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -2346,26 +2346,26 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261017140000 +0700" stop="20261017160000 +0700" channel="63" channel-number="63">
-    <title lang="vi">ONE SAMURAI 4 VS ONE SAMURAI 4</title>
-    <desc lang="vi">ONE SAMURAI 4</desc>
-    <category lang="vi">Dory</category>
+    <title lang="vi">Team Vitality VS 100T</title>
+    <desc lang="vi">Valorant Champions 2026</desc>
+    <category lang="vi">Riko</category>
   </programme>
   <programme start="20261017160000 +0700" stop="20261017235959 +0700" channel="63" channel-number="63">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017000000 +0000" stop="20261017143000 +0700" channel="64" channel-number="64">
+  <programme start="20261017000000 +0000" stop="20261017140000 +0700" channel="64" channel-number="64">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017143000 +0700" stop="20261017164500 +0700" channel="64" channel-number="64">
-    <title lang="vi">Ulsan Hyundai VS Bucheon FC 1995</title>
-    <desc lang="vi">K-League Hàn Quốc</desc>
-    <category lang="vi">blv-ty</category>
+  <programme start="20261017140000 +0700" stop="20261017160000 +0700" channel="64" channel-number="64">
+    <title lang="vi">ONE SAMURAI 4 VS ONE SAMURAI 4</title>
+    <desc lang="vi">ONE SAMURAI 4</desc>
+    <category lang="vi">Dory</category>
   </programme>
-  <programme start="20261017164500 +0700" stop="20261017235959 +0700" channel="64" channel-number="64">
+  <programme start="20261017160000 +0700" stop="20261017235959 +0700" channel="64" channel-number="64">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
