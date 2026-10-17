@@ -293,12 +293,12 @@
   <channel id="59">
     <display-name lang="vi">59</display-name>
     <display-number>59</display-number>
-    <icon src="https://images.keovip88.net/images/league/vdqg-argentina.png"/>
+    <icon src="https://images.keovip88.net/images/league/mexico-liga-mx.jpg"/>
   </channel>
   <channel id="60">
     <display-name lang="vi">60</display-name>
     <display-number>60</display-number>
-    <icon src="https://images.keovip88.net/images/league/mexico-liga-mx.jpg"/>
+    <icon src="https://images.keovip88.net/images/league/vdqg-argentina.png"/>
   </channel>
   <channel id="61">
     <display-name lang="vi">61</display-name>
@@ -2115,32 +2115,32 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017000000 +0000" stop="20261017073000 +0700" channel="59" channel-number="59">
+  <programme start="20261017000000 +0000" stop="20261017080000 +0700" channel="59" channel-number="59">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017073000 +0700" stop="20261017094500 +0700" channel="59" channel-number="59">
-    <title lang="vi">Boca Juniors VS Talleres Cordoba</title>
-    <desc lang="vi">VĐQG Argentina</desc>
-    <category lang="vi">blvhau</category>
+  <programme start="20261017080000 +0700" stop="20261017101500 +0700" channel="59" channel-number="59">
+    <title lang="vi">Necaxa VS Atlas</title>
+    <desc lang="vi">Mexico Liga MX</desc>
+    <category lang="vi">Bee</category>
   </programme>
-  <programme start="20261017094500 +0700" stop="20261017235959 +0700" channel="59" channel-number="59">
+  <programme start="20261017101500 +0700" stop="20261017235959 +0700" channel="59" channel-number="59">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017000000 +0000" stop="20261017080000 +0700" channel="60" channel-number="60">
+  <programme start="20261017000000 +0000" stop="20261017073000 +0700" channel="60" channel-number="60">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261017080000 +0700" stop="20261017101500 +0700" channel="60" channel-number="60">
-    <title lang="vi">Necaxa VS Atlas</title>
-    <desc lang="vi">Mexico Liga MX</desc>
-    <category lang="vi">blv-beo</category>
+  <programme start="20261017073000 +0700" stop="20261017094500 +0700" channel="60" channel-number="60">
+    <title lang="vi">Boca Juniors VS Talleres Cordoba</title>
+    <desc lang="vi">VĐQG Argentina</desc>
+    <category lang="vi">BLV Hấu</category>
   </programme>
-  <programme start="20261017101500 +0700" stop="20261017235959 +0700" channel="60" channel-number="60">
+  <programme start="20261017094500 +0700" stop="20261017235959 +0700" channel="60" channel-number="60">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
