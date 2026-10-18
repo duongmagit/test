@@ -83,17 +83,17 @@
   <channel id="17">
     <display-name lang="vi">17</display-name>
     <display-number>17</display-number>
-    <icon src="https://images.keovip88.net/images/league/mls-my.png"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwRXqaLzthBA3Gb3EsgzlRjRwUaFQyggRNpW2zfKpE8w&amp;s"/>
   </channel>
   <channel id="18">
     <display-name lang="vi">18</display-name>
     <display-number>18</display-number>
-    <icon src="https://images.keovip88.net/images/league/vdqg-brazil.png"/>
+    <icon src="https://images.keovip88.net/images/league/mls-my.png"/>
   </channel>
   <channel id="19">
     <display-name lang="vi">19</display-name>
     <display-number>19</display-number>
-    <icon src=""/>
+    <icon src="https://images.keovip88.net/images/league/vdqg-brazil.png"/>
   </channel>
   <channel id="20">
     <display-name lang="vi">20</display-name>
@@ -570,47 +570,47 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261019040000 +0700" channel="17" channel-number="17">
+  <programme start="20261018000000 +0000" stop="20261019050000 +0700" channel="17" channel-number="17">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019040000 +0700" stop="20261019061500 +0700" channel="17" channel-number="17">
+  <programme start="20261019050000 +0700" stop="20261019070000 +0700" channel="17" channel-number="17">
+    <title lang="vi">Columbus Blue Jackets VS Minnesota Wild</title>
+    <desc lang="vi">NHL</desc>
+    <category lang="vi">Tôm</category>
+  </programme>
+  <programme start="20261019070000 +0700" stop="20261019235959 +0700" channel="17" channel-number="17">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261018000000 +0000" stop="20261019040000 +0700" channel="18" channel-number="18">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261019040000 +0700" stop="20261019061500 +0700" channel="18" channel-number="18">
     <title lang="vi">FC Cincinnati VS Columbus Crew</title>
     <desc lang="vi">MLS Mỹ</desc>
     <category lang="vi">Ngọng</category>
   </programme>
-  <programme start="20261019061500 +0700" stop="20261019235959 +0700" channel="17" channel-number="17">
+  <programme start="20261019061500 +0700" stop="20261019235959 +0700" channel="18" channel-number="18">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261019043000 +0700" channel="18" channel-number="18">
+  <programme start="20261018000000 +0000" stop="20261019043000 +0700" channel="19" channel-number="19">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019043000 +0700" stop="20261019064500 +0700" channel="18" channel-number="18">
+  <programme start="20261019043000 +0700" stop="20261019064500 +0700" channel="19" channel-number="19">
     <title lang="vi">Bahia(BA) VS Flamengo</title>
     <desc lang="vi">VĐQG Brazil</desc>
     <category lang="vi">Mù</category>
   </programme>
-  <programme start="20261019064500 +0700" stop="20261019235959 +0700" channel="18" channel-number="18">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261018000000 +0000" stop="20261019050000 +0700" channel="19" channel-number="19">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261019050000 +0700" stop="20261019070000 +0700" channel="19" channel-number="19">
-    <title lang="vi">Columbus Blue Jackets VS Minnesota Wild</title>
-    <desc lang="vi">NHL</desc>
-    <category lang="vi">blv-tom</category>
-  </programme>
-  <programme start="20261019070000 +0700" stop="20261019235959 +0700" channel="19" channel-number="19">
+  <programme start="20261019064500 +0700" stop="20261019235959 +0700" channel="19" channel-number="19">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
