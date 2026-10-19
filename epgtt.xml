@@ -378,7 +378,7 @@
   <channel id="76">
     <display-name lang="vi">76</display-name>
     <display-number>76</display-number>
-    <icon src="https://s8tvkc.top/wp-json/s8-image/98b08649-d735-4e34-8520-edd9b311d18a"/>
+    <icon src="https://img.gvapi.cc/football/competition/3a552b2e7d7e817c48128a9a57b34141.png"/>
   </channel>
   <channel id="77">
     <display-name lang="vi">77</display-name>
@@ -398,31 +398,46 @@
   <channel id="80">
     <display-name lang="vi">80</display-name>
     <display-number>80</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/ae2bd5d1-9863-4d6d-8e7c-02fb34ee7add"/>
   </channel>
   <channel id="81">
     <display-name lang="vi">81</display-name>
     <display-number>81</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/2c4f346c-a90f-48d3-a986-310c6a04a7ec"/>
   </channel>
   <channel id="82">
     <display-name lang="vi">82</display-name>
     <display-number>82</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/jw2r09hlpwzrz84/image/small"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/ae2bd5d1-9863-4d6d-8e7c-02fb34ee7add"/>
   </channel>
   <channel id="83">
     <display-name lang="vi">83</display-name>
     <display-number>83</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/jw2r09hlpwzrz84/image/small"/>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small"/>
   </channel>
   <channel id="84">
     <display-name lang="vi">84</display-name>
     <display-number>84</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/n54qllh8z1pqvy9/image/small"/>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/6ypq3nh16p9md7o/image/small"/>
   </channel>
   <channel id="85">
     <display-name lang="vi">85</display-name>
     <display-number>85</display-number>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/jw2r09hlpwzrz84/image/small"/>
+  </channel>
+  <channel id="86">
+    <display-name lang="vi">86</display-name>
+    <display-number>86</display-number>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/jw2r09hlpwzrz84/image/small"/>
+  </channel>
+  <channel id="87">
+    <display-name lang="vi">87</display-name>
+    <display-number>87</display-number>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/n54qllh8z1pqvy9/image/small"/>
+  </channel>
+  <channel id="88">
+    <display-name lang="vi">88</display-name>
+    <display-number>88</display-number>
     <icon src="https://imgts.sportpulseapiz.com/football/team/n54qllh8z1pqvy9/image/small"/>
   </channel>
   <programme start="20261019000000 +0000" stop="20261020050000 +0700" channel="1" channel-number="1">
@@ -1550,17 +1565,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019000000 +0000" stop="20261020014500 +0700" channel="76" channel-number="76">
+  <programme start="20261019000000 +0000" stop="20261020200000 +0700" channel="76" channel-number="76">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020014500 +0700" stop="20261020040000 +0700" channel="76" channel-number="76">
-    <title lang="vi">Parma VS Torino</title>
-    <desc lang="vi">Serie A</desc>
-    <category lang="vi">NGƯỜI CÁO</category>
+  <programme start="20261020200000 +0700" stop="20261020221500 +0700" channel="76" channel-number="76">
+    <title lang="vi">Al Taawon SC VS Al Hilal Benghazi</title>
+    <desc lang="vi">Libyan Premier League</desc>
+    <category lang="vi">Gà Siêu Phệ + Gà Siêu Quỷ</category>
   </programme>
-  <programme start="20261020040000 +0700" stop="20261020235959 +0700" channel="76" channel-number="76">
+  <programme start="20261020221500 +0700" stop="20261020235959 +0700" channel="76" channel-number="76">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1616,86 +1631,131 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261020153000 +0700" stop="20261020174500 +0700" channel="80" channel-number="80">
-    <title lang="vi">Isenmulang Kalteng VS Java United F.C.</title>
-    <desc lang="vi">Indonesian Super League</desc>
-    <category lang="vi">LÝ LINH LỰC</category>
+    <title lang="vi">Isenmulang Kalteng VS Java United</title>
+    <desc lang="vi">IDN Super League</desc>
+    <category lang="vi">NGƯỜI THỎ</category>
   </programme>
   <programme start="20261020174500 +0700" stop="20261020235959 +0700" channel="80" channel-number="80">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019000000 +0000" stop="20261020153000 +0700" channel="81" channel-number="81">
+  <programme start="20261019000000 +0000" stop="20261020180000 +0700" channel="81" channel-number="81">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020153000 +0700" stop="20261020174500 +0700" channel="81" channel-number="81">
+  <programme start="20261020180000 +0700" stop="20261020201500 +0700" channel="81" channel-number="81">
+    <title lang="vi">Homs Al Fidaa VS Al Nejmeh SC</title>
+    <desc lang="vi">AFC Challenge League</desc>
+    <category lang="vi">NGƯỜI PHÁO</category>
+  </programme>
+  <programme start="20261020201500 +0700" stop="20261020235959 +0700" channel="81" channel-number="81">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261019000000 +0000" stop="20261020190000 +0700" channel="82" channel-number="82">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="82" channel-number="82">
+    <title lang="vi">Bhayangkara Presisi VS PSIM Yogyakarta</title>
+    <desc lang="vi">IDN Super League</desc>
+    <category lang="vi">NGƯỜI PHÁO</category>
+  </programme>
+  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="82" channel-number="82">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261019000000 +0000" stop="20261020153000 +0700" channel="83" channel-number="83">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261020153000 +0700" stop="20261020174500 +0700" channel="83" channel-number="83">
     <title lang="vi">Isenmulang Kalteng VS Java United F.C.</title>
     <desc lang="vi">Indonesian Super League</desc>
     <category lang="vi">LÝ LINH LỰC</category>
   </programme>
-  <programme start="20261020174500 +0700" stop="20261020235959 +0700" channel="81" channel-number="81">
+  <programme start="20261020174500 +0700" stop="20261020235959 +0700" channel="83" channel-number="83">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019000000 +0000" stop="20261020180000 +0700" channel="82" channel-number="82">
+  <programme start="20261019000000 +0000" stop="20261020153000 +0700" channel="84" channel-number="84">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020180000 +0700" stop="20261020201500 +0700" channel="82" channel-number="82">
+  <programme start="20261020153000 +0700" stop="20261020174500 +0700" channel="84" channel-number="84">
+    <title lang="vi">Isenmulang Kalteng VS Java United F.C.</title>
+    <desc lang="vi">Indonesian Super League</desc>
+    <category lang="vi">LÝ LINH LỰC</category>
+  </programme>
+  <programme start="20261020174500 +0700" stop="20261020235959 +0700" channel="84" channel-number="84">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261019000000 +0000" stop="20261020180000 +0700" channel="85" channel-number="85">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261020180000 +0700" stop="20261020201500 +0700" channel="85" channel-number="85">
     <title lang="vi">FC Porto U19 VS PSV Eindhoven U19</title>
     <desc lang="vi">UEFA Youth League</desc>
     <category lang="vi">LÝ LÊN LỬA</category>
   </programme>
-  <programme start="20261020201500 +0700" stop="20261020235959 +0700" channel="82" channel-number="82">
+  <programme start="20261020201500 +0700" stop="20261020235959 +0700" channel="85" channel-number="85">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019000000 +0000" stop="20261020180000 +0700" channel="83" channel-number="83">
+  <programme start="20261019000000 +0000" stop="20261020180000 +0700" channel="86" channel-number="86">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020180000 +0700" stop="20261020201500 +0700" channel="83" channel-number="83">
+  <programme start="20261020180000 +0700" stop="20261020201500 +0700" channel="86" channel-number="86">
     <title lang="vi">FC Porto U19 VS PSV Eindhoven U19</title>
     <desc lang="vi">UEFA Youth League</desc>
     <category lang="vi">LÝ LÊN LỬA</category>
   </programme>
-  <programme start="20261020201500 +0700" stop="20261020235959 +0700" channel="83" channel-number="83">
+  <programme start="20261020201500 +0700" stop="20261020235959 +0700" channel="86" channel-number="86">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019000000 +0000" stop="20261020190000 +0700" channel="84" channel-number="84">
+  <programme start="20261019000000 +0000" stop="20261020190000 +0700" channel="87" channel-number="87">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="84" channel-number="84">
+  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="87" channel-number="87">
     <title lang="vi">Dewa United VS Persijap Jepara</title>
     <desc lang="vi">Indonesian Super League</desc>
     <category lang="vi">LÝ LIỀU LĨNH</category>
   </programme>
-  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="84" channel-number="84">
+  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="87" channel-number="87">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019000000 +0000" stop="20261020190000 +0700" channel="85" channel-number="85">
+  <programme start="20261019000000 +0000" stop="20261020190000 +0700" channel="88" channel-number="88">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="85" channel-number="85">
+  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="88" channel-number="88">
     <title lang="vi">Dewa United VS Persijap Jepara</title>
     <desc lang="vi">Indonesian Super League</desc>
     <category lang="vi">LÝ LIỀU LĨNH</category>
   </programme>
-  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="85" channel-number="85">
+  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="88" channel-number="88">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
