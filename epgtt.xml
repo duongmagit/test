@@ -3,12 +3,12 @@
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjQ4YTZlMDMwN2EtYTM4Nw/ZmFkOWVjZjU3OWMtZjJlNg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
   </channel>
   <channel id="2">
     <display-name lang="vi">2</display-name>
     <display-number>2</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjQ4YTZlMDMwN2EtYTM4Nw/ZmFkOWVjZjU3OWMtZjJlNg.jpg"/>
   </channel>
   <channel id="3">
     <display-name lang="vi">3</display-name>
@@ -840,32 +840,32 @@
     <display-number>168</display-number>
     <icon src="https://img.sports-data.online/football/team/36bf5bf0c8fdf08c1270124808f060e1.png"/>
   </channel>
-  <programme start="20261019000000 +0000" stop="20261019170000 +0700" channel="1" channel-number="1">
+  <programme start="20261019000000 +0000" stop="20261019180000 +0700" channel="1" channel-number="1">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019170000 +0700" stop="20261019191500 +0700" channel="1" channel-number="1">
-    <title lang="vi">Fergana University VS Metallurg Bekabad</title>
-    <desc lang="vi">Bóng đá Hạng 2 Uzbekistan</desc>
-    <category lang="vi">BLV TEPPY</category>
-  </programme>
-  <programme start="20261019191500 +0700" stop="20261019235959 +0700" channel="1" channel-number="1">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019180000 +0700" channel="2" channel-number="2">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261019180000 +0700" stop="20261019201500 +0700" channel="2" channel-number="2">
+  <programme start="20261019180000 +0700" stop="20261019201500 +0700" channel="1" channel-number="1">
     <title lang="vi">Thành phố Hồ Chí Minh VS Thể Công - Viettel</title>
     <desc lang="vi">Giải vô địch quốc gia Việt Nam</desc>
     <category lang="vi">BLV C2</category>
   </programme>
-  <programme start="20261019201500 +0700" stop="20261019235959 +0700" channel="2" channel-number="2">
+  <programme start="20261019201500 +0700" stop="20261019235959 +0700" channel="1" channel-number="1">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261019000000 +0000" stop="20261019170000 +0700" channel="2" channel-number="2">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261019170000 +0700" stop="20261019191500 +0700" channel="2" channel-number="2">
+    <title lang="vi">Fergana University VS Metallurg Bekabad</title>
+    <desc lang="vi">Bóng đá Hạng 2 Uzbekistan</desc>
+    <category lang="vi">BLV TEPPY</category>
+  </programme>
+  <programme start="20261019191500 +0700" stop="20261019235959 +0700" channel="2" channel-number="2">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1388,7 +1388,7 @@
   <programme start="20261019183500 +0700" stop="20261019210500 +0700" channel="37" channel-number="37">
     <title lang="vi">Beijing Royal Fighters VS Shanghai Jiushi Sharks</title>
     <desc lang="vi">Chinese Basketball Association</desc>
-    <category lang="vi">blv-tom</category>
+    <category lang="vi">Tôm</category>
   </programme>
   <programme start="20261019210500 +0700" stop="20261019235959 +0700" channel="37" channel-number="37">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1403,7 +1403,7 @@
   <programme start="20261019183500 +0700" stop="20261019210500 +0700" channel="38" channel-number="38">
     <title lang="vi">Suzhou Dragons Kentier VS Shenzhen Leopards</title>
     <desc lang="vi">Chinese Basketball Association</desc>
-    <category lang="vi">blv-leo</category>
+    <category lang="vi">Chồn</category>
   </programme>
   <programme start="20261019210500 +0700" stop="20261019235959 +0700" channel="38" channel-number="38">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1418,7 +1418,7 @@
   <programme start="20261019190000 +0700" stop="20261019210000 +0700" channel="39" channel-number="39">
     <title lang="vi">The Mongolz VS Alliance</title>
     <desc lang="vi">CS2 1W Private Club Season 2 - 1/8-finals</desc>
-    <category lang="vi">blvhau</category>
+    <category lang="vi">Hấu</category>
   </programme>
   <programme start="20261019210000 +0700" stop="20261019235959 +0700" channel="39" channel-number="39">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
