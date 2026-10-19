@@ -558,12 +558,12 @@
   <channel id="112">
     <display-name lang="vi">112</display-name>
     <display-number>112</display-number>
-    <icon src="https://img.gvapi.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png"/>
+    <icon src="https://img.gvapi.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png"/>
   </channel>
   <channel id="113">
     <display-name lang="vi">113</display-name>
     <display-number>113</display-number>
-    <icon src="https://img.gvapi.cc/football/competition/0402fbeb5c375de21ee74f868d2b5f0b.png"/>
+    <icon src="https://img.gvapi.cc/football/competition/0b3d4c605b5a516dd91b09b6719e453e.png"/>
   </channel>
   <channel id="114">
     <display-name lang="vi">114</display-name>
@@ -2505,32 +2505,32 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019000000 +0000" stop="20261019170000 +0700" channel="112" channel-number="112">
+  <programme start="20261019000000 +0000" stop="20261019180000 +0700" channel="112" channel-number="112">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261019170000 +0700" stop="20261019191500 +0700" channel="112" channel-number="112">
-    <title lang="vi">Santa Clara U23 VS Braga U23</title>
-    <desc lang="vi">Portuguese U23 League</desc>
-    <category lang="vi">Gà Siêu Kiêu</category>
-  </programme>
-  <programme start="20261019191500 +0700" stop="20261019235959 +0700" channel="112" channel-number="112">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261019000000 +0000" stop="20261019180000 +0700" channel="113" channel-number="113">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261019180000 +0700" stop="20261019201500 +0700" channel="113" channel-number="113">
+  <programme start="20261019180000 +0700" stop="20261019201500 +0700" channel="112" channel-number="112">
     <title lang="vi">Cong An Ho Chi Minh City VS The Cong-Viettel</title>
     <desc lang="vi">Vietnam National Champion League</desc>
     <category lang="vi">Gà Siêu Ngố</category>
   </programme>
-  <programme start="20261019201500 +0700" stop="20261019235959 +0700" channel="113" channel-number="113">
+  <programme start="20261019201500 +0700" stop="20261019235959 +0700" channel="112" channel-number="112">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261019000000 +0000" stop="20261019170000 +0700" channel="113" channel-number="113">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261019170000 +0700" stop="20261019191500 +0700" channel="113" channel-number="113">
+    <title lang="vi">Santa Clara U23 VS Braga U23</title>
+    <desc lang="vi">Portuguese U23 League</desc>
+    <category lang="vi">Gà Siêu Kiêu</category>
+  </programme>
+  <programme start="20261019191500 +0700" stop="20261019235959 +0700" channel="113" channel-number="113">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
