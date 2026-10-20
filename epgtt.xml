@@ -148,12 +148,12 @@
   <channel id="30">
     <display-name lang="vi">30</display-name>
     <display-number>30</display-number>
-    <icon src="https://images.keovip88.net/images/league/vdqg-a-rap-xe-ut.jpg"/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/cc5f8e2acbc7e8151754c48970f9f1e6.png"/>
   </channel>
   <channel id="31">
     <display-name lang="vi">31</display-name>
     <display-number>31</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/cc5f8e2acbc7e8151754c48970f9f1e6.png"/>
+    <icon src="https://images.keovip88.net/images/league/vdqg-a-rap-xe-ut.jpg"/>
   </channel>
   <channel id="32">
     <display-name lang="vi">32</display-name>
@@ -1230,32 +1230,32 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261021010000 +0700" channel="30" channel-number="30">
+  <programme start="20261020000000 +0000" stop="20261021020000 +0700" channel="30" channel-number="30">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021010000 +0700" stop="20261021031500 +0700" channel="30" channel-number="30">
-    <title lang="vi">Al-Nassr FC VS Al-Suqoor</title>
-    <desc lang="vi">VĐQG Ả Rập Xê Út</desc>
-    <category lang="vi">Bee</category>
+  <programme start="20261021020000 +0700" stop="20261021043000 +0700" channel="30" channel-number="30">
+    <title lang="vi">Detroit Pistons VS Boston Celtics</title>
+    <desc lang="vi">National Basketball Association</desc>
+    <category lang="vi">Tôm</category>
   </programme>
-  <programme start="20261021031500 +0700" stop="20261021235959 +0700" channel="30" channel-number="30">
+  <programme start="20261021043000 +0700" stop="20261021235959 +0700" channel="30" channel-number="30">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261021020000 +0700" channel="31" channel-number="31">
+  <programme start="20261020000000 +0000" stop="20261021010000 +0700" channel="31" channel-number="31">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021020000 +0700" stop="20261021043000 +0700" channel="31" channel-number="31">
-    <title lang="vi">Detroit Pistons VS Boston Celtics</title>
-    <desc lang="vi">National Basketball Association</desc>
-    <category lang="vi">blv-tom</category>
+  <programme start="20261021010000 +0700" stop="20261021031500 +0700" channel="31" channel-number="31">
+    <title lang="vi">Al-Nassr FC VS Al-Suqoor</title>
+    <desc lang="vi">VĐQG Ả Rập Xê Út</desc>
+    <category lang="vi">Bee</category>
   </programme>
-  <programme start="20261021043000 +0700" stop="20261021235959 +0700" channel="31" channel-number="31">
+  <programme start="20261021031500 +0700" stop="20261021235959 +0700" channel="31" channel-number="31">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -2976,7 +2976,7 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021020000 +0700" stop="20261021041500 +0700" channel="146" channel-number="146">
-    <title lang="vi">Man City VS AEK Athens</title>
+    <title lang="vi">Manchester City VS AEK Athens</title>
     <desc lang="vi">UEFA Champions League</desc>
     <category lang="vi">LÝ LONG</category>
   </programme>
@@ -2991,7 +2991,7 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021020000 +0700" stop="20261021041500 +0700" channel="147" channel-number="147">
-    <title lang="vi">Man City VS AEK Athens</title>
+    <title lang="vi">Manchester City VS AEK Athens</title>
     <desc lang="vi">UEFA Champions League</desc>
     <category lang="vi">LÝ LONG</category>
   </programme>
@@ -3036,7 +3036,7 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021020000 +0700" stop="20261021041500 +0700" channel="150" channel-number="150">
-    <title lang="vi">PSG VS Barcelona</title>
+    <title lang="vi">Paris Saint Germain VS Barcelona</title>
     <desc lang="vi">UEFA Champions League</desc>
     <category lang="vi">LÝ LỀNH</category>
   </programme>
@@ -3051,7 +3051,7 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021020000 +0700" stop="20261021041500 +0700" channel="151" channel-number="151">
-    <title lang="vi">PSG VS Barcelona</title>
+    <title lang="vi">Paris Saint Germain VS Barcelona</title>
     <desc lang="vi">UEFA Champions League</desc>
     <category lang="vi">LÝ LỀNH</category>
   </programme>
