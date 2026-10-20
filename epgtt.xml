@@ -188,17 +188,17 @@
   <channel id="38">
     <display-name lang="vi">38</display-name>
     <display-number>38</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/25586f2e4bf9e990b5bf35753e68408d.jpg"/>
+    <icon src="https://images.keovip88.net/images/league/vdqg-indonesia.jpg"/>
   </channel>
   <channel id="39">
     <display-name lang="vi">39</display-name>
     <display-number>39</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/f995fd8c88e5f80c4f4f075233e465f3.gif"/>
+    <icon src="https://images.keovip88.net/images/league/vdqg-indonesia.jpg"/>
   </channel>
   <channel id="40">
     <display-name lang="vi">40</display-name>
     <display-number>40</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/f995fd8c88e5f80c4f4f075233e465f3.gif"/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/25586f2e4bf9e990b5bf35753e68408d.jpg"/>
   </channel>
   <channel id="41">
     <display-name lang="vi">41</display-name>
@@ -213,12 +213,12 @@
   <channel id="43">
     <display-name lang="vi">43</display-name>
     <display-number>43</display-number>
-    <icon src="https://images.keovip88.net/images/league/vdqg-indonesia.jpg"/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/f995fd8c88e5f80c4f4f075233e465f3.gif"/>
   </channel>
   <channel id="44">
     <display-name lang="vi">44</display-name>
     <display-number>44</display-number>
-    <icon src="https://images.keovip88.net/images/league/vdqg-indonesia.jpg"/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/f995fd8c88e5f80c4f4f075233e465f3.gif"/>
   </channel>
   <channel id="45">
     <display-name lang="vi">45</display-name>
@@ -1635,47 +1635,47 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261020170000 +0700" channel="38" channel-number="38">
+  <programme start="20261020000000 +0000" stop="20261020190000 +0700" channel="38" channel-number="38">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020170000 +0700" stop="20261020193000 +0700" channel="38" channel-number="38">
+  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="38" channel-number="38">
+    <title lang="vi">Dewa United FC VS Persijap Jepara</title>
+    <desc lang="vi">VĐQG Indonesia</desc>
+    <category lang="vi">Trĩ</category>
+  </programme>
+  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="38" channel-number="38">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261020000000 +0000" stop="20261020190000 +0700" channel="39" channel-number="39">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="39" channel-number="39">
+    <title lang="vi">Bhayangkara Solo FC VS PSIM Yogyakarta</title>
+    <desc lang="vi">VĐQG Indonesia</desc>
+    <category lang="vi">Mù</category>
+  </programme>
+  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="39" channel-number="39">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261020000000 +0000" stop="20261020170000 +0700" channel="40" channel-number="40">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261020170000 +0700" stop="20261020193000 +0700" channel="40" channel-number="40">
     <title lang="vi">Seoul SK Knights VS Anyang Jung Kwan Jang Red Boosters</title>
     <desc lang="vi">Korea Basketball League</desc>
     <category lang="vi">Vịt</category>
   </programme>
-  <programme start="20261020193000 +0700" stop="20261020235959 +0700" channel="38" channel-number="38">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261020000000 +0000" stop="20261020183500 +0700" channel="39" channel-number="39">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261020183500 +0700" stop="20261020210500 +0700" channel="39" channel-number="39">
-    <title lang="vi">Beijing Shougang Ducks VS Guangdong Southern Tigers</title>
-    <desc lang="vi">Chinese Basketball Association</desc>
-    <category lang="vi">Cầy</category>
-  </programme>
-  <programme start="20261020210500 +0700" stop="20261020235959 +0700" channel="39" channel-number="39">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261020000000 +0000" stop="20261020183500 +0700" channel="40" channel-number="40">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261020183500 +0700" stop="20261020210500 +0700" channel="40" channel-number="40">
-    <title lang="vi">Jilin Northeast Tigers VS SiChuan Jingqiang Blue Whales</title>
-    <desc lang="vi">Chinese Basketball Association</desc>
-    <category lang="vi">Tôm</category>
-  </programme>
-  <programme start="20261020210500 +0700" stop="20261020235959 +0700" channel="40" channel-number="40">
+  <programme start="20261020193000 +0700" stop="20261020235959 +0700" channel="40" channel-number="40">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1686,9 +1686,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261020183500 +0700" stop="20261020210500 +0700" channel="41" channel-number="41">
-    <title lang="vi">Ningbo Rockets VS Shanxi Loongs Fenjiu</title>
+    <title lang="vi">Beijing Shougang Ducks VS Guangdong Southern Tigers</title>
     <desc lang="vi">Chinese Basketball Association</desc>
-    <category lang="vi">Hấu</category>
+    <category lang="vi">Cầy</category>
   </programme>
   <programme start="20261020210500 +0700" stop="20261020235959 +0700" channel="41" channel-number="41">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1701,41 +1701,41 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261020183500 +0700" stop="20261020210500 +0700" channel="42" channel-number="42">
-    <title lang="vi">NanJing Monkey Kings VS Guangzhou Loong Lions</title>
+    <title lang="vi">Jilin Northeast Tigers VS SiChuan Jingqiang Blue Whales</title>
     <desc lang="vi">Chinese Basketball Association</desc>
-    <category lang="vi">Ngu</category>
+    <category lang="vi">Tôm</category>
   </programme>
   <programme start="20261020210500 +0700" stop="20261020235959 +0700" channel="42" channel-number="42">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261020190000 +0700" channel="43" channel-number="43">
+  <programme start="20261020000000 +0000" stop="20261020183500 +0700" channel="43" channel-number="43">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="43" channel-number="43">
-    <title lang="vi">Dewa United FC VS Persijap Jepara</title>
-    <desc lang="vi">VĐQG Indonesia</desc>
-    <category lang="vi">blv-tri</category>
+  <programme start="20261020183500 +0700" stop="20261020210500 +0700" channel="43" channel-number="43">
+    <title lang="vi">Ningbo Rockets VS Shanxi Loongs Fenjiu</title>
+    <desc lang="vi">Chinese Basketball Association</desc>
+    <category lang="vi">Hấu</category>
   </programme>
-  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="43" channel-number="43">
+  <programme start="20261020210500 +0700" stop="20261020235959 +0700" channel="43" channel-number="43">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261020190000 +0700" channel="44" channel-number="44">
+  <programme start="20261020000000 +0000" stop="20261020183500 +0700" channel="44" channel-number="44">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020190000 +0700" stop="20261020211500 +0700" channel="44" channel-number="44">
-    <title lang="vi">Bhayangkara Solo FC VS PSIM Yogyakarta</title>
-    <desc lang="vi">VĐQG Indonesia</desc>
-    <category lang="vi">blv Mù</category>
+  <programme start="20261020183500 +0700" stop="20261020210500 +0700" channel="44" channel-number="44">
+    <title lang="vi">NanJing Monkey Kings VS Guangzhou Loong Lions</title>
+    <desc lang="vi">Chinese Basketball Association</desc>
+    <category lang="vi">Ngu</category>
   </programme>
-  <programme start="20261020211500 +0700" stop="20261020235959 +0700" channel="44" channel-number="44">
+  <programme start="20261020210500 +0700" stop="20261020235959 +0700" channel="44" channel-number="44">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1748,7 +1748,7 @@
   <programme start="20261020190000 +0700" stop="20261020213000 +0700" channel="45" channel-number="45">
     <title lang="vi">Xinjiang Flying Tigers VS Tianjin Pioneers</title>
     <desc lang="vi">Chinese Basketball Association</desc>
-    <category lang="vi">blv-vit</category>
+    <category lang="vi">Vịt</category>
   </programme>
   <programme start="20261020213000 +0700" stop="20261020235959 +0700" channel="45" channel-number="45">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -1808,7 +1808,7 @@
   <programme start="20261020221000 +0700" stop="20261021002500 +0700" channel="49" channel-number="49">
     <title lang="vi">Al-Taawon VS Al-Qadasiya</title>
     <desc lang="vi">VĐQG Ả Rập Xê Út</desc>
-    <category lang="vi">blv-18</category>
+    <category lang="vi">blv-diec</category>
   </programme>
   <programme start="20261021002500 +0700" stop="20261021235959 +0700" channel="49" channel-number="49">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
