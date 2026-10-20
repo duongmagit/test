@@ -103,7 +103,7 @@
   <channel id="21">
     <display-name lang="vi">21</display-name>
     <display-number>21</display-number>
-    <icon src=""/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="22">
     <display-name lang="vi">22</display-name>
@@ -950,32 +950,32 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261020090000 +0700" channel="21" channel-number="21">
+  <programme start="20261020000000 +0000" stop="20261021014500 +0700" channel="21" channel-number="21">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020090000 +0700" stop="20261020111500 +0700" channel="21" channel-number="21">
-    <title lang="vi">Escorpiones Belén  VS Puntarenas</title>
-    <desc lang="vi">Costa Rica - Primera Division</desc>
-    <category lang="vi">Hứa</category>
+  <programme start="20261021014500 +0700" stop="20261021040000 +0700" channel="21" channel-number="21">
+    <title lang="vi">Wolverhampton Wanderers VS CLB Portsmouth</title>
+    <desc lang="vi">Championship</desc>
+    <category lang="vi">BLV SAMURAI</category>
   </programme>
-  <programme start="20261020111500 +0700" stop="20261020235959 +0700" channel="21" channel-number="21">
+  <programme start="20261021040000 +0700" stop="20261021235959 +0700" channel="21" channel-number="21">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261020071500 +0700" channel="22" channel-number="22">
+  <programme start="20261020000000 +0000" stop="20261020090000 +0700" channel="22" channel-number="22">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261020071500 +0700" stop="20261020091500 +0700" channel="22" channel-number="22">
-    <title lang="vi">Washington Commanders VS San Francisco 49ers</title>
-    <desc lang="vi">NFL</desc>
-    <category lang="vi">Riko</category>
+  <programme start="20261020090000 +0700" stop="20261020111500 +0700" channel="22" channel-number="22">
+    <title lang="vi">Escorpiones Belén  VS Puntarenas</title>
+    <desc lang="vi">Costa Rica - Primera Division</desc>
+    <category lang="vi">Hứa</category>
   </programme>
-  <programme start="20261020091500 +0700" stop="20261020235959 +0700" channel="22" channel-number="22">
+  <programme start="20261020111500 +0700" stop="20261020235959 +0700" channel="22" channel-number="22">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
