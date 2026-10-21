@@ -128,7 +128,7 @@
   <channel id="26">
     <display-name lang="vi">26</display-name>
     <display-number>26</display-number>
-    <icon src="https://images.keovip88.net/images/league/copa-sudamericana.png"/>
+    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/cc5f8e2acbc7e8151754c48970f9f1e6.png"/>
   </channel>
   <channel id="27">
     <display-name lang="vi">27</display-name>
@@ -138,7 +138,7 @@
   <channel id="28">
     <display-name lang="vi">28</display-name>
     <display-number>28</display-number>
-    <icon src="https://cdn.keobongvip.digital/images/basketball-leagues/cc5f8e2acbc7e8151754c48970f9f1e6.png"/>
+    <icon src="https://images.keovip88.net/images/league/copa-sudamericana.png"/>
   </channel>
   <channel id="29">
     <display-name lang="vi">29</display-name>
@@ -900,17 +900,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261022050000 +0700" channel="26" channel-number="26">
+  <programme start="20261021000000 +0000" stop="20261022060000 +0700" channel="26" channel-number="26">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022050000 +0700" stop="20261022071500 +0700" channel="26" channel-number="26">
-    <title lang="vi">Montevideo City Torque VS Atletico Mineiro</title>
-    <desc lang="vi">Copa Sudamericana</desc>
-    <category lang="vi">Ngọng</category>
+  <programme start="20261022060000 +0700" stop="20261022083000 +0700" channel="26" channel-number="26">
+    <title lang="vi">Washington Wizards VS Milwaukee Bucks</title>
+    <desc lang="vi">National Basketball Association</desc>
+    <category lang="vi">Riko</category>
   </programme>
-  <programme start="20261022071500 +0700" stop="20261022235959 +0700" channel="26" channel-number="26">
+  <programme start="20261022083000 +0700" stop="20261022235959 +0700" channel="26" channel-number="26">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -921,26 +921,26 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261022060000 +0700" stop="20261022083000 +0700" channel="27" channel-number="27">
-    <title lang="vi">Washington Wizards VS Milwaukee Bucks</title>
+    <title lang="vi">Orlando Magic VS Atlanta Hawks</title>
     <desc lang="vi">National Basketball Association</desc>
-    <category lang="vi">riko</category>
+    <category lang="vi">Tôm</category>
   </programme>
   <programme start="20261022083000 +0700" stop="20261022235959 +0700" channel="27" channel-number="27">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261022060000 +0700" channel="28" channel-number="28">
+  <programme start="20261021000000 +0000" stop="20261022050000 +0700" channel="28" channel-number="28">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022060000 +0700" stop="20261022083000 +0700" channel="28" channel-number="28">
-    <title lang="vi">Orlando Magic VS Atlanta Hawks</title>
-    <desc lang="vi">National Basketball Association</desc>
-    <category lang="vi">blv-tom</category>
+  <programme start="20261022050000 +0700" stop="20261022071500 +0700" channel="28" channel-number="28">
+    <title lang="vi">Montevideo City Torque VS Atletico Mineiro</title>
+    <desc lang="vi">Copa Sudamericana</desc>
+    <category lang="vi">Ngọng</category>
   </programme>
-  <programme start="20261022083000 +0700" stop="20261022235959 +0700" channel="28" channel-number="28">
+  <programme start="20261022071500 +0700" stop="20261022235959 +0700" channel="28" channel-number="28">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -953,7 +953,7 @@
   <programme start="20261022063000 +0700" stop="20261022090000 +0700" channel="29" channel-number="29">
     <title lang="vi">Miami Heat VS Minnesota Timberwolves</title>
     <desc lang="vi">National Basketball Association</desc>
-    <category lang="vi">blv-ben</category>
+    <category lang="vi">Ben</category>
   </programme>
   <programme start="20261022090000 +0700" stop="20261022235959 +0700" channel="29" channel-number="29">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -968,7 +968,7 @@
   <programme start="20261022063000 +0700" stop="20261022090000 +0700" channel="30" channel-number="30">
     <title lang="vi">Brooklyn Nets VS Charlotte Hornets</title>
     <desc lang="vi">National Basketball Association</desc>
-    <category lang="vi">blv-ngu</category>
+    <category lang="vi">Ngu</category>
   </programme>
   <programme start="20261022090000 +0700" stop="20261022235959 +0700" channel="30" channel-number="30">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -983,7 +983,7 @@
   <programme start="20261022063000 +0700" stop="20261022090000 +0700" channel="31" channel-number="31">
     <title lang="vi">Toronto Raptors VS Chicago Bulls</title>
     <desc lang="vi">National Basketball Association</desc>
-    <category lang="vi">blv-cay</category>
+    <category lang="vi">Cầy</category>
   </programme>
   <programme start="20261022090000 +0700" stop="20261022235959 +0700" channel="31" channel-number="31">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
