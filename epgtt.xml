@@ -433,22 +433,22 @@
   <channel id="87">
     <display-name lang="vi">87</display-name>
     <display-number>87</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/87.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/42.png"/>
   </channel>
   <channel id="88">
     <display-name lang="vi">88</display-name>
     <display-number>88</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/87.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/42.png"/>
   </channel>
   <channel id="89">
     <display-name lang="vi">89</display-name>
     <display-number>89</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/42.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/87.png"/>
   </channel>
   <channel id="90">
     <display-name lang="vi">90</display-name>
     <display-number>90</display-number>
-    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/42.png"/>
+    <icon src="https://images.fotmob.com/image_resources/logo/leaguelogo/87.png"/>
   </channel>
   <channel id="91">
     <display-name lang="vi">91</display-name>
@@ -2030,62 +2030,62 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261022010000 +0700" channel="87" channel-number="87">
+  <programme start="20261021000000 +0000" stop="20261022020000 +0700" channel="87" channel-number="87">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022010000 +0700" stop="20261022031500 +0700" channel="87" channel-number="87">
-    <title lang="vi">Levante VS Athletic Club</title>
-    <desc lang="vi">LaLiga</desc>
-    <category lang="vi">Teppy</category>
-  </programme>
-  <programme start="20261022031500 +0700" stop="20261022235959 +0700" channel="87" channel-number="87">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261021000000 +0000" stop="20261022010000 +0700" channel="88" channel-number="88">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261022010000 +0700" stop="20261022031500 +0700" channel="88" channel-number="88">
-    <title lang="vi">Levante VS Athletic Club</title>
-    <desc lang="vi">LaLiga</desc>
-    <category lang="vi">Teppy</category>
-  </programme>
-  <programme start="20261022031500 +0700" stop="20261022235959 +0700" channel="88" channel-number="88">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261021000000 +0000" stop="20261022020000 +0700" channel="89" channel-number="89">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261022020000 +0700" stop="20261022041500 +0700" channel="89" channel-number="89">
+  <programme start="20261022020000 +0700" stop="20261022041500 +0700" channel="87" channel-number="87">
     <title lang="vi">Bayern München VS Arsenal</title>
     <desc lang="vi">Champions League</desc>
     <category lang="vi">Bút Chì</category>
   </programme>
-  <programme start="20261022041500 +0700" stop="20261022235959 +0700" channel="89" channel-number="89">
+  <programme start="20261022041500 +0700" stop="20261022235959 +0700" channel="87" channel-number="87">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261022020000 +0700" channel="90" channel-number="90">
+  <programme start="20261021000000 +0000" stop="20261022020000 +0700" channel="88" channel-number="88">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022020000 +0700" stop="20261022041500 +0700" channel="90" channel-number="90">
+  <programme start="20261022020000 +0700" stop="20261022041500 +0700" channel="88" channel-number="88">
     <title lang="vi">Bayern München VS Arsenal</title>
     <desc lang="vi">Champions League</desc>
     <category lang="vi">Bút Chì</category>
   </programme>
-  <programme start="20261022041500 +0700" stop="20261022235959 +0700" channel="90" channel-number="90">
+  <programme start="20261022041500 +0700" stop="20261022235959 +0700" channel="88" channel-number="88">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261022010000 +0700" channel="89" channel-number="89">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261022010000 +0700" stop="20261022031500 +0700" channel="89" channel-number="89">
+    <title lang="vi">Levante VS Athletic Club</title>
+    <desc lang="vi">LaLiga</desc>
+    <category lang="vi">Teppy</category>
+  </programme>
+  <programme start="20261022031500 +0700" stop="20261022235959 +0700" channel="89" channel-number="89">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261022010000 +0700" channel="90" channel-number="90">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261022010000 +0700" stop="20261022031500 +0700" channel="90" channel-number="90">
+    <title lang="vi">Levante VS Athletic Club</title>
+    <desc lang="vi">LaLiga</desc>
+    <category lang="vi">Teppy</category>
+  </programme>
+  <programme start="20261022031500 +0700" stop="20261022235959 +0700" channel="90" channel-number="90">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
