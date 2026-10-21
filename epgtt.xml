@@ -3,32 +3,32 @@
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
   </channel>
   <channel id="2">
     <display-name lang="vi">2</display-name>
     <display-number>2</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NTNhNzk3NTQ4ODEtZDAyNw/ZTY1OGM5YjNmODAtY2FmNw.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
   </channel>
   <channel id="3">
     <display-name lang="vi">3</display-name>
     <display-number>3</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
   </channel>
   <channel id="4">
     <display-name lang="vi">4</display-name>
     <display-number>4</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/NzhjMjFiYTAzYWYtMGYzNQ/M2NkNmI4NGU4NjItNGQ1Yg.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
   </channel>
   <channel id="5">
     <display-name lang="vi">5</display-name>
     <display-number>5</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/web/image/YzkwMWJjZDU3YjUtNDM3NQ/YzZmNjZiNDViNjgtN2M5Mw.jpg"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
   </channel>
   <channel id="6">
     <display-name lang="vi">6</display-name>
     <display-number>6</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/OTI0YzE3NDAyMWQtNGM2YQ/ZmRiODExZWZlM2QtZDA4Mg.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MDFlMmFlYzk0NDEtMjA4NA/MTI0MTFkNzg0ZmYtYTA4ZA.png"/>
   </channel>
   <channel id="7">
     <display-name lang="vi">7</display-name>
@@ -143,22 +143,22 @@
   <channel id="29">
     <display-name lang="vi">29</display-name>
     <display-number>29</display-number>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGxi749vkYBgaVPjzT0kyXU-QG3K2dIlgA0eb5LQsZnXaIPNKDM0sgqui-&amp;s=10"/>
+    <icon src="https://images.keovip88.net/images/league/uefa-champions-league.png"/>
   </channel>
   <channel id="30">
     <display-name lang="vi">30</display-name>
     <display-number>30</display-number>
-    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yJ5oGM4hBO0qlAvKt2X2DaAcM-BlP1mk6TnkE79hPA&amp;s=10"/>
+    <icon src="https://images.keovip88.net/images/league/uefa-champions-league.png"/>
   </channel>
   <channel id="31">
     <display-name lang="vi">31</display-name>
     <display-number>31</display-number>
-    <icon src="https://images.keovip88.net/images/league/uefa-champions-league.png"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGxi749vkYBgaVPjzT0kyXU-QG3K2dIlgA0eb5LQsZnXaIPNKDM0sgqui-&amp;s=10"/>
   </channel>
   <channel id="32">
     <display-name lang="vi">32</display-name>
     <display-number>32</display-number>
-    <icon src="https://images.keovip88.net/images/league/uefa-champions-league.png"/>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yJ5oGM4hBO0qlAvKt2X2DaAcM-BlP1mk6TnkE79hPA&amp;s=10"/>
   </channel>
   <channel id="33">
     <display-name lang="vi">33</display-name>
@@ -790,17 +790,27 @@
     <display-number>158</display-number>
     <icon src="https://upload.wikimedia.org/wikipedia/vi/6/6a/Logo_H%C3%A0_N%E1%BB%99i_Tasco_Auto.png"/>
   </channel>
-  <programme start="20261021000000 +0000" stop="20261021220000 +0700" channel="1" channel-number="1">
+  <channel id="159">
+    <display-name lang="vi">159</display-name>
+    <display-number>159</display-number>
+    <icon src="https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png"/>
+  </channel>
+  <channel id="160">
+    <display-name lang="vi">160</display-name>
+    <display-number>160</display-number>
+    <icon src="https://upload.wikimedia.org/wikipedia/vi/e/ec/Logo_VTV_B%C3%ACnh_%C4%90i%E1%BB%81n_Long_An.png"/>
+  </channel>
+  <programme start="20261021000000 +0000" stop="20261021234500 +0700" channel="1" channel-number="1">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021220000 +0700" stop="20261022001500 +0700" channel="1" channel-number="1">
-    <title lang="vi">Al Anwar SA VS Al Wehda</title>
-    <desc lang="vi">Giải bóng đá Hạng nhất Ả Rập Xê Út</desc>
-    <category lang="vi">BLV MOUNTAIN DEW</category>
+  <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="1" channel-number="1">
+    <title lang="vi">Calcio Como VS Manchester United</title>
+    <desc lang="vi">Champions League</desc>
+    <category lang="vi">BLV C2</category>
   </programme>
-  <programme start="20261022001500 +0700" stop="20261022235959 +0700" channel="1" channel-number="1">
+  <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="1" channel-number="1">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -813,7 +823,7 @@
   <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="2" channel-number="2">
     <title lang="vi">Calcio Como VS Manchester United</title>
     <desc lang="vi">Champions League</desc>
-    <category lang="vi">BLV C2</category>
+    <category lang="vi">BLV REVIVE</category>
   </programme>
   <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="2" channel-number="2">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -828,7 +838,7 @@
   <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="3" channel-number="3">
     <title lang="vi">Calcio Como VS Manchester United</title>
     <desc lang="vi">Champions League</desc>
-    <category lang="vi">BLV REVIVE</category>
+    <category lang="vi">BLV GIÀ LÀNG</category>
   </programme>
   <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="3" channel-number="3">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -841,9 +851,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="4" channel-number="4">
-    <title lang="vi">Calcio Como VS Manchester United</title>
+    <title lang="vi">Lille OSC VS Galatasaray</title>
     <desc lang="vi">Champions League</desc>
-    <category lang="vi">BLV GIÀ LÀNG</category>
+    <category lang="vi">BLV HỔ VẰN</category>
   </programme>
   <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="4" channel-number="4">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -858,24 +868,24 @@
   <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="5" channel-number="5">
     <title lang="vi">Lille OSC VS Galatasaray</title>
     <desc lang="vi">Champions League</desc>
-    <category lang="vi">BLV HỔ VẰN</category>
+    <category lang="vi">BLV PEPSI</category>
   </programme>
   <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="5" channel-number="5">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021234500 +0700" channel="6" channel-number="6">
+  <programme start="20261021000000 +0000" stop="20261021220000 +0700" channel="6" channel-number="6">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="6" channel-number="6">
-    <title lang="vi">Lille OSC VS Galatasaray</title>
-    <desc lang="vi">Champions League</desc>
-    <category lang="vi">BLV PEPSI</category>
+  <programme start="20261021220000 +0700" stop="20261022001500 +0700" channel="6" channel-number="6">
+    <title lang="vi">Al Anwar SA VS Al Wehda</title>
+    <desc lang="vi">Giải bóng đá Hạng nhất Ả Rập Xê Út</desc>
+    <category lang="vi">BLV MOUNTAIN DEW</category>
   </programme>
-  <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="6" channel-number="6">
+  <programme start="20261022001500 +0700" stop="20261022235959 +0700" channel="6" channel-number="6">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1210,62 +1220,62 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021220000 +0700" channel="29" channel-number="29">
+  <programme start="20261021000000 +0000" stop="20261021234500 +0700" channel="29" channel-number="29">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021220000 +0700" stop="20261022001500 +0700" channel="29" channel-number="29">
+  <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="29" channel-number="29">
+    <title lang="vi">Como VS Manchester United</title>
+    <desc lang="vi">C1</desc>
+    <category lang="vi">Fan MU: Hấu</category>
+  </programme>
+  <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="29" channel-number="29">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021234500 +0700" channel="30" channel-number="30">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="30" channel-number="30">
+    <title lang="vi">Lille OSC VS Galatasaray</title>
+    <desc lang="vi">C1</desc>
+    <category lang="vi">Ngu</category>
+  </programme>
+  <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="30" channel-number="30">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021220000 +0700" channel="31" channel-number="31">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261021220000 +0700" stop="20261022001500 +0700" channel="31" channel-number="31">
     <title lang="vi">Al-Anwar  VS Al Wehda</title>
     <desc lang="vi">Cúp Hoàng tử Faisal bin Fahd</desc>
     <category lang="vi">Súp</category>
   </programme>
-  <programme start="20261022001500 +0700" stop="20261022235959 +0700" channel="29" channel-number="29">
+  <programme start="20261022001500 +0700" stop="20261022235959 +0700" channel="31" channel-number="31">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021223000 +0700" channel="30" channel-number="30">
+  <programme start="20261021000000 +0000" stop="20261021223000 +0700" channel="32" channel-number="32">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261021223000 +0700" stop="20261022010000 +0700" channel="30" channel-number="30">
+  <programme start="20261021223000 +0700" stop="20261022010000 +0700" channel="32" channel-number="32">
     <title lang="vi">Lublin  VS Gdansk</title>
     <desc lang="vi">Ba Lan - TAURON Liga</desc>
     <category lang="vi">Điếc</category>
   </programme>
-  <programme start="20261022010000 +0700" stop="20261022235959 +0700" channel="30" channel-number="30">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261021000000 +0000" stop="20261021234500 +0700" channel="31" channel-number="31">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="31" channel-number="31">
-    <title lang="vi">Como VS Manchester United</title>
-    <desc lang="vi">C1</desc>
-    <category lang="vi">benchon</category>
-  </programme>
-  <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="31" channel-number="31">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261021000000 +0000" stop="20261021234500 +0700" channel="32" channel-number="32">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="32" channel-number="32">
-    <title lang="vi">Lille OSC VS Galatasaray</title>
-    <desc lang="vi">C1</desc>
-    <category lang="vi">blv-ngu</category>
-  </programme>
-  <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="32" channel-number="32">
+  <programme start="20261022010000 +0700" stop="20261022235959 +0700" channel="32" channel-number="32">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -2266,9 +2276,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="99" channel-number="99">
-    <title lang="vi">Lille VS Galatasaray</title>
+    <title lang="vi">Como VS Manchester United</title>
     <desc lang="vi">Champions League</desc>
-    <category lang="vi">Tít</category>
+    <category lang="vi">Ricky</category>
   </programme>
   <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="99" channel-number="99">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -2281,9 +2291,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="100" channel-number="100">
-    <title lang="vi">Lille VS Galatasaray</title>
+    <title lang="vi">Como VS Manchester United</title>
     <desc lang="vi">Champions League</desc>
-    <category lang="vi">Tít</category>
+    <category lang="vi">Ricky</category>
   </programme>
   <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="100" channel-number="100">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -2296,9 +2306,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="101" channel-number="101">
-    <title lang="vi">Como VS Manchester United</title>
+    <title lang="vi">Lille VS Galatasaray</title>
     <desc lang="vi">Champions League</desc>
-    <category lang="vi">Ricky</category>
+    <category lang="vi">Tít</category>
   </programme>
   <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="101" channel-number="101">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -2311,9 +2321,9 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261021234500 +0700" stop="20261022020000 +0700" channel="102" channel-number="102">
-    <title lang="vi">Como VS Manchester United</title>
+    <title lang="vi">Lille VS Galatasaray</title>
     <desc lang="vi">Champions League</desc>
-    <category lang="vi">Ricky</category>
+    <category lang="vi">Tít</category>
   </programme>
   <programme start="20261022020000 +0700" stop="20261022235959 +0700" channel="102" channel-number="102">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
@@ -3156,6 +3166,36 @@
     <category lang="vi">LÝ LIỀU LĨNH</category>
   </programme>
   <programme start="20261022143000 +0700" stop="20261022235959 +0700" channel="158" channel-number="158">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261022143000 +0700" channel="159" channel-number="159">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261022143000 +0700" stop="20261022170000 +0700" channel="159" channel-number="159">
+    <title lang="vi">VTV BĐ Long An VS BC Thông Tin BĐ19</title>
+    <desc lang="vi">Giải bóng chuyền VĐQG 2026</desc>
+    <category lang="vi">LÝ LÊN LỬA</category>
+  </programme>
+  <programme start="20261022170000 +0700" stop="20261022235959 +0700" channel="159" channel-number="159">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261022143000 +0700" channel="160" channel-number="160">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261022143000 +0700" stop="20261022170000 +0700" channel="160" channel-number="160">
+    <title lang="vi">VTV BĐ Long An VS BC Thông Tin BĐ19</title>
+    <desc lang="vi">Giải bóng chuyền VĐQG 2026</desc>
+    <category lang="vi">LÝ LÊN LỬA</category>
+  </programme>
+  <programme start="20261022170000 +0700" stop="20261022235959 +0700" channel="160" channel-number="160">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
