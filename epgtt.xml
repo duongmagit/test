@@ -3,12 +3,12 @@
   <channel id="1">
     <display-name lang="vi">1</display-name>
     <display-number>1</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
   </channel>
   <channel id="2">
     <display-name lang="vi">2</display-name>
     <display-number>2</display-number>
-    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/MmZlNjJjNjgzNmMtYWM2MQ/NTBkOTRhMGY5ODQtZjAxOQ.png"/>
+    <icon src="https://d3j9d91vxmbmsx.cloudfront.net/admin/image/ODc0NmIxOGE1NzMtYTQ4Mw/OTBkMTE4Mzg2Y2ItYjNiOQ.png"/>
   </channel>
   <channel id="3">
     <display-name lang="vi">3</display-name>
@@ -1065,32 +1065,32 @@
     <display-number>213</display-number>
     <icon src="https://imgts.sportpulseapiz.com/football/team/gy0or5jhdpgqwzv/image/small"/>
   </channel>
-  <programme start="20261022000000 +0000" stop="20261022180000 +0700" channel="1" channel-number="1">
+  <programme start="20261022000000 +0000" stop="20261022191500 +0700" channel="1" channel-number="1">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022180000 +0700" stop="20261022201500 +0700" channel="1" channel-number="1">
-    <title lang="vi">Gia Dinh VS PVF CAND</title>
-    <desc lang="vi">Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam</desc>
-    <category lang="vi">BLV SAMURAI</category>
-  </programme>
-  <programme start="20261022201500 +0700" stop="20261022235959 +0700" channel="1" channel-number="1">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261022000000 +0000" stop="20261022191500 +0700" channel="2" channel-number="2">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261022191500 +0700" stop="20261022213000 +0700" channel="2" channel-number="2">
+  <programme start="20261022191500 +0700" stop="20261022213000 +0700" channel="1" channel-number="1">
     <title lang="vi">Cong An Ha Noi FC VS Đông Á Thanh Hóa</title>
     <desc lang="vi">Giải vô địch quốc gia Việt Nam</desc>
     <category lang="vi">BLV REVIVE</category>
   </programme>
-  <programme start="20261022213000 +0700" stop="20261022235959 +0700" channel="2" channel-number="2">
+  <programme start="20261022213000 +0700" stop="20261022235959 +0700" channel="1" channel-number="1">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261022000000 +0000" stop="20261022180000 +0700" channel="2" channel-number="2">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261022180000 +0700" stop="20261022201500 +0700" channel="2" channel-number="2">
+    <title lang="vi">Gia Dinh VS PVF CAND</title>
+    <desc lang="vi">Giải Bóng đá Hạng Nhất Quốc Gia Việt Nam</desc>
+    <category lang="vi">BLV SAMURAI</category>
+  </programme>
+  <programme start="20261022201500 +0700" stop="20261022235959 +0700" channel="2" channel-number="2">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1491,7 +1491,7 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261023020000 +0700" stop="20261023041500 +0700" channel="29" channel-number="29">
-    <title lang="vi">Câu lạc bộ AFC Ajax VS Atalanta B.C.</title>
+    <title lang="vi">Ajax VS Atalanta B.C.</title>
     <desc lang="vi">UEFA Europa Conference League</desc>
     <category lang="vi">BLV Cozy</category>
   </programme>
@@ -1536,7 +1536,7 @@
     <category lang="vi">NONE</category>
   </programme>
   <programme start="20261023020000 +0700" stop="20261023041500 +0700" channel="32" channel-number="32">
-    <title lang="vi">Omonia  VS Benfica</title>
+    <title lang="vi">Omonia VS Benfica</title>
     <desc lang="vi">Europa League</desc>
     <category lang="vi">BLV SPRITE</category>
   </programme>
