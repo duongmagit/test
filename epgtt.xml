@@ -348,7 +348,7 @@
   <channel id="70">
     <display-name lang="vi">70</display-name>
     <display-number>70</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/23xmvkh3vxvqg8n/image/small"/>
+    <icon src="https://s8tvkc.top/wp-json/s8-image/953714fd-78f0-418f-a3b7-1e2e655e613c"/>
   </channel>
   <channel id="71">
     <display-name lang="vi">71</display-name>
@@ -358,7 +358,7 @@
   <channel id="72">
     <display-name lang="vi">72</display-name>
     <display-number>72</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small"/>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/23xmvkh3vxvqg8n/image/small"/>
   </channel>
   <channel id="73">
     <display-name lang="vi">73</display-name>
@@ -368,7 +368,7 @@
   <channel id="74">
     <display-name lang="vi">74</display-name>
     <display-number>74</display-number>
-    <icon src="https://img0.aiscore.com/volleyball/team/36c10a4e1bc7d9a17ab47df2d74661a5.png!w80"/>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/l965mkyhpy5r1ge/image/small"/>
   </channel>
   <channel id="75">
     <display-name lang="vi">75</display-name>
@@ -378,7 +378,7 @@
   <channel id="76">
     <display-name lang="vi">76</display-name>
     <display-number>76</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8d9gq86p/image/small"/>
+    <icon src="https://img0.aiscore.com/volleyball/team/36c10a4e1bc7d9a17ab47df2d74661a5.png!w80"/>
   </channel>
   <channel id="77">
     <display-name lang="vi">77</display-name>
@@ -388,11 +388,16 @@
   <channel id="78">
     <display-name lang="vi">78</display-name>
     <display-number>78</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small"/>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/4wyrn4h8d9gq86p/image/small"/>
   </channel>
   <channel id="79">
     <display-name lang="vi">79</display-name>
     <display-number>79</display-number>
+    <icon src="https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small"/>
+  </channel>
+  <channel id="80">
+    <display-name lang="vi">80</display-name>
+    <display-number>80</display-number>
     <icon src="https://imgts.sportpulseapiz.com/football/team/dj2ryohy553q1zp/image/small"/>
   </channel>
   <programme start="20261022000000 +0000" stop="20261023060000 +0700" channel="1" channel-number="1">
@@ -1430,17 +1435,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022000000 +0000" stop="20261023160000 +0700" channel="70" channel-number="70">
+  <programme start="20261022000000 +0000" stop="20261023193000 +0700" channel="70" channel-number="70">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261023160000 +0700" stop="20261023181500 +0700" channel="70" channel-number="70">
-    <title lang="vi">Brisbane Roar VS Perth Glory</title>
-    <desc lang="vi">Australia A-League</desc>
-    <category lang="vi">LÝ LINH LỰC</category>
+  <programme start="20261023193000 +0700" stop="20261023214500 +0700" channel="70" channel-number="70">
+    <title lang="vi">Veres VS Kolos Kovalivka</title>
+    <desc lang="vi">UKR Premier League</desc>
+    <category lang="vi">NGƯỜI TRÂU</category>
   </programme>
-  <programme start="20261023181500 +0700" stop="20261023235959 +0700" channel="70" channel-number="70">
+  <programme start="20261023214500 +0700" stop="20261023235959 +0700" channel="70" channel-number="70">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1460,17 +1465,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022000000 +0000" stop="20261023170000 +0700" channel="72" channel-number="72">
+  <programme start="20261022000000 +0000" stop="20261023160000 +0700" channel="72" channel-number="72">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261023170000 +0700" stop="20261023191500 +0700" channel="72" channel-number="72">
-    <title lang="vi">Hoàng Anh Gia Lai VS Sông Lam Nghệ An</title>
-    <desc lang="vi">Vietnam National Champion League</desc>
-    <category lang="vi">LÝ LỀNH</category>
+  <programme start="20261023160000 +0700" stop="20261023181500 +0700" channel="72" channel-number="72">
+    <title lang="vi">Brisbane Roar VS Perth Glory</title>
+    <desc lang="vi">Australia A-League</desc>
+    <category lang="vi">LÝ LINH LỰC</category>
   </programme>
-  <programme start="20261023191500 +0700" stop="20261023235959 +0700" channel="72" channel-number="72">
+  <programme start="20261023181500 +0700" stop="20261023235959 +0700" channel="72" channel-number="72">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1495,12 +1500,12 @@
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261023170000 +0700" stop="20261023193000 +0700" channel="74" channel-number="74">
-    <title lang="vi">Denso Airybees Nữ VS Hisamitsu Springs Nữ</title>
-    <desc lang="vi">SV.League Women</desc>
-    <category lang="vi">LÝ LIỀU LĨNH</category>
+  <programme start="20261023170000 +0700" stop="20261023191500 +0700" channel="74" channel-number="74">
+    <title lang="vi">Hoàng Anh Gia Lai VS Sông Lam Nghệ An</title>
+    <desc lang="vi">Vietnam National Champion League</desc>
+    <category lang="vi">LÝ LỀNH</category>
   </programme>
-  <programme start="20261023193000 +0700" stop="20261023235959 +0700" channel="74" channel-number="74">
+  <programme start="20261023191500 +0700" stop="20261023235959 +0700" channel="74" channel-number="74">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1520,17 +1525,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022000000 +0000" stop="20261023180000 +0700" channel="76" channel-number="76">
+  <programme start="20261022000000 +0000" stop="20261023170000 +0700" channel="76" channel-number="76">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261023180000 +0700" stop="20261023201500 +0700" channel="76" channel-number="76">
-    <title lang="vi">Becamex Hồ Chí Minh VS Thai Nguyen</title>
-    <desc lang="vi">Vietnam National First Class League</desc>
-    <category lang="vi">LÝ LINH LỰC</category>
+  <programme start="20261023170000 +0700" stop="20261023193000 +0700" channel="76" channel-number="76">
+    <title lang="vi">Denso Airybees Nữ VS Hisamitsu Springs Nữ</title>
+    <desc lang="vi">SV.League Women</desc>
+    <category lang="vi">LÝ LIỀU LĨNH</category>
   </programme>
-  <programme start="20261023201500 +0700" stop="20261023235959 +0700" channel="76" channel-number="76">
+  <programme start="20261023193000 +0700" stop="20261023235959 +0700" channel="76" channel-number="76">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1550,17 +1555,17 @@
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261022000000 +0000" stop="20261023191500 +0700" channel="78" channel-number="78">
+  <programme start="20261022000000 +0000" stop="20261023180000 +0700" channel="78" channel-number="78">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
     <category lang="vi">NONE</category>
   </programme>
-  <programme start="20261023191500 +0700" stop="20261023213000 +0700" channel="78" channel-number="78">
-    <title lang="vi">Thể Công Viettel VS TDTT Bắc Ninh</title>
-    <desc lang="vi">Vietnam National Champion League</desc>
-    <category lang="vi">LÝ LONG</category>
+  <programme start="20261023180000 +0700" stop="20261023201500 +0700" channel="78" channel-number="78">
+    <title lang="vi">Becamex Hồ Chí Minh VS Thai Nguyen</title>
+    <desc lang="vi">Vietnam National First Class League</desc>
+    <category lang="vi">LÝ LINH LỰC</category>
   </programme>
-  <programme start="20261023213000 +0700" stop="20261023235959 +0700" channel="78" channel-number="78">
+  <programme start="20261023201500 +0700" stop="20261023235959 +0700" channel="78" channel-number="78">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
@@ -1576,6 +1581,21 @@
     <category lang="vi">LÝ LONG</category>
   </programme>
   <programme start="20261023213000 +0700" stop="20261023235959 +0700" channel="79" channel-number="79">
+    <title lang="vi">Chờ sự kiện tiếp theo</title>
+    <desc lang="vi">Sự kiện đã kết thúc.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261022000000 +0000" stop="20261023191500 +0700" channel="80" channel-number="80">
+    <title lang="vi">Chưa có sự kiện</title>
+    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
+    <category lang="vi">NONE</category>
+  </programme>
+  <programme start="20261023191500 +0700" stop="20261023213000 +0700" channel="80" channel-number="80">
+    <title lang="vi">Thể Công Viettel VS TDTT Bắc Ninh</title>
+    <desc lang="vi">Vietnam National Champion League</desc>
+    <category lang="vi">LÝ LONG</category>
+  </programme>
+  <programme start="20261023213000 +0700" stop="20261023235959 +0700" channel="80" channel-number="80">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
