@@ -625,16 +625,6 @@
     <display-number>125</display-number>
     <icon src="https://imgts.sportpulseapiz.com/football/team/zp5rzgh753pq82w/image/small"/>
   </channel>
-  <channel id="126">
-    <display-name lang="vi">126</display-name>
-    <display-number>126</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3woxql07/image/small"/>
-  </channel>
-  <channel id="127">
-    <display-name lang="vi">127</display-name>
-    <display-number>127</display-number>
-    <icon src="https://imgts.sportpulseapiz.com/football/team/2y8m4zh3woxql07/image/small"/>
-  </channel>
   <programme start="20261109000000 +0000" stop="20261109120000 +0700" channel="1" channel-number="1">
     <title lang="vi">Chưa có sự kiện</title>
     <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
@@ -2506,36 +2496,6 @@
     <category lang="vi">LÝ LẠNH LÙNG</category>
   </programme>
   <programme start="20261110014500 +0700" stop="20261110235959 +0700" channel="125" channel-number="125">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261109000000 +0000" stop="20261110010000 +0700" channel="126" channel-number="126">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261110010000 +0700" stop="20261110031500 +0700" channel="126" channel-number="126">
-    <title lang="vi">Botosani VS Otelul Galati</title>
-    <desc lang="vi">Romanian Super Liga</desc>
-    <category lang="vi">LÝ LÊN LỬA</category>
-  </programme>
-  <programme start="20261110031500 +0700" stop="20261110235959 +0700" channel="126" channel-number="126">
-    <title lang="vi">Chờ sự kiện tiếp theo</title>
-    <desc lang="vi">Sự kiện đã kết thúc.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261109000000 +0000" stop="20261110010000 +0700" channel="127" channel-number="127">
-    <title lang="vi">Chưa có sự kiện</title>
-    <desc lang="vi">Kênh sẽ tự động phát khi đến giờ thi đấu.</desc>
-    <category lang="vi">NONE</category>
-  </programme>
-  <programme start="20261110010000 +0700" stop="20261110031500 +0700" channel="127" channel-number="127">
-    <title lang="vi">Botosani VS Otelul Galati</title>
-    <desc lang="vi">Romanian Super Liga</desc>
-    <category lang="vi">LÝ LÊN LỬA</category>
-  </programme>
-  <programme start="20261110031500 +0700" stop="20261110235959 +0700" channel="127" channel-number="127">
     <title lang="vi">Chờ sự kiện tiếp theo</title>
     <desc lang="vi">Sự kiện đã kết thúc.</desc>
     <category lang="vi">NONE</category>
